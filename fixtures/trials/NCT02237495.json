@@ -1,0 +1,284 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02237495",
+      "orgStudyIdInfo": {
+        "id": "20140227-5"
+      },
+      "organization": {
+        "fullName": "Xijing Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Dexmedetomidine and Outcomes of Cardiac Surgery (DOCS)",
+      "officialTitle": "Perioperative Infusion of Dexmedetomidine Improves Outcomes of Cardiovascular Surgery",
+      "acronym": "DOCS"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2018-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2014-04-09",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2017-03-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2018-03",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2014-08-18",
+      "studyFirstSubmitQcDate": "2014-09-08",
+      "studyFirstPostDateStruct": {
+        "date": "2014-09-11",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2020-07-05",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-07-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "chonglei",
+        "investigatorTitle": "M.D., PhD",
+        "investigatorAffiliation": "Xijing Hospital"
+      },
+      "leadSponsor": {
+        "name": "Xijing Hospital",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "Cardiac surgery is associated with a high risk of cardiovascular and other complications. The investigators hypothesized that perioperative infusion of dexmedetomidine may reduce the incidence of complications and mortality following cardiovascular surgery.",
+      "detailedDescription": "There are about 694,000 open-heart surgeries performed in US each year. The major complication rates for valve plus coronary artery bypass graft (CABG) procedure are as high as 30.1% in Society of Thoracic Surgeons (STS) reports. Postoperative delirium, infection, acute renal failure (ARF) and major adverse cardiocerebral events (MACE) which include permanent or transient stroke, coma, perioperative myocardial infarction (MI), heart block and cardiac arrest represent the major postoperative complications. These complications translate into increased mortality and prolonged hospital stays with estimated costs exceeding $20 billion annually.6 The etiologies of these adverse events are multifactorial, but one major contributing factor is the surgical stress responses that result in increasing plasma levels of epinephrine and norepinephrine, with consequent myocardial oxygen supply demand imbalance and myocardial ischemia. More than 50% of all perioperative complications are related to adverse cardiovascular events.\n\nThe alpha-2 receptor agonists (clonidine, dexmedetomidine) currently used in clinical practice have many desirable effects that may provide myocardial protection including analgesia, anxiolysis, inhibition of central sympathetic outflow and reduction of systemic norepinephrine release that improve hemodynamic stability and positively affect myocardial oxygen supply and demand. The most widely studied alpha-2 agonist is clonidine, a long-acting partial agonist with an alpha-2 to alpha-1 selectivity ratio of 39:1. However, dexmedetomidine is a highly selective, shorter-acting intravenous alpha-2 agonist with an alpha-2 to alpha-1 selectivity ratio of 1300:1.\n\nMultiple studies have reported that dexmedetomidine has a protective effect on specific organs including heart, brain, kidney and lungs. In addition, dexmedetomidine has been shown to have anti-inflammatory properties decreasing mortality and attenuating plasma cytokine concentrations in laboratory animals exposed to endotoxin in a dose-dependent fashion. The investigators hypothesized that dexmedetomidine may provide myocardial, brain, renal and immune function protection for cardiovascular surgical patients. The specific aim of this study was to investigate whether the perioperative use of dexmedetomidine is associated with improved outcomes and a decreased incidence in postoperative mortality, MACE or other complications in patients undergoing open-heart surgery."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Heart Valve Diseases",
+        "Coronary Artery Disease"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 1100,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Saline",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Normal saline as placebo is continuously infused right after anesthesia induction and lasts for 12 hrs with the same infusion rate as the comparator dexmedetomidine",
+          "interventionNames": [
+            "Drug: placebo"
+          ]
+        },
+        {
+          "label": "dexmedetomidine",
+          "type": "EXPERIMENTAL",
+          "description": "dexmedetomidine intravenous infusion starts right after anesthesia induction in the operating room and last for 12 hours into ICU with a infusion dose of 0.4 ug/kg/h. To avoid potential cause of bradycardia, no dexmedetomidine bolus is given.",
+          "interventionNames": [
+            "Drug: dexmedetomidine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "dexmedetomidine",
+          "description": "dexmedetomidine with the dose of 0.4 ug/kg/h is continuously infused right after anesthesia induction and lasts for 12 hrs.",
+          "armGroupLabels": [
+            "dexmedetomidine"
+          ],
+          "otherNames": [
+            "Precedex"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "placebo",
+          "description": "The vehicle of dexmedetomidine, normal saline is continuously infused right after anesthesia induction and lasts for 12 hrs with the same rate of the treatment arm.",
+          "armGroupLabels": [
+            "Saline"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "1-year all cause of mortality and major postoperative complications",
+          "description": "Postoperative delirium, infection, acute renal failure (ARF) and major adverse cardiocerebral events (MACE) which includes permanent or transient stroke, coma, perioperative myocardial infarction (MI), heart block and cardiac arrest represent major postoperative complications.",
+          "timeFrame": "1 year after operation"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "All cause mortality and major complications",
+          "description": "Infection, renal failure, need for dialysis, and major adverse cardiocerebral events (MACE) which includes permanent or transient stroke, coma, perioperative myocardial infarction (MI), heart block and cardiac arrest represent major complications",
+          "timeFrame": "The participants will be tightly observed for the duration of hospital stay, an expected average of 10 days and at 30 days after operation,"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "postoperative hospital stay",
+          "description": "Record the time of post operative stay",
+          "timeFrame": "the number of days between the operation and discharge, an expected average of 12 days"
+        },
+        {
+          "measure": "ICU-stay",
+          "description": "It is the length of stay in ICU",
+          "timeFrame": "the number of days the patients stay in the ICU after surgery, an expected average of 3 days"
+        },
+        {
+          "measure": "Incidence of prolonged ventilation",
+          "description": "Prolonged ventilation is defined as patients remaining on the ventilator for more than 48 hours",
+          "timeFrame": "the duration of intubation is the time from trachea intubation to extubation, an expected average of 20 hours"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Provide written informed consent\n* Are \\> 18 years of age\n* Elective cardiac surgery with CPB, when the surgeon plans to do valve and/or CABG surgery\n\nExclusion Criteria:\n\n* Emergent cardiac surgery\n* Other than CABG and/or Valve surgery\n* off-pump or robotic surgery\n* Surgery requiring deep hypothermic circulatory arrest or involving the thoracic aorta\n* Life expectancy \\< 1 year\n* Preop severe liver or renal dysfunction, with replacement therapy required\n* Patients with IABP or with cardiogenic shock\n* Severe dehydrate or dystrophia or Hb \\< 10 g/dl\n* History of any alpha-2 receptor agonists allergy.\n* Refuse to provide written informed consent\n* Diagnosed with mental illness",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Hailong Dong, M.D., Ph.D.,",
+          "affiliation": "Xijing Hospital",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Xijing Hospital",
+          "city": "Xi'an",
+          "state": "Shaanxi",
+          "zip": "710032",
+          "country": "China",
+          "geoPoint": {
+            "lat": 34.25833,
+            "lon": 108.92861
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "41238464",
+          "type": "DERIVED",
+          "citation": "Lei C, Zheng Z, Han J, Wang L, Zhai W, Li C, Hou L, Yu S, Liu J, Xu X, Wang S, Guo X, Zhang T, Zhou J, Zou J, Tian Y, Chi X, Qiu L, Xu M, Zhang X, Huang W, Chen Y, Yan M, Wang H, Xia J, Wang L, Liu H, Dong H. Effects of Dexmedetomidine on Outcomes After Cardiac Surgery (DOCS): a randomised double-blind, placebo-controlled trial. Br J Anaesth. 2026 Jan;136(1):55-64. doi: 10.1016/j.bja.2025.09.026. Epub 2025 Nov 14."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D006349",
+          "term": "Heart Valve Diseases"
+        },
+        {
+          "id": "D003324",
+          "term": "Coronary Artery Disease"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D003327",
+          "term": "Coronary Disease"
+        },
+        {
+          "id": "D017202",
+          "term": "Myocardial Ischemia"
+        },
+        {
+          "id": "D001161",
+          "term": "Arteriosclerosis"
+        },
+        {
+          "id": "D001157",
+          "term": "Arterial Occlusive Diseases"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D020927",
+          "term": "Dexmedetomidine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007093",
+          "term": "Imidazoles"
+        },
+        {
+          "id": "D001393",
+          "term": "Azoles"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

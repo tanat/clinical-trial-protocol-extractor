@@ -1,0 +1,56 @@
+{
+  "phase": "PHASE_2_3",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Severity of PTSD, depression, anxiety and general function",
+      "timeFrame": "Measured pre- and post-treatment"
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "DSM-IV criteria for PTSD at least 12 weeks after sexual assault",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "PTSD symptoms that result from sexual assault and not from another traumatic experience",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "DSM-IV criteria for schizophrenia or delusional disorder",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Unstable bipolar disorder, depression with psychotic features, or depression severe enough to require immediate psychiatric treatment. Clients who are medicated and still meet current criteria for these disorders will be excluded.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Substance dependence",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Continued intimate relationship with the assailant",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "BEHAVIORAL",
+      "name": "Prolonged Exposure (PE)"
+    },
+    {
+      "type": "BEHAVIORAL",
+      "name": "Treatment as usual group therapy (TUGT)"
+    },
+    {
+      "type": "BEHAVIORAL",
+      "name": "Supportive counseling (SC)"
+    }
+  ]
+}

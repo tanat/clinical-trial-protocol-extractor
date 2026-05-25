@@ -1,0 +1,452 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06619301",
+      "orgStudyIdInfo": {
+        "id": "217918"
+      },
+      "organization": {
+        "fullName": "Loyola University",
+        "class": "OTHER"
+      },
+      "briefTitle": "RCT Glargine vs NPH for Treatment of DM in Pregnancy",
+      "officialTitle": "Randomized Controlled Trial of Glargine Versus Neutral Protamine Hagedorn Insulin for the Treatment of Diabetes Mellitus in Pregnancy"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-09",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2024-04-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-04-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-01-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2024-09-25",
+      "studyFirstSubmitQcDate": "2024-09-26",
+      "studyFirstPostDateStruct": {
+        "date": "2024-10-01",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-09-26",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-10-01",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Joana Perdigao",
+        "investigatorTitle": "Assistant Professor",
+        "investigatorAffiliation": "Loyola University"
+      },
+      "leadSponsor": {
+        "name": "Loyola University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": true
+    },
+    "descriptionModule": {
+      "briefSummary": "We are asking you to take part in this research study because you are diagnosed with pregestational Type 2 Diabetes Mellitus or Gestational Diabetes Mellitus requiring insulin therapy in pregnancy. Currently, many hospitals differ among use of insulin for management of DM in pregnancy, with NPH, glargine and detemir being the most commonly used forms of basal insulin. Outside of pregnancy, NPH is rarely used with glargine and determir being the more common forms of insulin used due to their fewer episodes of hypoglycemia in these patients. Detemir has been well studied in pregnancy and found to be noninferior to NPH. Unfortunately, glargine has not been as well studied in pregnancy. Thus, with this study we want to compare glargine and NPH.\n\nThe purpose of this study is to compare two different forms of insulin (Glargine and NPH) that we regularly use to manage diabetes mellitus in pregnancy.",
+      "detailedDescription": "This is an open-label, noninferiority, prospective randomized study. Patients will be randomized to either be treated with NPH insulin for management of diabetes mellitus in pregnancy, or with Glargine insulin. We will include all pregnant patients managed by the Maternal Fetal Medicine team at Loyola University of Medical Center that have pregestational Type 2 Diabetes Mellitus or Gestational Diabetes Mellitus requiring insulin. Our primary outcome is hypoglycemia.\n\nWe provide patients with insulin teaching, a referral to diabetic nutrition education, and instructions for hypoglycemic events. Patients are instructed to continue monitoring blood glucose 4 times a day (fasting and 2 hours after each meal), log their blood glucose values in MyLoyola chart, continue routine prenatal care with maternal fetal medicine/high risk obstetric clinic, and continue routine ultrasound with serial growth ultrasounds and antenatal fetal surveillance. The study is voluntary, and the patients will receive the same care and number of visits regardless of whether they choose to participate in the study or not, regardless of which arm they are in within the RCT."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Diabetes Mellitus in Pregnancy",
+        "Type 2 Diabetes Mellitus (T2DM)",
+        "Gestational Diabetes Mellitus, Class A2"
+      ],
+      "keywords": [
+        "Glargine",
+        "NPH",
+        "Hypoglycemia"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Each patient will continue management of diabetes mellitus in pregnancy with whichever medication they randomize to, Glargine or NPH. Analysis will be intention-to-treat.",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE",
+          "maskingDescription": "It is not documented in the patient\\&#39;s electronic medical record if they are in the study and were randomized or if they declined randomization."
+        }
+      },
+      "enrollmentInfo": {
+        "count": 160,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Insulin Glargine",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Insulin Glargine dosed 1-2 times daily throughout pregnancy for management of diabetes mellitus.",
+          "interventionNames": [
+            "Drug: Insulin glargine"
+          ]
+        },
+        {
+          "label": "Insulin NPH",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Insulin NPH dosed 1-2 times daily throughout pregnancy for management of diabetes mellitus.",
+          "interventionNames": [
+            "Drug: insulin NPH"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Insulin glargine",
+          "description": "Insulin Glargine is regularly used outside of pregnancy and its efficacy is well documented. It is a current medication we regularly use in pregnancy, however, there is limited data for comparison to the standard, NPH.",
+          "armGroupLabels": [
+            "Insulin Glargine"
+          ],
+          "otherNames": [
+            "Lantus",
+            "Toujeo",
+            "Basaglar",
+            "Semglee"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "insulin NPH",
+          "description": "Insulin NPH is a current medication used in pregnancy for diabetes mellitus. It has been used as the standard form of insulin.",
+          "armGroupLabels": [
+            "Insulin NPH"
+          ],
+          "otherNames": [
+            "Novolin",
+            "Humulin"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Hypoglycemia",
+          "description": "Episodes of hypoglycemia with blood glucose less than 60 mg/dL",
+          "timeFrame": "From initiation of insulin therapy to delivery"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Large for Gestational Age",
+          "description": "Birth weight greater than or equal to the 90th percentile for gestational age",
+          "timeFrame": "At delivery"
+        },
+        {
+          "measure": "Shoulder dystocia",
+          "description": "Diagnosed by delivering providing",
+          "timeFrame": "At delivery"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patient requiring initiation of insulin therapy for Gestational Diabetes Mellitus or Type 2 Diabetes Mellitus in pregnancy\n* At least 18 years old\n* Insulin started prior to 34 weeks gestation\n* Established prenatal care by 14 weeks gestation\n\nExclusion Criteria:\n\n* Those under the age of 18 years old\n* Those unable to consent in english\n* Allergy to insulin\n* Controlled with only diet modification or the use of oral antihyperglycemics\n* Has diagnosis of Type 1 Diabetes Mellitus\n* Receiving insulin through an insulin pump",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Joana Lopes Perdigao, MD",
+          "role": "CONTACT",
+          "phone": "708-216-4033",
+          "phoneExt": "2",
+          "email": "joana.perdigao@lumc.edu"
+        },
+        {
+          "name": "Nuong Truong, MD",
+          "role": "CONTACT",
+          "phone": "708-216-4033",
+          "phoneExt": "2",
+          "email": "nuong.t.truong@luhs.org"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Joana Lopes Perdigao, MD",
+          "affiliation": "Loyola University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Loyola University Medical Center",
+          "status": "RECRUITING",
+          "city": "Maywood",
+          "state": "Illinois",
+          "zip": "60153",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Joana Lopes Perdigao, MD",
+              "role": "CONTACT",
+              "phone": "708-216-4033",
+              "phoneExt": "2",
+              "email": "joana.perdigao@lumc.edu"
+            },
+            {
+              "name": "Nuong Truong, MD",
+              "role": "CONTACT",
+              "phone": "708-216-4033",
+              "phoneExt": "2",
+              "email": "nuong.t.truong@luhs.org"
+            },
+            {
+              "name": "Joana Lopes Perdigao, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.8792,
+            "lon": -87.84312
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "15855602",
+          "type": "BACKGROUND",
+          "citation": "Workgroup on Hypoglycemia, American Diabetes Association. Defining and reporting hypoglycemia in diabetes: a report from the American Diabetes Association Workgroup on Hypoglycemia. Diabetes Care. 2005 May;28(5):1245-9. doi: 10.2337/diacare.28.5.1245. No abstract available."
+        },
+        {
+          "pmid": "18979406",
+          "type": "BACKGROUND",
+          "citation": "Smith JG, Manuck TA, White J, Merrill DC. Insulin glargine versus neutral protamine Hagedorn insulin for treatment of diabetes in pregnancy. Am J Perinatol. 2009 Jan;26(1):57-62. doi: 10.1055/s-0028-1095181. Epub 2008 Oct 31."
+        },
+        {
+          "pmid": "20378197",
+          "type": "BACKGROUND",
+          "citation": "Negrato CA, Rafacho A, Negrato G, Teixeira MF, Araujo CA, Vieira L, Silva CA, Date SK, Demarchi AC, Gomes MB. Glargine vs. NPH insulin therapy in pregnancies complicated by diabetes: an observational cohort study. Diabetes Res Clin Pract. 2010 Jul;89(1):46-51. doi: 10.1016/j.diabres.2010.03.015. Epub 2010 Apr 7."
+        },
+        {
+          "pmid": "25855052",
+          "type": "BACKGROUND",
+          "citation": "Lv S, Wang J, Xu Y. Safety of insulin analogs during pregnancy: a meta-analysis. Arch Gynecol Obstet. 2015 Oct;292(4):749-56. doi: 10.1007/s00404-015-3692-3. Epub 2015 Apr 9."
+        },
+        {
+          "pmid": "19330710",
+          "type": "BACKGROUND",
+          "citation": "Fang YM, MacKeen D, Egan JF, Zelop CM. Insulin glargine compared with Neutral Protamine Hagedorn insulin in the treatment of pregnant diabetics. J Matern Fetal Neonatal Med. 2009 Mar;22(3):249-53. doi: 10.1080/14767050802638170."
+        },
+        {
+          "pmid": "19370512",
+          "type": "BACKGROUND",
+          "citation": "Egerman RS, Ramsey RD, Kao LW, Bringman JJ, Haerian H, Kao JL, Bush AJ. Perinatal outcomes in pregnancies managed with antenatal insulin glargine. Am J Perinatol. 2009 Sep;26(8):591-5. doi: 10.1055/s-0029-1220782. Epub 2009 Apr 15."
+        },
+        {
+          "pmid": "17261126",
+          "type": "BACKGROUND",
+          "citation": "Price N, Bartlett C, Gillmer M. Use of insulin glargine during pregnancy: a case-control pilot study. BJOG. 2007 Apr;114(4):453-7. doi: 10.1111/j.1471-0528.2006.01216.x. Epub 2007 Jan 25."
+        },
+        {
+          "pmid": "33865836",
+          "type": "BACKGROUND",
+          "citation": "Fishel Bartal M, Ward C, Blackwell SC, Ashby Cornthwaite JA, Zhang C, Refuerzo JS, Pedroza C, Lee KH, Chauhan SP, Sibai BM. Detemir vs neutral protamine Hagedorn insulin for diabetes mellitus in pregnancy: a comparative effectiveness, randomized controlled trial. Am J Obstet Gynecol. 2021 Jul;225(1):87.e1-87.e10. doi: 10.1016/j.ajog.2021.04.223. Epub 2021 Apr 15."
+        },
+        {
+          "pmid": "26070699",
+          "type": "BACKGROUND",
+          "citation": "Herrera KM, Rosenn BM, Foroutan J, Bimson BE, Al Ibraheemi Z, Moshier EL, Brustman LE. Randomized controlled trial of insulin detemir versus NPH for the treatment of pregnant women with diabetes. Am J Obstet Gynecol. 2015 Sep;213(3):426.e1-7. doi: 10.1016/j.ajog.2015.06.010. Epub 2015 Jun 9."
+        },
+        {
+          "pmid": "14632712",
+          "type": "BACKGROUND",
+          "citation": "Barnett AH. A review of basal insulins. Diabet Med. 2003 Nov;20(11):873-85. doi: 10.1046/j.1464-5491.2003.00996.x."
+        },
+        {
+          "pmid": "15647580",
+          "type": "BACKGROUND",
+          "citation": "Hirsch IB. Insulin analogues. N Engl J Med. 2005 Jan 13;352(2):174-83. doi: 10.1056/NEJMra040832. No abstract available."
+        },
+        {
+          "pmid": "29370047",
+          "type": "BACKGROUND",
+          "citation": "ACOG Practice Bulletin No. 190: Gestational Diabetes Mellitus. Obstet Gynecol. 2018 Feb;131(2):e49-e64. doi: 10.1097/AOG.0000000000002501."
+        },
+        {
+          "pmid": "30461693",
+          "type": "BACKGROUND",
+          "citation": "American College of Obstetricians and Gynecologists' Committee on Practice Bulletins-Obstetrics. ACOG Practice Bulletin No. 201: Pregestational Diabetes Mellitus. Obstet Gynecol. 2018 Dec;132(6):e228-e248. doi: 10.1097/AOG.0000000000002960."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot_SAP",
+          "hasProtocol": true,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Study Protocol and Statistical Analysis Plan",
+          "date": "2024-07-09",
+          "uploadDate": "2024-09-25T14:25",
+          "filename": "Prot_SAP_000.pdf",
+          "size": 328781
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2024-02-01",
+          "uploadDate": "2024-09-25T14:26",
+          "filename": "ICF_001.pdf",
+          "size": 624561
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016640",
+          "term": "Diabetes, Gestational"
+        },
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D007003",
+          "term": "Hypoglycemia"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D011248",
+          "term": "Pregnancy Complications"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069036",
+          "term": "Insulin Glargine"
+        },
+        {
+          "id": "D007336",
+          "term": "Insulin, Isophane"
+        },
+        {
+          "id": "D007328",
+          "term": "Insulin"
+        },
+        {
+          "id": "D061386",
+          "term": "Insulin, Regular, Human"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D049528",
+          "term": "Insulin, Long-Acting"
+        },
+        {
+          "id": "D061385",
+          "term": "Insulins"
+        },
+        {
+          "id": "D010187",
+          "term": "Pancreatic Hormones"
+        },
+        {
+          "id": "D036361",
+          "term": "Peptide Hormones"
+        },
+        {
+          "id": "D006728",
+          "term": "Hormones"
+        },
+        {
+          "id": "D006730",
+          "term": "Hormones, Hormone Substitutes, and Hormone Antagonists"
+        },
+        {
+          "id": "D010455",
+          "term": "Peptides"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D011384",
+          "term": "Proinsulin"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

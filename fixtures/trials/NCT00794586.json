@@ -1,0 +1,596 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00794586",
+      "orgStudyIdInfo": {
+        "id": "GS-US-207-0103"
+      },
+      "organization": {
+        "fullName": "Gilead Sciences",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Study Evaluating Fosfomycin/Tobramycin for Inhalation in Cystic Fibrosis Patients With Pseudomonas Aeruginosa Lung Infection",
+      "officialTitle": "A Phase 2, Double-Blind, Multicenter, Randomized, Placebo-Controlled Trial Evaluating Fosfomycin/Tobramycin for Inhalation in Patients With Cystic Fibrosis and Pseudomonas Aeruginosa"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2013-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2008-11"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2010-02",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2010-03",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2008-11-18",
+      "studyFirstSubmitQcDate": "2008-11-19",
+      "studyFirstPostDateStruct": {
+        "date": "2008-11-20",
+        "type": "ESTIMATED"
+      },
+      "dispFirstSubmitDate": "2013-12-03",
+      "dispFirstSubmitQcDate": "2013-12-03",
+      "dispFirstPostDateStruct": {
+        "date": "2013-12-27",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2013-12-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2013-12-27",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Gilead Sciences",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to evaluate the safety and efficacy of 2 dose combinations of fosfomycin/tobramycin for inhalation (FTI), following a 28-day course of Aztreonam for Inhalation (AZLI) in patients with cystic fibrosis and Pseudomonas aeruginosa lung infection.",
+      "detailedDescription": "Gilead is developing a broad spectrum combination antibiotic (FTI) consisting of fosfomycin (an antibiotic with activity against gram-positive and gram-negative bacteria) and tobramycin (an aminoglycoside antibiotic with potent gram-negative activity) for treatment of patients with CF. FTI offers a potential option for treatment of CF lung infections. It is important to note that the concentration of tobramycin in FTI is lower than that of the approved dose of inhaled tobramycin alone, thereby demonstrating the potential of FTI to minimize long-term toxicity from repeated exposure to aminoglycosides like tobramycin. This study will evaluate the safety and efficacy of 2 dose combinations of fosfomycin/tobramycin for inhalation (FTI), following a 28-day course of Aztreonam for Inhalation (AZLI) in patients with cystic fibrosis and Pseudomonas aeruginosa lung infection."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cystic Fibrosis"
+      ],
+      "keywords": [
+        "cystic fibrosis",
+        "CF",
+        "inhaled antibiotic",
+        "antipseudomonal antibiotic",
+        "tobramycin",
+        "fosfomycin",
+        "lung infection",
+        "pseudomonal infection",
+        "FTI"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 120,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "FTI 80mg/20mg BID",
+          "type": "EXPERIMENTAL",
+          "description": "Fosfomycin/Tobramycin combination 80mg/20 mg inhaled twice daily",
+          "interventionNames": [
+            "Drug: FTI, AZLI"
+          ]
+        },
+        {
+          "label": "FTI 160mg/40mg BID",
+          "type": "EXPERIMENTAL",
+          "description": "Fosfomycin/Tobramycin combination 160 mg/40 mg inhaled twice daily",
+          "interventionNames": [
+            "Drug: FTI, AZLI"
+          ]
+        },
+        {
+          "label": "Placebo A BID",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Placebo A inhaled twice daily",
+          "interventionNames": [
+            "Drug: Placebo, AZLI"
+          ]
+        },
+        {
+          "label": "Placebo B BID",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Placebo B inhaled twice daily",
+          "interventionNames": [
+            "Drug: Placebo, AZLI"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "FTI, AZLI",
+          "description": "Evaluation of 2 dosage combinations of fosfomycin and tobramycin inhaled twice daily for 28 days following 28 days of inhaled AZLI (Aztreonam Lysine for Inhalation)",
+          "armGroupLabels": [
+            "FTI 160mg/40mg BID",
+            "FTI 80mg/20mg BID"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo, AZLI",
+          "description": "Volume-matched placebo inhaled twice daily for 28 days following 28 days of AZLI (Aztreonam Lysine for Inhalation).",
+          "armGroupLabels": [
+            "Placebo A BID",
+            "Placebo B BID"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Relative change in lung function from baseline at Day 28.",
+          "timeFrame": "28 Days"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Males or females aged 18 years and older\n* Patients with CF as diagnosed by one of the following:\n\n  * Documented sweat chloride greater than or equal to 60 mEq/L by quantitative pilocarpine iontophoresis test, OR\n  * Documented sweat sodium greater than or equal to 60 mmol/L, OR\n  * Abnormal nasal potential difference, OR\n  * Two well-characterized genetic mutations in the CF transmembrane conductance regulator (CFTR) gene, AND\n  * Accompanying symptoms characteristic of CF\n* Documented presence of PA in an expectorated sputum or throat swab culture at Visit 1 OR documented PA in 2 expectorated sputum or throat swab cultures within 12 months prior to Visit 1; one of the previous PA-positive cultures must be within 3 months prior to Visit 1\n* Patients must be able to provide written informed consent prior to any study related procedures\n* FEV1 greater than or equal to 25% and less than or equal to 75% predicted at Visit 1\n* Ability to perform reproducible pulmonary function tests\n* Chest radiograph at Visit 1 without significant acute findings (e.g., infiltrates \\[lobar or diffuse interstitial\\], pleural effusion, pneumothorax); or chest radiograph, CT, or MRI obtained within the 90 days prior to Visit 1 without acute findings or significant intercurrent illness; chronic, stable findings (e.g., chronic scarring or atelectasis) are allowed.\n\nExclusion Criteria:\n\n* Current use of oral corticosteroids in doses exceeding the equivalent of 10 mg prednisone a day or 20 mg prednisone every other day\n* History of sputum or throat swab culture yielding B. cepacia in the previous 2 years\n* Current requirement for daily continuous oxygen supplementation or requirement for more than 2 L/minute at night\n* Administration of any investigational drug or device within 28 days of Visit 1 or within 6 half-lives of the investigational drug (whichever is longer)\n* Known local or systemic hypersensitivity to monobactam antibiotics\n* Known allergies/intolerance to tobramycin or other aminoglycosides\n* Known allergies/intolerance to fosfomycin\n* Inability to tolerate inhalation of a short acting beta2 agonist\n* Changes in or initiation of chronic azithromycin treatment within 14 days prior to Visit 1\n* Administration of antipseudomonal antibiotics by inhalation, IV, or oral routes within the 14 days prior to Visit 1\n* Changes in antimicrobial, bronchodilator (BD), corticosteroid, hypertonic saline, or dornase alfa medications within 7 days prior to Visit 1\n* Changes in physiotherapy technique or schedule within 7 days prior to Visit 1\n* History of lung transplantation\n* Abnormal renal or hepatic function or serum chemistry at Visit 1, defined as:\n\n  * AST, ALT \\> 3 times upper limit of normal range (ULN)\n  * Creatinine \\> 1.5 times ULN\n* Positive pregnancy test at Visit 1; all women of childbearing potential will be tested\n* Female patients of childbearing potential who are lactating or are not (in the opinion of the investigator) practicing an acceptable method of birth control; female patients who utilize hormonal contraceptives as a birth control method must have used the same method for at least 3 months before study dosing\n* Any serious or active medical or psychiatric illness, which in the opinion of the investigator, would interfere with patient treatment, assessment, or compliance with the protocol",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Bruce Trapnell, MD",
+          "affiliation": "Children's Hospital Medical Center, Cincinnati",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "city": "Anchorage",
+          "state": "Alaska",
+          "zip": "99508",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 61.21806,
+            "lon": -149.90028
+          }
+        },
+        {
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85016",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.44838,
+            "lon": -112.07404
+          }
+        },
+        {
+          "city": "Tucson",
+          "state": "Arizona",
+          "zip": "85724",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.22174,
+            "lon": -110.92648
+          }
+        },
+        {
+          "city": "Little Rock",
+          "state": "Arkansas",
+          "zip": "72205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.74648,
+            "lon": -92.28959
+          }
+        },
+        {
+          "city": "Palo Alto",
+          "state": "California",
+          "zip": "94304",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.44188,
+            "lon": -122.14302
+          }
+        },
+        {
+          "city": "Denver",
+          "state": "Colorado",
+          "zip": "80206",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.73915,
+            "lon": -104.9847
+          }
+        },
+        {
+          "city": "Hartford",
+          "state": "Connecticut",
+          "zip": "06102",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.76371,
+            "lon": -72.68509
+          }
+        },
+        {
+          "city": "New Haven",
+          "state": "Connecticut",
+          "zip": "06520",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.30815,
+            "lon": -72.92816
+          }
+        },
+        {
+          "city": "Washington D.C.",
+          "state": "District of Columbia",
+          "zip": "20010",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.89511,
+            "lon": -77.03637
+          }
+        },
+        {
+          "city": "Orlando",
+          "state": "Florida",
+          "zip": "32803",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.53834,
+            "lon": -81.37924
+          }
+        },
+        {
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33606",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60614",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "city": "Glenview",
+          "state": "Illinois",
+          "zip": "60025",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.06975,
+            "lon": -87.78784
+          }
+        },
+        {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02114",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "city": "Ann Arbor",
+          "state": "Michigan",
+          "zip": "48109",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.27756,
+            "lon": -83.74088
+          }
+        },
+        {
+          "city": "Detroit",
+          "state": "Michigan",
+          "zip": "48201",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.33143,
+            "lon": -83.04575
+          }
+        },
+        {
+          "city": "Las Vegas",
+          "state": "Nevada",
+          "zip": "89107",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.17497,
+            "lon": -115.13722
+          }
+        },
+        {
+          "city": "Albany",
+          "state": "New York",
+          "zip": "12208",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.65258,
+            "lon": -73.75623
+          }
+        },
+        {
+          "city": "Buffalo",
+          "state": "New York",
+          "zip": "14222",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.88645,
+            "lon": -78.87837
+          }
+        },
+        {
+          "city": "New Hyde Park",
+          "state": "New York",
+          "zip": "11040",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.7351,
+            "lon": -73.68791
+          }
+        },
+        {
+          "city": "New York",
+          "state": "New York",
+          "zip": "10032",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "city": "Syracuse",
+          "state": "New York",
+          "zip": "13210",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.04812,
+            "lon": -76.14742
+          }
+        },
+        {
+          "city": "Chapel Hill",
+          "state": "North Carolina",
+          "zip": "27599",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.9132,
+            "lon": -79.05584
+          }
+        },
+        {
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12711,
+            "lon": -84.51439
+          }
+        },
+        {
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44106",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.4995,
+            "lon": -81.69541
+          }
+        },
+        {
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "city": "Oklahoma City",
+          "state": "Oklahoma",
+          "zip": "73112",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.46756,
+            "lon": -97.51643
+          }
+        },
+        {
+          "city": "Hershey",
+          "state": "Pennsylvania",
+          "zip": "17033",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.28592,
+            "lon": -76.65025
+          }
+        },
+        {
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19102",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95238,
+            "lon": -75.16362
+          }
+        },
+        {
+          "city": "Charleston",
+          "state": "South Carolina",
+          "zip": "29425",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.77632,
+            "lon": -79.93275
+          }
+        },
+        {
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "city": "San Antonio",
+          "state": "Texas",
+          "zip": "78212",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.42412,
+            "lon": -98.49363
+          }
+        },
+        {
+          "city": "Portsmouth",
+          "state": "Virginia",
+          "zip": "23708",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.83543,
+            "lon": -76.29827
+          }
+        },
+        {
+          "city": "Richmond",
+          "state": "Virginia",
+          "zip": "23298",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.55376,
+            "lon": -77.46026
+          }
+        },
+        {
+          "city": "Tacoma",
+          "state": "Washington",
+          "zip": "98405",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.25288,
+            "lon": -122.44429
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003550",
+          "term": "Cystic Fibrosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D010182",
+          "term": "Pancreatic Diseases"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        },
+        {
+          "id": "D030342",
+          "term": "Genetic Diseases, Inborn"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        },
+        {
+          "id": "D007232",
+          "term": "Infant, Newborn, Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

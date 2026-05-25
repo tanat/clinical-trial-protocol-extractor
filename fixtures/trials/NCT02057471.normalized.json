@@ -1,0 +1,64 @@
+{
+  "phase": "PHASE_4",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Number of patients transfused allogenic red blood cells",
+      "timeFrame": "Patients will be followed from recruitment to the study until postoperative discharge from hospital, which will be an expected average of 4 weeks",
+      "description": "To determine if the administration of intravenous iron reduces the number of expected allogenic red blood cell transfusions from recruitment to the perioperative phase"
+    },
+    {
+      "measure": "Hemoglobin levels",
+      "timeFrame": "Patients will be followed from recruitment to the study until 8 weeks post operatively, which will be an expected average of 10 weeks",
+      "description": "To determine if intravenous iron significantly increases hemoglobin levels in the preoperative optimization of patients"
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Age > 18 years",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Diagnosed with colonic or rectal adenocarcinoma",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Defined date of operation at least 14 days from recruitment to study",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Confirmed anemia",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Females of child bearing age must agree to use a medically accepted form of contraceptive",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patient's who are unable to consent",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Recognized allergy or intolerance of the study drug or excipients",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients with previous or current hematological disease that in the investigators' opinion would confound the diagnosis of anemia",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "Intravenous ferric carboxymaltose"
+    }
+  ]
+}

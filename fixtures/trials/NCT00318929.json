@@ -1,0 +1,540 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00318929",
+      "orgStudyIdInfo": {
+        "id": "VCUHM10204"
+      },
+      "organization": {
+        "fullName": "Virginia Commonwealth University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Tolerability and Efficacy of Depakote-extended Release in the Elderly",
+      "officialTitle": "Tolerability and Efficacy of Depakote-ER in the Elderly"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2018-01",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2006-04"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2008-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2008-01",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2006-04-25",
+      "studyFirstSubmitQcDate": "2006-04-25",
+      "studyFirstPostDateStruct": {
+        "date": "2006-04-27",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2009-03-31",
+      "resultsFirstSubmitQcDate": "2010-06-14",
+      "resultsFirstPostDateStruct": {
+        "date": "2010-07-09",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2018-01-08",
+      "lastUpdatePostDateStruct": {
+        "date": "2018-02-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Virginia Commonwealth University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Abbott",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "There is a bimodal distribution to the new onset seizures with one peak occurring in the very young and the second peak occurring in persons over age 65 years. The presentation of seizures in the elderly may vary from that of younger patients and the diagnosis may be confused with other conditions such as transient ischemic attacks. However, the consequences of epilepsy in the elderly can be severe leading to impaired cognition, increased falls, and a decreased quality of life. The treatment of epilepsy may be complicated by pharmacokinetic and pharmacodynamic changes occurring in the elderly.",
+      "detailedDescription": "There is a bimodal distribution to the new onset seizures with one peak occurring in the very young and the second peak occurring in persons over age 65 years. The presentation of seizures in the elderly may vary from that of younger patients and the diagnosis may be confused with other conditions such as transient ischemic attacks. However, the consequences of epilepsy in the elderly can be severe leading to impaired cognition, increased falls, and a decreased quality of life. The treatment of epilepsy may be complicated by pharmacokinetic and pharmacodynamic changes occurring in the elderly.\n\nThree Veterans Cooperative trials evaluating antiepileptic drug (AED) therapy in the elderly demonstrated that the ability to tolerate the AED is a more determining factor for long term success than the ability to suppress seizure activity. In general, elderly patients appear more intolerable to medications. This may stem from co-morbid conditions, concurrent medications, pharmacokinetic changes, and/or pharmacodynamic changes. Therefore, it is important to study the efficacy and tolerability of AEDs in the elderly.\n\nValproic acid has been available for the treatment of partial and generalized seizures since 1978. Sodium divalproex is metabolized in the gut to valproic acid. Depakote and Depakote-ER (extended release)are among the dosage forms of sodium divalproex. Depakote is an enteric coated tablet that is designed to dissolve in the more alkaline milieu of the small intestine rather than the more acidic milieu of the stomach. This helps the drug to bypass the stomach and reduces gastrointestinal distress. Once the enteric coating dissolves, the sodium divalproex is metabolized to valproic acid and rapidly absorbed. Depakote is administered twice a day. Depakote-ER is a controlled release drug delivery system designed to release drug over a 22 hour period which allows for once a day dosing. The efficacy and tolerability of Depakote-ER has not been described in elderly patients with epilepsy."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Elderly",
+        "Epilepsy",
+        "Seizures"
+      ],
+      "keywords": [
+        "Treatment Efficacy",
+        "pharmacokinetics"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 14,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Divalproex Sodium Extended-Release Tablets",
+          "description": "Once a day dosing"
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Effectiveness of Medication as Measured by Participation Through the End of the Trial.",
+          "description": "Number of participants completing the trial",
+          "timeFrame": "24 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Patient's Compliance With Once a Day Dosing.",
+          "description": "Subjects pill count for once a day dosing and compliance with medication as a percent of total doses prescribed.",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Number of Seizures Per Month",
+          "description": "Count of seizures per month determined by seizures recorded in diaries.",
+          "timeFrame": "24 weeks"
+        },
+        {
+          "measure": "Change From Baseline as Measured by the Seizure Severity Questionnaire (SSQ)",
+          "description": "Seizure Severity Questionnaire summary score, on a scale of 1 to 7 with one being the least severe and 7 being the most severe, components of seizures include; warning, activity and recovery",
+          "timeFrame": "24 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Is \\> 60 years of age (male or female)\n* Has a confirmed diagnosis of epilepsy with partial seizures\n* Has one of the following\n\n  1. newly diagnosed partial seizures\n  2. has inadequately controlled partial seizures, i.e. continues to have seizure activity while on his/her medication regimen\n  3. is taking Depakote twice a day for partial seizures but is having side effects or problems with adherence and may benefit from once a day dosing\n* Is able and willing to maintain an accurate, complete, written daily seizure diary\n* Is able and willing to complete the QOLIE, the Beck Depression Inventory, and the SSQ\n* Is able to given written informed consent\n* Is compliant with clinic visits\n* Is able to swallow Depakote-ER\n\nExclusion Criteria:\n\n* Has had status epilepticus in the 24 weeks prior to the Baseline Phase of the Study\n* Is taking three or more AEDs chronically\n* Is currently abusing alcohol and/or any other substance\n* Has taken an investigational drug within the previous 30 days or plans to take an investigational drug anytime during the study\n* Is receiving any medication that could influence seizure control\n* Is currently following the ketogenic diet\n* Is planning surgery or the insertion of the vagal nerve stimulator for seizure control during the course of the study.\n* Is suffering from acute or progressive neurologic disease, severe psychiatric disease, or severe mental abnormality that are likely to interfere with the objectives of the study\n* Has any clinically significant cardiac, renal, hepatic condition, or a condition that affects the absorption, distribution, metabolism or excretion of drugs.\n* Baseline elevations of LFTs more than 3 times normal, clinically elevated amylase, and clinically significant thrombocytopenia",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "60 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Alan R Towne, M.D.",
+          "affiliation": "Virginia Commonwealth University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Virginia Commonwealth University Medical Center, Department of Neurology",
+          "city": "Richmond",
+          "state": "Virginia",
+          "zip": "23219",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.55376,
+            "lon": -77.46026
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Subjects recruited had either inadequately controlled seizures or were taking Depakote twice a day.",
+      "recruitmentDetails": "Recruitment began April 2006 and completed January 2008. Subjects were seen in an outpatient clinic",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Depakote ER",
+          "description": "Dosing regimen from 750 to 1250 mg once a day."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "14"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "14"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Depakote ER",
+          "description": "Dosing regimen from 750 to 1250 mg once a day."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "14"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Categorical",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "<=18 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Between 18 and 65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "12"
+                    }
+                  ]
+                },
+                {
+                  "title": ">=65 years",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "66.1",
+                      "spread": "9.5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Effectiveness of Medication as Measured by Participation Through the End of the Trial.",
+          "description": "Number of participants completing the trial",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "24 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Depakote ER",
+              "description": "Dosing regimen from 750 to 1250 mg once a day."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "14"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Patient's Compliance With Once a Day Dosing.",
+          "description": "Subjects pill count for once a day dosing and compliance with medication as a percent of total doses prescribed.",
+          "populationDescription": "Limited data were collected for this assessment due to study termination. These data are no longer available and the study team does not have IRB approval to retroactively analyze the results.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "24 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Depakote ER",
+              "description": "Dosing regimen from 750 to 1250 mg once a day."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Seizures Per Month",
+          "description": "Count of seizures per month determined by seizures recorded in diaries.",
+          "populationDescription": "Limited data were collected for this assessment due to study termination. These data are no longer available and the study team does not have IRB approval to retroactively analyze the results.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "24 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Depakote ER",
+              "description": "Dosing regimen from 750 to 1250 mg once a day."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change From Baseline as Measured by the Seizure Severity Questionnaire (SSQ)",
+          "description": "Seizure Severity Questionnaire summary score, on a scale of 1 to 7 with one being the least severe and 7 being the most severe, components of seizures include; warning, activity and recovery",
+          "populationDescription": "Limited data were collected for this assessment due to study termination. These data are no longer available and the study team does not have IRB approval to retroactively analyze the results.",
+          "reportingStatus": "POSTED",
+          "timeFrame": "24 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Depakote ER",
+              "description": "Dosing regimen from 750 to 1250 mg once a day."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "0",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Depakote ER",
+          "description": "Dosing regimen from 750 to 1250 mg once a day.",
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 14,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 14
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "GT60",
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Alan R. Towne, MD",
+        "organization": "Virginia Commonwealth University",
+        "email": "atowne@mcvh-vcu.edu",
+        "phone": "804-282-9869"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D004827",
+          "term": "Epilepsy"
+        },
+        {
+          "id": "D012640",
+          "term": "Seizures"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

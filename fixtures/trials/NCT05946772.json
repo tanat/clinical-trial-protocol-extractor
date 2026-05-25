@@ -1,0 +1,819 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05946772",
+      "orgStudyIdInfo": {
+        "id": "DZHK29"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "DZHK29",
+          "type": "OTHER_GRANT",
+          "domain": "German Centre of Cardiovascular Research (DZHK)"
+        }
+      ],
+      "organization": {
+        "fullName": "University Hospital Heidelberg",
+        "class": "OTHER"
+      },
+      "briefTitle": "Cyclosporine In Takotsubo Syndrome",
+      "officialTitle": "Cyclosporine In Takotsubo Syndrome (CIT) Trial",
+      "acronym": "CIT"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-04",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-02-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-02",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2028-02",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-06-19",
+      "studyFirstSubmitQcDate": "2023-07-07",
+      "studyFirstPostDateStruct": {
+        "date": "2023-07-14",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-04-27",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-05-01",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Norbert Frey, MD",
+        "investigatorTitle": "Professor Dr. Norbert Frey, MD",
+        "investigatorAffiliation": "University Hospital Heidelberg"
+      },
+      "leadSponsor": {
+        "name": "University Hospital Heidelberg",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "German Centre of Cardiovascular Research (DZHK)",
+          "class": "UNKNOWN"
+        },
+        {
+          "name": "Coordinating Centre for Clinical Studies (KKS) Heidelberg",
+          "class": "UNKNOWN"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The goal of this clinical trial is to investigate the impact of repetitive acute Cyclosporine A (CsA) bolus therapy in patients suffering from TTS with an elevated risk of impaired outcome. The main question it aims to answer is whether CsA reduces myocardial injury (primary outcome). Participants will receive CsA or placebo at baseline and every 12h in the first 24h after study inclusion. Researchers will compare CsA and the placebo group to see if a) myocardial injury is reduced, and b) ejection fraction is improved compared to baseline, as well as several other secondary endpoints over a one year follow-up.",
+      "detailedDescription": "Takotsubo syndrome (TTS) has been suggested to be caused by catecholamine excess with myocardial inflammation-enhanced cardiac injury. Substantial morbidity and mortality have repeatedly been reported, even though reduced ejection fraction frequently recovers spontaneously. So far there is no evidence-based treatment available. In a clinically relevant mouse model of catecholamine-driven TTS, cyclosporine A (CsA) bolus therapy markedly improves outcome, likely mediated via suppression of calcineurin-driven inflammation. The investigators have thus designed a pilot multicentre randomized controlled trial (RCT) to investigate the impact of repetitive CsA bolus therapy vs. placebo in acute TTS patients with an increased risk of intrahospital complications and a 32% estimated 5-year mortality. As primary outcome myocardial damage will be compared between groups via high-sensitive Troponin T plasma area under the curve (AUC). Recovery of cardiac function, the extent of myocardial oedema at 72h, length of hospital-stay, 30-day-, and 1-year composite clinical outcome as well as psychosocial and quality of life self-assessment will be secondary endpoints. The results of this trial may reveal CsA as a first pathophysiology-driven treatment option of TTS and enable a phase III follow-up trial with outcome parameters as primary endpoint."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Takotsubo Cardiomyopathy"
+      ],
+      "keywords": [
+        "Takotsubo syndrome",
+        "Troponin",
+        "Cyclosporine",
+        "Inflammation",
+        "Acute heart failure"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "Double-blind multicentre RCT",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "maskingDescription": "Participants, investigators, care providers, and outcomes assessors are masked from study arm affiliation.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 204,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "A concealed 0.9% sodium chloride (NaCl) preparation will be applied intravenously at baseline, 12h, and 24h.",
+          "interventionNames": [
+            "Drug: Placebo"
+          ]
+        },
+        {
+          "label": "CsA",
+          "type": "EXPERIMENTAL",
+          "description": "Cyclosporine A will be applied intravenously at baseline, 12h, and 24h.",
+          "interventionNames": [
+            "Drug: Cyclosporine A"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Cyclosporine A",
+          "description": "2.5mg/kg body weight Cyclosporine A as an intravenous bolus",
+          "armGroupLabels": [
+            "CsA"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "The same amount of 0.9% sodium chloride (NaCl0.9%) will be applied in an indistinguishable package as an intravenous bolus",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Myocardial damage",
+          "description": "High-sensitive Troponin T AUC over several time points between CsA and Placebo.",
+          "timeFrame": "baseline, hour 3, hour 12, hour 24, hour 36, hour 48, hour 60, hour 72, day 30"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Ejection fraction from baseline",
+          "description": "Multiple timepoints will be compared to baseline between CsA and Placebo.",
+          "timeFrame": "baseline, hour 24, hour 48, hour 72, day 30"
+        },
+        {
+          "measure": "Fold-change in Troponin plasma concentration",
+          "description": "The change of high-sensitive Troponin T will be compared to baseline between CsA and Placebo for multiple time points.",
+          "timeFrame": "baseline, hour 3, hour 12, hour 24, hour 36, hour 48, hour 60, hour 72, day 30"
+        },
+        {
+          "measure": "Fold-change in creatine kinase plasma concentration",
+          "description": "The change of creatine kinase will be compared to baseline between CsA and Placebo for multiple time points.",
+          "timeFrame": "baseline, hour 3, hour 12, hour 24, hour 36, hour 48, hour 60, hour 72, day 30"
+        },
+        {
+          "measure": "Fold-change in NTproBNP plasma concentration",
+          "description": "The change of NTproBNP will be compared to baseline between CsA and Placebo for multiple time points.",
+          "timeFrame": "baseline, hour 3, hour 12, hour 24, hour 36, hour 48, hour 60, hour 72, day 30"
+        },
+        {
+          "measure": "Fold-change in interleukin-6 plasma concentration",
+          "description": "The change of interleukin-6 will be compared to baseline between CsA and Placebo for multiple time points.",
+          "timeFrame": "baseline, hour 12, hour 24, hour 36, hour 48, hour 60, hour 72, day 30"
+        },
+        {
+          "measure": "Fold-change in procalcitonin plasma concentration",
+          "description": "The change of procalcitonin will be compared to baseline between CsA and Placebo for multiple time points.",
+          "timeFrame": "baseline, hour 12, hour 24, hour 36, hour 48, hour 60, hour 72, day 30"
+        },
+        {
+          "measure": "Myocardial edema",
+          "description": "Cardiac MRI will be used to assess the T2 signal intensity ratio for comparison between CsA and Placebo at 72h.",
+          "timeFrame": "hour 72"
+        },
+        {
+          "measure": "Myocardial inflammation",
+          "description": "Cardiac MRI will be used to assess the early gadolinium enhancement ratio for comparison between CsA and Placebo at 72h.",
+          "timeFrame": "hour 72"
+        },
+        {
+          "measure": "Rate of cardiovascular events at day 30",
+          "description": "At day 30 a composite cardiovascular outcome measure includes overall mortality, stroke, myocardial infarction, heart failure hospitalization, recurrent TTS, cardiac arrest, ventricular fibrillation, ventricular tachycardia, novel atrial fibrillation, and thromboembolism. The measure is considered positive if one of the above occurs. The amount of patients with positive and negative events is then compared between the CsA and placebo arm.",
+          "timeFrame": "day 30"
+        },
+        {
+          "measure": "Rate of cardiovascular events at 1 year",
+          "description": "At 1 year a composite cardiovascular outcome measure includes overall mortality, stroke, myocardial infarction, heart failure hospitalization, recurrent TTS, cardiac arrest, ventricular fibrillation, ventricular tachycardia, novel atrial fibrillation, and thromboembolism. The measure is considered positive if one of the above occurs. The amount of patients with positive and negative events is then compared between the CsA and placebo arm.",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Rate of novel disease onset",
+          "description": "At 30 days and 1-year novel clinical diagnoses during follow-up including cancer or neurological diseases will be assessed.",
+          "timeFrame": "day 30 and at 1 year"
+        },
+        {
+          "measure": "Symptom burden at day 30",
+          "description": "Patient-reported outcome will be quantified by the Kansas City Cardiomyopathy Questionnaire after 30d and 1 year (scale 0-100 points: 0-24 points: very poor; 25-49 points: poor; 50-74 points: fair; 75-100: good).",
+          "timeFrame": "day 30"
+        },
+        {
+          "measure": "Symptom burden at 1 year",
+          "description": "Patient-reported outcome will be quantified by the Kansas City Cardiomyopathy Questionnaire at 1 year (scale 0-100 points: 0-24 points: very poor; 25-49 points: poor; 50-74 points: fair; 75-100: good).",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Depression score at day 30",
+          "description": "Patient-reported psychosocial assessment will be quantified by the well validated German patient health questionnaire 9 (PHQ-9) scale (range 0-27 points, higher points indicate worse depressive symptoms).",
+          "timeFrame": "day 30"
+        },
+        {
+          "measure": "Depression score at year 1",
+          "description": "Patient-reported psychosocial assessment will be quantified by the well validated German patient health questionnaire 9 (PHQ-9) scale (range 0-27 points, higher points indicate worse depressive symptoms).",
+          "timeFrame": "1 year"
+        },
+        {
+          "measure": "Anxiety score at day 30",
+          "description": "Patient-reported psychosocial assessment will be quantified by the well validated German generalized anxiety disorder 7 (GAD-7) questionnaire (range 0-21 points, higher points indicate worse anxiety).",
+          "timeFrame": "day 30"
+        },
+        {
+          "measure": "Anxiety score at year 1",
+          "description": "Patient-reported psychosocial assessment will be quantified by the well validated German generalized anxiety disorder 7 (GAD-7) questionnaire (range 0-21 points, higher points indicate worse anxiety).",
+          "timeFrame": "year 1"
+        },
+        {
+          "measure": "PTSD score at 30 days",
+          "description": "Patient-reported psychosocial assessment will be quantified by the well validated German primary care posttraumatic stress disorder questionnaire 5 (PC-PTSD-5) (0-5 points, higher points indicate more symptoms of posttraumatic stress disorder).",
+          "timeFrame": "day 30"
+        },
+        {
+          "measure": "PTSD score at 1 year",
+          "description": "Patient-reported psychosocial assessment will be quantified by the well validated German primary care posttraumatic stress disorder questionnaire 5 (PC-PTSD-5) (0-5 points, higher points indicate more symptoms of posttraumatic stress disorder).",
+          "timeFrame": "year 1"
+        },
+        {
+          "measure": "Length of intermediate care or intensive care unit stay",
+          "description": "Length of intermediate care or intensive care unit stay will be compared between groups",
+          "timeFrame": "day 30"
+        },
+        {
+          "measure": "Length of hospital stay",
+          "description": "Length of hospital stay will be compared between groups",
+          "timeFrame": "day 30"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Key inclusion criteria:\n\n* Patients aged over 18\n* Enrollment and first IMP administration within 24 hours after cardiac catheterization\n* Regional Wall Motion Abnormality (WMA) consistent with TTS in angiography or echocardiography\n* InterTAK prognostic score- or a GEIST Score ≥ 9 -\n* Written informed consent\n\nKey exclusion Criteria:\n\n* Acute coronary syndrome (ACS) with significant coronary stenosis potentially associated with wall motion abnormalities (WMA) or percutaneous coronary intervention (PCI)\n* Infection (defined as concomitant infection with a positive blood culture at the time of study inclusion)\n* History of hypersensitivity to cyclosporine\n* History of hypersensitivity to egg, peanut or soybean proteins\n* History of chronic renal insufficiency (either creatinin clearance \\<30 ml/min/1.73m² or current medical care for severe renal insufficiency)\n* History of liver insufficiency\n* Uncontrolled hypertension at the time of screening for study inclusion (systolic blood pressure \\>180mmHg and/or diastolic blood pressure \\>110mmHg)\n* Current medication with any compound containing Hypericum perforatum (St. John's worth) or Stiripentol or Aliskiren or Bosentan or Rosuvastatine (Rosuvastatine \\>5mg within 24h intake\\<48h before IMP administration)\n* Female patients currently pregnant or women of childbearing age without negative pregnancy test or without effective contraception\n* Any disorder associated with immunological dysfunction ≤6 months prior to presentation (autoimmune disease, known positive serology for HIV or hepatitis)\n* Immunosuppressive, chemotherapeutical, or antibody treatment\n* Participation in other clinical trials except for non interventional trials",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Bastian Bruns, MD",
+          "role": "CONTACT",
+          "phone": "+496221-56-36266",
+          "email": "bastian.bruns@med.uni-heidelberg.de"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Norbert Frey, MD",
+          "affiliation": "University Hospital Heidelberg",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Bastian Bruns, MD",
+          "affiliation": "University Hospital Heidelberg",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Kerckhoff Heart Center, Bad Nauheim / Gießen University",
+          "status": "RECRUITING",
+          "city": "Bad Nauheim",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Christian Hamm, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 50.36463,
+            "lon": 8.73859
+          }
+        },
+        {
+          "facility": "Department of Cardiology, Charité - Universitätsmedizin Berlin, Campus Benjamin Franklin",
+          "status": "RECRUITING",
+          "city": "Berlin",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Ulf Landmesser, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Department of Cardiology, Charité - Universitätsmedizin Berlin, Campus Virchow Klinikum",
+          "status": "RECRUITING",
+          "city": "Berlin",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Frank Edelmann, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Henryk Dreger, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Heart Centre - University Hospital Bonn",
+          "status": "RECRUITING",
+          "city": "Bonn",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Georg Nickenig, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Margarita Schulz, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 50.73438,
+            "lon": 7.09549
+          }
+        },
+        {
+          "facility": "Department of Cardiology, University Hospital Köln",
+          "status": "RECRUITING",
+          "city": "Cologne",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Roman Pfister, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 50.93333,
+            "lon": 6.95
+          }
+        },
+        {
+          "facility": "Department of Cardiology, University Hospital Dresden",
+          "status": "RECRUITING",
+          "city": "Dresden",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Axel Linke, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.05089,
+            "lon": 13.73832
+          }
+        },
+        {
+          "facility": "Cardiovascular Centre - University Hospital Düsseldorf",
+          "status": "RECRUITING",
+          "city": "Düsseldorf",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Daniel Schreiber, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.22319,
+            "lon": 6.77927
+          }
+        },
+        {
+          "facility": "Department of Cardiology - University Hospital Essen",
+          "status": "RECRUITING",
+          "city": "Essen",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Tienush Rassaf, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.45657,
+            "lon": 7.01228
+          }
+        },
+        {
+          "facility": "Department of Cardiology, University Hospital Frankfurt",
+          "status": "RECRUITING",
+          "city": "Frankfurt",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "David Leistner, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 49.68333,
+            "lon": 10.53333
+          }
+        },
+        {
+          "facility": "University Medical Center Göttingen",
+          "status": "RECRUITING",
+          "city": "Göttingen",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Gerd Hasenfuß, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.53443,
+            "lon": 9.93228
+          }
+        },
+        {
+          "facility": "Department of Cardiology, University Hospital Halle",
+          "status": "RECRUITING",
+          "city": "Halle",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Daniel Sedding, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.48158,
+            "lon": 11.97947
+          }
+        },
+        {
+          "facility": "University Medical Center Hamburg-Eppendorf",
+          "status": "RECRUITING",
+          "city": "Hamburg",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Stefan Blankenberg, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 53.55073,
+            "lon": 9.99302
+          }
+        },
+        {
+          "facility": "Department of Cardiology, Heidelberg University Hospital",
+          "status": "RECRUITING",
+          "city": "Heidelberg",
+          "zip": "69120",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Bastian Bruns, MD",
+              "role": "CONTACT"
+            },
+            {
+              "name": "Norbert Frey, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Bastian Bruns, MD",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 49.40768,
+            "lon": 8.69079
+          }
+        },
+        {
+          "facility": "Department of Cardiology, University Hospital Leipzig",
+          "status": "RECRUITING",
+          "city": "Leipzig",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Rolf Wachter, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.33962,
+            "lon": 12.37129
+          }
+        },
+        {
+          "facility": "Leipzig Heart Center",
+          "status": "RECRUITING",
+          "city": "Leipzig",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Holger Thiele, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.33962,
+            "lon": 12.37129
+          }
+        },
+        {
+          "facility": "University Medical Center Schleswig-Holstein/Campus Lübeck",
+          "status": "RECRUITING",
+          "city": "Lübeck",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Ingo Eitel, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 53.86893,
+            "lon": 10.68729
+          }
+        },
+        {
+          "facility": "Department of Cardiology, University Hospital Magdeburg",
+          "status": "RECRUITING",
+          "city": "Magdeburg",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Rüdiger Braun-Dullaeus, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 52.13129,
+            "lon": 11.63189
+          }
+        },
+        {
+          "facility": "Department of Cardiology, University Hospital Mainz",
+          "status": "RECRUITING",
+          "city": "Mainz",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Tommaso Gori, MD",
+              "role": "SUB_INVESTIGATOR"
+            },
+            {
+              "name": "Maike Knorr, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Philipp Lurz, MD",
+              "role": "SUB_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 49.98185,
+            "lon": 8.28008
+          }
+        },
+        {
+          "facility": "Department of Cardiology, University Hospital Mannheim",
+          "status": "RECRUITING",
+          "city": "Mannheim",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Ibrahim Akin, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 49.4891,
+            "lon": 8.46694
+          }
+        },
+        {
+          "facility": "Department of Cardiology, Hospital of the Ludwig-Maximilians-University Munich",
+          "status": "RECRUITING",
+          "city": "München",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Ulrich Grabmaier, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.60698,
+            "lon": 13.31243
+          }
+        },
+        {
+          "facility": "University Hospital rechts der Isar, Technical University of Munich",
+          "status": "RECRUITING",
+          "city": "München",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Karl-Ludwig Laugwitz, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            },
+            {
+              "name": "Isabell Bernlochner, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.60698,
+            "lon": 13.31243
+          }
+        },
+        {
+          "facility": "Department of Cardiology, University Hospital Rostock",
+          "status": "RECRUITING",
+          "city": "Rostock",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Hüseyin Ince, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 54.0887,
+            "lon": 12.14049
+          }
+        },
+        {
+          "facility": "Department of Cardiology, University Hospital Ulm",
+          "status": "RECRUITING",
+          "city": "Ulm",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Mirjam Keßler, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 48.39841,
+            "lon": 9.99155
+          }
+        },
+        {
+          "facility": "Department of Cardiology, University Hospital Wuppertal",
+          "status": "RECRUITING",
+          "city": "Wuppertal",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Melchior Seyfarth, MD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.25627,
+            "lon": 7.14816
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "40268179",
+          "type": "DERIVED",
+          "citation": "Bruns B, Elsous N, Burghaus I, Steyrer K, Joos M, Kramer T, Scheffel M, Blankenberg S, Eitel I, Massberg S, Thiele H, Meder B, Backs J, Frey N. Rationale and design of the cyclosporine in Takotsubo syndrome (CIT) trial. Am Heart J. 2025 Nov;289:147-157. doi: 10.1016/j.ahj.2025.04.020. Epub 2025 Apr 21."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D054549",
+          "term": "Takotsubo Cardiomyopathy"
+        },
+        {
+          "id": "D007249",
+          "term": "Inflammation"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009202",
+          "term": "Cardiomyopathies"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D018487",
+          "term": "Ventricular Dysfunction, Left"
+        },
+        {
+          "id": "D018754",
+          "term": "Ventricular Dysfunction"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D016572",
+          "term": "Cyclosporine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003524",
+          "term": "Cyclosporins"
+        },
+        {
+          "id": "D010456",
+          "term": "Peptides, Cyclic"
+        },
+        {
+          "id": "D047028",
+          "term": "Macrocyclic Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D010455",
+          "term": "Peptides"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

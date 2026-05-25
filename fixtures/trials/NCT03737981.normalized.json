@@ -1,0 +1,301 @@
+{
+  "phase": "PHASE_3",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Progression-free Survival (PFS)",
+      "timeFrame": "5 years",
+      "description": "PFS will be compared between the experimental and control treatment strategy groups using a stratified log-rank test (stratified on Rai stage, intermediate versus \\[vs.\\] high, and del(17p13.1) by fluorescence in situ hybridization \\[FISH\\], present vs. absent). The Kaplan-Meier method will be used to estimate PFS distributions. Five-year PFS estimates and corresponding hazard ratios will be provided with 95% confidence intervals for each treatment strategy."
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "PRE-REGISTRATION ELIGIBILITY CRITERIA (STEP 0)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Patients must have been diagnosed with chronic lymphocytic leukemia (CLL) (> 5000 B-cells per uL of peripheral blood at any point during the course of their disease) or small lymphocytic lymphoma (SLL) with < 5000 B-cells per uL of blood but with disease-associated lymphadenopathy",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "This blood submission is mandatory prior to registration/randomization to perform fluorescence in situ hybridization (FISH) centrally that will be used for stratification. It should be obtained as soon after pre-registration as possible",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "REGISTRATION ELIGIBILITY CRITERIA (STEP 1)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Patients must be diagnosed with CLL or SLL in accordance with 2018 International Workshop on Chronic Lymphocytic Leukemia (IWCLL) criteria that includes all of the following:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": ">= 5 x10\\^9 B lymphocytes (5000/uL) in the peripheral blood measured by flow cytometry at any point in the course of the disease or less peripheral blood involvement but disease-associated lymphadenopathy",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "On local morphologic review, the leukemic cells must be small mature lymphocytes, and prolymphocytes must not exceed 55% of the blood lymphocytes",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Neoplastic cells on immunophenotype (performed locally) must reveal a clonal B-cell population, which express the B cell surface markers of CD19 and CD20, as well as the T-cell antigen CD5. Patients with bright surface immunoglobulin expression or lack of CD23 expression in >10% of cells must lack t(11;14) translocation by interphase cytogenetics",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Patients must be intermediate or high-risk Rai stage CLL or SLL",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Intermediate risk (formerly stage I/II) is defined by lymphadenopathy and/or hepatomegaly or splenomegaly without anemia or thrombocytopenia",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "High risk (formerly stage III/IV) is defined by splenomegaly and/or anemia (hemoglobin < 11g/dL) not attributable to autoimmune hemolytic anemia and/or thrombocytopenia (platelets \\[plt\\] < 100 x10\\^9/L) not attributable to autoimmune thrombocytopenia",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Patients must meet criteria for treatment as defined by 2018 IWCLL guidelines which includes at least one of the following criteria:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Evidence of marrow failure as manifested by the development or worsening of anemia or thrombocytopenia (not attributable to autoimmune hemolytic anemia or thrombocytopenia)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Massive (>= 6 cm below the costal margin), progressive or symptomatic splenomegaly",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Massive nodes (>= 10 cm) or progressive or symptomatic lymphadenopathy",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Progressive lymphocytosis with a lymphocyte doubling time < 6 months or an increase of >= 50% over a 2 month period",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Autoimmune anemia and/or thrombocytopenia that is poorly responsive to standard therapy",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Symptomatic or functional extranodal involvement (e.g. skin, kidney, lung, spine)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Constitutional symptoms, which include any of the following:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Unintentional weight loss of 10% or more within 6 months",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Significant fatigue",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Fevers > 100.5 degrees Fahrenheit (F) for 2 weeks or more without evidence of infection",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Night sweats >= 1 month without evidence of infection",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Treatment with rituximab and/or high dose corticosteroids for autoimmune complications of CLL/SLL must be complete at least 4 weeks prior to enrollment. Palliative steroids must be at a dose not higher than 20 mg/day of prednisone or equivalent corticosteroid at the time of registration",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Age >= 65 years",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Eastern Cooperative Oncology Group (ECOG) performance status 0-2",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Absolute neutrophil count (ANC) >= 1,000/mm\\^3 except if due to bone marrow involvement",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Platelet count (untransfused) >= 30,000/mm\\^3 except if due to bone marrow involvement",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Calculated (Calc.) creatinine clearance >= 40 mL/min (by Cockcroft-Gault)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Bilirubin =< 1.5 x upper limit of normal (ULN) except if due to liver involvement, hemolysis, or Gilbert's disease",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Aspartate aminotransferase (AST)/alanine aminotransferase (ALT) =< 2.5 x upper limit of normal (ULN) except if due to liver involvement",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "If evidence of chronic hepatitis B virus (HBV) infection, HBV viral load must be undetectable on suppressive therapy if indicated",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Please note: Intravenous immunoglobulin therapy (IVIG) can cause a false positive hepatitis B serology. If patients receiving routine IVIG have core antibody or surface antigen positivity without evidence of active viremia (negative hepatitis B deoxyribonucleic acid \\[DNA\\]) they may still participate in the study, must have hepatitis serologies and hepatitis B DNA monitored periodically by the treating physician",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "If history of hepatitis C virus (HCV) infection, must be treated with undetectable HCV viral load",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Human immunodeficiency virus (HIV)-infected patients on effective antiretroviral therapy with undetectable viral load within 6 months are eligible for this trial",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Central fluorescent in situ hybridization (FISH) blood results are mandatory prior to registration/randomization for it will be used for stratification",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Patients must be able to swallow capsules and not have the following conditions: disease significantly affecting gastrointestinal absorption, resection of the stomach or small bowel, partial or complete bowel obstruction",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Patients must be able to receive either a xanthine oxidase inhibitor or rasburicase for prophylaxis/treatment of tumor lysis syndrome (TLS)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "RE-REGISTRATION ELIGIBILITY CRITERIA (STEP 2)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Completion of treatment through cycle 14 day 28, and remain on ibrutinib therapy",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Receipt of central BM MRD results",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Response assessment completed with CR determination",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients must not have had prior therapy for CLL/SLL (except palliative steroids or treatment of autoimmune complications of CLL with rituximab or steroids)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients must not have any history of Richter's transformation or prolymphocytic leukemia (prolymphocytes in blood > 55%)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients with class III or class IV heart failure by New York Heart Association, those with unstable angina, and those with uncontrolled arrhythmia are not eligible",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients who have had a myocardial infarction, intracranial bleed, or stroke within the past 6 months are not eligible",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients must not be receiving active systemic anticoagulation with heparin or warfarin. Patients on warfarin must discontinue the drug for at least 10 days prior to registration on the study",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Chronic concomitant treatment with strong inhibitors of CYP3A4/5 is not allowed on this study. Patients on strong CYP3A inhibitors must discontinue the drug for 14 days prior to registration on the study",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Chronic concomitant treatment with strong CYP3A4/5 inducers is not allowed. Patients must discontinue the drug 14 days prior to registration on the study",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients must not require more than 20 mg prednisone or equivalent corticosteroid daily",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients must not have uncontrolled active systemic infection requiring intravenous antibiotics",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients must not have a known allergy to mannitol",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients must not have prior significant hypersensitivity to rituximab (not including infusion reactions)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients may not have had major surgery within 10 days prior to registration, or minor surgery within 7 days prior to registration. Examples of minor surgery include dental surgery, insertion of a venous access device, skin biopsy, or aspiration for a joint. The decision about whether a surgery is major or minor can be made at the discretion of the treating physician",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "Ibrutinib"
+    },
+    {
+      "type": "DRUG",
+      "name": "Obinutuzumab"
+    },
+    {
+      "type": "OTHER",
+      "name": "Observation Activity"
+    },
+    {
+      "type": "DRUG",
+      "name": "Venetoclax"
+    }
+  ]
+}

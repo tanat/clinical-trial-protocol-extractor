@@ -1,0 +1,314 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02057471",
+      "orgStudyIdInfo": {
+        "id": "09GS002"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2009-011382-80",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Nottingham University Hospitals NHS Trust",
+        "class": "OTHER"
+      },
+      "briefTitle": "Intravenous Iron: Measuring Response in Anemic Surgical Patients",
+      "officialTitle": "An Open Label Study of Intravenous Iron (FERINJECT) in Colorectal Adenocarcinoma Related Anaemia to Identify Potential Biomarkers of Responsiveness to Intravenous Iron"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2014-02",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2009-09"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2011-01",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2012-03",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2014-02-03",
+      "studyFirstSubmitQcDate": "2014-02-05",
+      "studyFirstPostDateStruct": {
+        "date": "2014-02-07",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2014-02-05",
+      "lastUpdatePostDateStruct": {
+        "date": "2014-02-07",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Nottingham University Hospitals NHS Trust",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "20 Patients will be recruited with confirmed colorectal adenocarcinoma and anemia who are planned to undergo surgery. All patients will be treated with a single dose of 1g intravenous ferric carboxymaltose (FERINJECT).\n\nIt is hypothesized that intravenous iron supplementation is efficacious at raising haemoglobin levels and reduced blood transfusion requirements.",
+      "detailedDescription": "Patients who are anemic at the time of operation have been shown to have an increased frequency of complications including wound infection and longer post-operative admissions. Similarly, patients who are anemic at the time of their cancer operation are more likely to require a blood transfusion which may increase the risk of recurrence of the cancer.\n\nAt present, oral iron is often used to treat anemia preoperatively in an attempt to minimize the risk above. This drug is often poorly tolerated due to the side effect profile. Blood transfusions can also be administered but expose the patient to other risks including infection and transfusion associated reactions. In order to overcome these issues, intravenous iron preparations have been developed and have improved in safety.\n\nThis is open label clinical trial, which looks to investigate the efficacy of intravenous iron is in the treatment of preoperative anemia in colorectal patients. The outcomes reviewed will include the amount and frequency of blood transfusions received, changes in patient blood profiles operative complications and hospital length of stay. The role of hepcidin as a biomarker of treatment response will also be assessed.\n\nAll data will be confidentially recorded on a Case Report Form, as will drug reactions and side effects."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Colorectal Neoplasm",
+        "Anemia"
+      ],
+      "keywords": [
+        "Adenocarcinoma",
+        "Anemia",
+        "Blood Transfusion",
+        "Colorectal surgery",
+        "Preoperative care",
+        "Perioperative care",
+        "Postoperative care",
+        "Iron",
+        "Hematinics",
+        "Hepcidin",
+        "Quality of life",
+        "Postoperative complications"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 20,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Intravenous Ferric Carboxymaltose",
+          "type": "EXPERIMENTAL",
+          "description": "All recruited patients will be allocated to this treatment. 1 gram of Ferric carboxymaltose (FERINJECT) to be given at recruitment",
+          "interventionNames": [
+            "Drug: Intravenous ferric carboxymaltose"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Intravenous ferric carboxymaltose",
+          "description": "1 gram intravenous ferric carboxymaltose (FERINJECT) will be administered to all patients within the study",
+          "armGroupLabels": [
+            "Intravenous Ferric Carboxymaltose"
+          ],
+          "otherNames": [
+            "FERINJECT"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Number of patients transfused allogenic red blood cells",
+          "description": "To determine if the administration of intravenous iron reduces the number of expected allogenic red blood cell transfusions from recruitment to the perioperative phase",
+          "timeFrame": "Patients will be followed from recruitment to the study until postoperative discharge from hospital, which will be an expected average of 4 weeks"
+        },
+        {
+          "measure": "Hemoglobin levels",
+          "description": "To determine if intravenous iron significantly increases hemoglobin levels in the preoperative optimization of patients",
+          "timeFrame": "Patients will be followed from recruitment to the study until 8 weeks post operatively, which will be an expected average of 10 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Hepcidin levels",
+          "description": "To monitor changes in hepcidin in response to treatment and review if this can predict response to intravenous iron therapy",
+          "timeFrame": "Patients will be followed from recruitment to the study until the day after surgery, which will be an expected average of 3 weeks"
+        },
+        {
+          "measure": "Erythropoietin levels",
+          "description": "To monitor changes in Erythropoietin in response to treatment and review if this can predict response to intravenous iron therapy",
+          "timeFrame": "Patients will be followed from recruitment to the study until 8 weeks post operatively, which will be an expected average of 10 weeks"
+        },
+        {
+          "measure": "Transferrin saturation levels",
+          "description": "To monitor changes in transferrin saturation levels in response to treatment and review if this can predict response to intravenous iron therapy",
+          "timeFrame": "Patients will be followed from recruitment to the study until 8 weeks post operatively, which will be an expected average of 10 weeks"
+        },
+        {
+          "measure": "Ferritin levels",
+          "description": "To monitor changes in ferritin levels in response to treatment and review if this can predict response to intravenous iron therapy",
+          "timeFrame": "Patients will be followed from recruitment to the study until 8 weeks post operatively, which will be an expected average of 10 weeks"
+        },
+        {
+          "measure": "C Reactive Protein levels",
+          "description": "To monitor changes in C Reactive Protein levels over the course of the study, and review if this can predict response to intravenous iron therapy, or is associated with changes in hepcidin",
+          "timeFrame": "Patients will be followed from recruitment to the study until 8 weeks post operatively, which will be an expected average of 10 weeks"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Number of adverse events associated with intravenous iron infusion",
+          "description": "To assess the safety and feasibility of the principle of administration of intravenous iron in a single dose, preoperative outpatient visit",
+          "timeFrame": "Patients will be followed from recruitment to the study until postoperative discharge from hospital, which will be an expected average of 4 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Age \\> 18 years\n* Diagnosed with colonic or rectal adenocarcinoma\n* Defined date of operation at least 14 days from recruitment to study\n* Confirmed anemia\n* Females of child bearing age must agree to use a medically accepted form of contraceptive\n\nExclusion Criteria:\n\n* Patient's who are unable to consent\n* Recognized allergy or intolerance of the study drug or excipients\n* Patients with previous or current hematological disease that in the investigators' opinion would confound the diagnosis of anemia",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Austin G Acheson, MD FRCS",
+          "affiliation": "Nottingham University Hospitals NHS Trust",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Nottingham University Hospitals NHS Trust",
+          "city": "Nottingham",
+          "state": "Nottinghamshire",
+          "zip": "NG7 2UH",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 52.9536,
+            "lon": -1.15047
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015179",
+          "term": "Colorectal Neoplasms"
+        },
+        {
+          "id": "D000740",
+          "term": "Anemia"
+        },
+        {
+          "id": "D000230",
+          "term": "Adenocarcinoma"
+        },
+        {
+          "id": "D011183",
+          "term": "Postoperative Complications"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007414",
+          "term": "Intestinal Neoplasms"
+        },
+        {
+          "id": "D005770",
+          "term": "Gastrointestinal Neoplasms"
+        },
+        {
+          "id": "D004067",
+          "term": "Digestive System Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D005767",
+          "term": "Gastrointestinal Diseases"
+        },
+        {
+          "id": "D003108",
+          "term": "Colonic Diseases"
+        },
+        {
+          "id": "D007410",
+          "term": "Intestinal Diseases"
+        },
+        {
+          "id": "D012002",
+          "term": "Rectal Diseases"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D002277",
+          "term": "Carcinoma"
+        },
+        {
+          "id": "D009375",
+          "term": "Neoplasms, Glandular and Epithelial"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C522335",
+          "term": "ferric carboxymaltose"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

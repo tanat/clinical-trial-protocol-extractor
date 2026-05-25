@@ -1,0 +1,89 @@
+{
+  "phase": "EARLY_PHASE_1",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Weight loss for one group",
+      "timeFrame": "3 months",
+      "description": "One group in this randomized study will be focused on weight loss during a 3 month period. The goal is to acheive a 6% weight loss during this time. Specific blood draws will be conducted pre and post weight loss to measure any hormonal changes due to this weight loss."
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Premenopausal women",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Age 30-45",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Current BMI of >25",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "English or Spanish speaking",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "5th grade reading level",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Menstrual regularity, defined as menstrual cycle length of 27-31 and < 1 missed period within the past 12 months.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Current use or recent (< 6 months) use of oral contraceptives, hormones, or other hormone-influencing medications",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Pregnant, lactating or planning pregnancy in the next 12 weeks",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Unwilling and able to location for intervention visits.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Serious medical condition requiring the supervision of a physician for exercise and diet",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "History of eating disorder",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "History of or current use of drugs",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Current treatment for serious psychological disorder",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Donation of blood within past 6 weeks.",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "BEHAVIORAL",
+      "name": "Behavioral Weight loss"
+    }
+  ]
+}

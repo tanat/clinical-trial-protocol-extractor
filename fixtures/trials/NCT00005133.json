@@ -1,0 +1,383 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00005133",
+      "orgStudyIdInfo": {
+        "id": "1003"
+      },
+      "organization": {
+        "fullName": "National Heart, Lung, and Blood Institute (NHLBI)",
+        "class": "NIH"
+      },
+      "briefTitle": "Cardiovascular Health Study (CHS)",
+      "officialTitle": "The Cardiovascular Health Study",
+      "acronym": "CHS"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-01",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "1988-06",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-12-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-12-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2000-05-25",
+      "studyFirstSubmitQcDate": "2000-05-25",
+      "studyFirstPostDateStruct": {
+        "date": "2000-05-26",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2026-01-30",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-02-03",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "National Heart, Lung, and Blood Institute (NHLBI)",
+        "class": "NIH"
+      },
+      "collaborators": [
+        {
+          "name": "University of Washington, the Collaborative Health Studies Coordinating Center",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To determine the extent to which known risk factors predict coronary heart disease and stroke in the elderly, to assess the precipitants of coronary heart disease and stroke in the elderly, and to identify the predictors of mortality and functional impairments in clinical coronary disease or stroke.",
+      "detailedDescription": "BACKGROUND:\n\nIn 1984, there were an estimated 28 million Americans ages 65 and over of whom 11 million were ages 75 and over. Projected growth in both the numbers and proportion of the elderly population in the United States showed marked increases, attributed primarily to declines in death rates from cardiovascular and non-cardiovascular diseases.\n\nAlthough there has been a decline in the cardiovascular diseases over the past twenty years, they are still a major source of morbidity and mortality for middle-aged and older populations. An estimated 2.8 million persons in the United States ages 65 years and over have coronary heart disease based on the 1982 National Health Interview Survey of the National Center for Health Statistics (NCHS). About 1.4 million are men and 1.4 million are women. Prevalence of coronary heart disease is 11 percent in this age group: 13 percent in men, 9 percent in women, 12 percent in whites, and 13 percent in Blacks.\n\nThe characteristics of increased blood pressure and serum cholesterol, cigarette smoking, overweight, and diabetes have been documented as risk factors for cardiovascular disease among men and women in their middle years. A few studies have found that some of these characteristics operate as risk factors in older populations whereas the role of cigarette smoking and cholesterol is uncertain. The influence of hemostatic factors remains to be determined. The traditional risk factors are present in a substantial proportion of the elderly population. From the 1983 National Health Interview Survey, it is estimated that 21 percent of persons 65-74 years of age are current cigarette smokers. From the 1976-80 National Health and Nutrition Examination Survey of NCHS, it is estimated that 29 percent of persons 65-74 years of age are overweight, and 28 percent have a serum cholesterol level of 260 mg/100 ml or greater. From the SHEP pilot study, an estimated 68 percent of persons 65-74 years of age and 75 percent of persons ages 75 and over have hypertension, that is, systolic blood pressure of 160 mmHg or greater or a diastolic pressure of 90 or greater (based on average of three measurements) or are on anti-hypertensive medication. Isolated systolic hypertension is quite common in the elderly population.\n\nThe Framingham Heart Study observed an average annual incidence of new coronary heart disease events of 20.4 per 1,000 men ages 65-74 years and 14.5 per 1,100 women in that age group, based on 20 years of follow-up. The Study has shown a marked increase in incidence with age and significant physical disability from cardiovascular diseases in the elderly.\n\nAnother indication of the impact coronary heart disease has on the elderly in the United States is health care expenditures. Incidence, prevalence, and disability from heart disease accounted for personal health care expenditures of $8.2 billion for persons 65 years of age and older in 1980 according to the National Center for Health Statistics. Based on estimated expenditures for 1983, that figure was nearly $12 billion in that year. These expenditures are for hospital care, physician and other professional care, drugs, and nursing home care.\n\nCharacteristically, older people have been limited by chronic illness, increasing disability, and decreased function. As more people reach older ages, there are increasing demands and expectations for a more functional life and active retirement. Data, however, are relatively sparse as to the prognostic characteristics, effects of medical care, and ultimate outcomes of cardiovascular disease in this population. Particular attention will be given to the accuracy of diagnosis in this elderly population. The use of medical care services by the elderly and the frequency and nature of pharmacologic, surgical and medical management of elderly patients will documented. In addition, this study will supply information on the place of death, suddenness of death and the circumstances preceding clinical events and death in the elderly.\n\nThe study grew out of recommendations of the Working Conference on Coronary Heart Disease in the Elderly held in Bethesda, Maryland in September 1985 and was reviewed and approved by the National Heart, Lung, and Blood Advisory Council in September 1986.\n\nDESIGN NARRATIVE:\n\nThe Cardiovascular Health Study (CHS) is a population-based, longitudinal study of risk factors for the development and progression of CHD and stroke in adults aged 65 years or older. Initially funded for six years, the study has been renewed multiple times and is currently funded through October 2024.\n\nWithin a population of men and women 65 years and older, the objectives of the Cardiovascular Health Study are:\n\n1. To quantify associations of conventional and hypothesized risk factors with CHD and stroke.\n2. To assess the associations of non-invasive measures of subclinical disease with the incidence of CHD and stroke.\n3. To quantify the associations of risk factors with subclinical disease.\n4. To characterize the natural history of CHD and stroke, and identify factors associated with clinical course.\n5. To describe the prevalence and distributions of risk factors, non-invasive measures of subclinical disease, and clinical CHD and stroke.\n\nThis is the most extensive study undertaken by the NHLBI to study CVD exclusively in an elderly population. It originated from the recommendations of an NHLBI workshop on the management of CHD in the elderly. Since atherosclerosis is prevalent in the elderly, the study is focused on factors thought to induce clinically overt disease.\n\nA major emphasis of the study is its focus on subclinical disease, or abnormalities detected noninvasively without signs or symptoms. Subclinical disease measures in CHS include ultrasonography of the carotid artery and abdominal aorta, ankle-brachial index, echocardiography, resting and ambulatory electrocardiography, cerebral magnetic resonance imaging, spirometry, and retinal photography. Some of these measures were conducted three times; at baseline, to assess risk of clinical disease in relationship to subclinical disease; three to four years after entry to assess change in subclinical disease and risk of clinical disease in relationship to change; and later in the study, to assess predictors of subclinical disease itself. Echocardiography, ambulatory ECG, cerebral MRI and aortic ultrasonography were only conducted twice.\n\nThe study initially involved four field centers; a coordinating center; a central blood analysis laboratory and five reading centers including an echocardiography reading center, an ultrasound reading center, a cerebral MRI reading center, and a retinal reading center. The reading centers have since been closed out but the field centers, coordinating center and blood laboratory are still active. Protocol development began in June, 1988, and recruitment for the first clinical examination began in June, 1989. Examination of 5,201 participants (2,962 women and 2,239 men) was completed in May, 1990. Two brief interim examinations were conducted during 1990-1992. A more extensive clinical examination in 1992-1993 was repeated to assess change in major subclinical disease; at that time, an additional cohort of 672 African Americans was recruited to improve minority representation and assessment of black-white differences. Between 1993 and 1999, annual examinations focused on a different major non-invasive measure each time, to reduce participant burden.\n\nProject Status:\n\nClinic examinations were completed in June 1999. The cohort will continue to be followed with bi-annual phone calls through 2023. Study endpoints, including: myocardial infarction (MI), stroke, congestive heart failure, peripheral claudication, angina, and TIA were adjudicated through June 2015. Death will continue to be adjudicated through the end of the study. CHS investigators will also continue analyses of previously collected serum and DNA samples; analyses of recently collected cross-sectional data and analyses of longitudinal data."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cardiovascular Diseases",
+        "Coronary Disease",
+        "Heart Diseases",
+        "Cerebrovascular Accident",
+        "Diabetes Mellitus",
+        "Hypertension",
+        "Heart Failure, Congestive"
+      ]
+    },
+    "designModule": {
+      "studyType": "OBSERVATIONAL",
+      "designInfo": {
+        "observationalModel": "COHORT",
+        "timePerspective": "PROSPECTIVE"
+      },
+      "bioSpec": {
+        "retention": "SAMPLES_WITH_DNA",
+        "description": "Blood, Urine"
+      },
+      "enrollmentInfo": {
+        "count": 5888,
+        "type": "ACTUAL"
+      }
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Eligible participants were sampled from Medicare eligibility lists in each area. Those eligible included all persons living in the household of each individual sampled from the Health Care Financing Administration (HCFA) sampling frame, who were 65 years or older at the time of examination, were noninstitutionalized, were expected to remain in the area for the next three years, and were able to give informed consent and did not require a proxy respondent at baseline. Potentially eligible individuals who were wheelchair-bound in the home at baseline or were receiving hospice treatment, radiation therapy or chemotherapy for cancer were excluded.",
+      "healthyVolunteers": true,
+      "sex": "ALL",
+      "minimumAge": "65 Years",
+      "maximumAge": "100 Years",
+      "stdAges": [
+        "OLDER_ADULT"
+      ],
+      "studyPopulation": "Just over 5200 men and women (5201) were recruited from four communities: Forsyth County, North Carolina; Sacramento County, California; Washington County, Maryland; and Pittsburgh, Pennsylvania. An additional 687 African Americans were recruited after the initial baseline survey. The population from the Pittsburgh Field Center was entirely urban; and the other three Field Centers recruited a mixture of urban and rural populations.",
+      "samplingMethod": "NON_PROBABILITY_SAMPLE"
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Mary F. Lyles, MD",
+          "affiliation": "Bowman Gray School of Medicine",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Michelle Carlson, PhD",
+          "affiliation": "Johns Hopkins University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Bruce M. Psaty, MD PhD",
+          "affiliation": "University of Washington",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Anne B. Newman, MD MPH",
+          "affiliation": "University of Pittsburgh",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Calvin H. Hirsch, MD",
+          "affiliation": "University of California, Davis",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Russell Tracy, PhD",
+          "affiliation": "University of Vermont",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of California, Davis",
+          "city": "Sacramento",
+          "state": "California",
+          "zip": "95817",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.58157,
+            "lon": -121.4944
+          }
+        },
+        {
+          "facility": "Johns Hopkins University",
+          "city": "Hagerstown",
+          "state": "Maryland",
+          "zip": "21205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.64176,
+            "lon": -77.71999
+          }
+        },
+        {
+          "facility": "Wake Forest University School of Medicine",
+          "city": "Winston-Salem",
+          "state": "North Carolina",
+          "zip": "27157",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.09986,
+            "lon": -80.24422
+          }
+        },
+        {
+          "facility": "University of Pittsburgh",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15213",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "University of Vermont",
+          "city": "Colchester",
+          "state": "Vermont",
+          "zip": "05446",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 44.54394,
+            "lon": -73.14791
+          }
+        },
+        {
+          "facility": "University of Washington",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98115",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.60621,
+            "lon": -122.33207
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "39119698",
+          "type": "DERIVED",
+          "citation": "Tang WHW, Lemaitre RN, Jensen PN, Wang M, Wang Z, Li XS, Nemet I, Lee Y, Lai HTM, de Oliveira Otto MC, Fretts AM, Sotoodehnia N, DiDonato JA, Backhed F, Psaty BM, Siscovick DS, Budoff MJ, Mozaffarian D, Hazen SL. Trimethylamine N-Oxide and Related Gut Microbe-Derived Metabolites and Incident Heart Failure Development in Community-Based Populations. Circ Heart Fail. 2024 Aug;17(8):e011569. doi: 10.1161/CIRCHEARTFAILURE.124.011569. Epub 2024 Aug 9."
+        },
+        {
+          "pmid": "37581385",
+          "type": "DERIVED",
+          "citation": "Lemaitre RN, Jensen PN, Wang Z, Fretts AM, Sitlani CM, Nemet I, Sotoodehnia N, de Oliveira Otto MC, Zhu W, Budoff M, Longstreth WT, Psaty BM, Siscovick DS, Hazen SL, Mozaffarian D. Plasma Trimethylamine-N-Oxide and Incident Ischemic Stroke: The Cardiovascular Health Study and the Multi-Ethnic Study of Atherosclerosis. J Am Heart Assoc. 2023 Aug 15;12(16):e8711. doi: 10.1161/JAHA.122.029230. Epub 2023 Aug 10."
+        },
+        {
+          "pmid": "35380627",
+          "type": "DERIVED",
+          "citation": "Carew AS, Mekary RA, Kirkland S, Theou O, Siddiqi F, Urquhart R, George M, Blanchard C, Biggs ML, Djousse L, Mukamal KJ, Cahill LE. Prospective study of breakfast frequency and timing and the risk of incident type 2 diabetes in community-dwelling older adults: the Cardiovascular Health Study. Am J Clin Nutr. 2022 Aug 4;116(2):325-334. doi: 10.1093/ajcn/nqac087."
+        },
+        {
+          "pmid": "34270325",
+          "type": "DERIVED",
+          "citation": "Haslam DE, Peloso GM, Guirette M, Imamura F, Bartz TM, Pitsillides AN, Wang CA, Li-Gao R, Westra JM, Pitkanen N, Young KL, Graff M, Wood AC, Braun KVE, Luan J, Kahonen M, Kiefte-de Jong JC, Ghanbari M, Tintle N, Lemaitre RN, Mook-Kanamori DO, North K, Helminen M, Mossavar-Rahmani Y, Snetselaar L, Martin LW, Viikari JS, Oddy WH, Pennell CE, Rosendall FR, Ikram MA, Uitterlinden AG, Psaty BM, Mozaffarian D, Rotter JI, Taylor KD, Lehtimaki T, Raitakari OT, Livingston KA, Voortman T, Forouhi NG, Wareham NJ, de Mutsert R, Rich SS, Manson JE, Mora S, Ridker PM, Merino J, Meigs JB, Dashti HS, Chasman DI, Lichtenstein AH, Smith CE, Dupuis J, Herman MA, McKeown NM. Sugar-Sweetened Beverage Consumption May Modify Associations Between Genetic Variants in the CHREBP (Carbohydrate Responsive Element Binding Protein) Locus and HDL-C (High-Density Lipoprotein Cholesterol) and Triglyceride Concentrations. Circ Genom Precis Med. 2021 Aug;14(4):e003288. doi: 10.1161/CIRCGEN.120.003288. Epub 2021 Jul 16."
+        },
+        {
+          "pmid": "31296099",
+          "type": "DERIVED",
+          "citation": "Lemaitre RN, Jensen PN, Hoofnagle A, McKnight B, Fretts AM, King IB, Siscovick DS, Psaty BM, Heckbert SR, Mozaffarian D, Sotoodehnia N. Plasma Ceramides and Sphingomyelins in Relation to Heart Failure Risk. Circ Heart Fail. 2019 Jul;12(7):e005708. doi: 10.1161/CIRCHEARTFAILURE.118.005708. Epub 2019 Jul 12."
+        },
+        {
+          "pmid": "29098321",
+          "type": "DERIVED",
+          "citation": "McKeown NM, Dashti HS, Ma J, Haslam DE, Kiefte-de Jong JC, Smith CE, Tanaka T, Graff M, Lemaitre RN, Rybin D, Sonestedt E, Frazier-Wood AC, Mook-Kanamori DO, Li Y, Wang CA, Leermakers ETM, Mikkila V, Young KL, Mukamal KJ, Cupples LA, Schulz CA, Chen TA, Li-Gao R, Huang T, Oddy WH, Raitakari O, Rice K, Meigs JB, Ericson U, Steffen LM, Rosendaal FR, Hofman A, Kahonen M, Psaty BM, Brunkwall L, Uitterlinden AG, Viikari J, Siscovick DS, Seppala I, North KE, Mozaffarian D, Dupuis J, Orho-Melander M, Rich SS, de Mutsert R, Qi L, Pennell CE, Franco OH, Lehtimaki T, Herman MA. Sugar-sweetened beverage intake associations with fasting glucose and insulin concentrations are not modified by selected genetic variants in a ChREBP-FGF21 pathway: a meta-analysis. Diabetologia. 2018 Feb;61(2):317-330. doi: 10.1007/s00125-017-4475-0. Epub 2017 Nov 2."
+        },
+        {
+          "pmid": "28735291",
+          "type": "DERIVED",
+          "citation": "Kuller LH, Lopez OL, Gottdiener JS, Kitzman DW, Becker JT, Chang Y, Newman AB. Subclinical Atherosclerosis, Cardiac and Kidney Function, Heart Failure, and Dementia in the Very Elderly. J Am Heart Assoc. 2017 Jul 22;6(7):e005353. doi: 10.1161/JAHA.116.005353."
+        },
+        {
+          "pmid": "26940919",
+          "type": "DERIVED",
+          "citation": "Kuller LH, Lopez OL, Mackey RH, Rosano C, Edmundowicz D, Becker JT, Newman AB. Subclinical Cardiovascular Disease and Death, Dementia, and Coronary Heart Disease in Patients 80+ Years. J Am Coll Cardiol. 2016 Mar 8;67(9):1013-1022. doi: 10.1016/j.jacc.2015.12.034."
+        },
+        {
+          "pmid": "25787996",
+          "type": "DERIVED",
+          "citation": "Lemaitre RN, Fretts AM, Sitlani CM, Biggs ML, Mukamal K, King IB, Song X, Djousse L, Siscovick DS, McKnight B, Sotoodehnia N, Kizer JR, Mozaffarian D. Plasma phospholipid very-long-chain saturated fatty acids and incident diabetes in older adults: the Cardiovascular Health Study. Am J Clin Nutr. 2015 May;101(5):1047-54. doi: 10.3945/ajcn.114.101857. Epub 2015 Mar 18."
+        },
+        {
+          "pmid": "25527759",
+          "type": "DERIVED",
+          "citation": "Ma W, Wu JH, Wang Q, Lemaitre RN, Mukamal KJ, Djousse L, King IB, Song X, Biggs ML, Delaney JA, Kizer JR, Siscovick DS, Mozaffarian D. Prospective association of fatty acids in the de novo lipogenesis pathway with risk of type 2 diabetes: the Cardiovascular Health Study. Am J Clin Nutr. 2015 Jan;101(1):153-63. doi: 10.3945/ajcn.114.092601. Epub 2014 Nov 12."
+        },
+        {
+          "pmid": "25527757",
+          "type": "DERIVED",
+          "citation": "Dashti HS, Follis JL, Smith CE, Tanaka T, Cade BE, Gottlieb DJ, Hruby A, Jacques PF, Lamon-Fava S, Richardson K, Saxena R, Scheer FA, Kovanen L, Bartz TM, Perala MM, Jonsson A, Frazier-Wood AC, Kalafati IP, Mikkila V, Partonen T, Lemaitre RN, Lahti J, Hernandez DG, Toft U, Johnson WC, Kanoni S, Raitakari OT, Perola M, Psaty BM, Ferrucci L, Grarup N, Highland HM, Rallidis L, Kahonen M, Havulinna AS, Siscovick DS, Raikkonen K, Jorgensen T, Rotter JI, Deloukas P, Viikari JS, Mozaffarian D, Linneberg A, Seppala I, Hansen T, Salomaa V, Gharib SA, Eriksson JG, Bandinelli S, Pedersen O, Rich SS, Dedoussis G, Lehtimaki T, Ordovas JM. Habitual sleep duration is associated with BMI and macronutrient intake and may be modified by CLOCK genetic variants. Am J Clin Nutr. 2015 Jan;101(1):135-43. doi: 10.3945/ajcn.114.095026. Epub 2014 Nov 26."
+        },
+        {
+          "pmid": "23636237",
+          "type": "DERIVED",
+          "citation": "Tanaka T, Ngwa JS, van Rooij FJ, Zillikens MC, Wojczynski MK, Frazier-Wood AC, Houston DK, Kanoni S, Lemaitre RN, Luan J, Mikkila V, Renstrom F, Sonestedt E, Zhao JH, Chu AY, Qi L, Chasman DI, de Oliveira Otto MC, Dhurandhar EJ, Feitosa MF, Johansson I, Khaw KT, Lohman KK, Manichaikul A, McKeown NM, Mozaffarian D, Singleton A, Stirrups K, Viikari J, Ye Z, Bandinelli S, Barroso I, Deloukas P, Forouhi NG, Hofman A, Liu Y, Lyytikainen LP, North KE, Dimitriou M, Hallmans G, Kahonen M, Langenberg C, Ordovas JM, Uitterlinden AG, Hu FB, Kalafati IP, Raitakari O, Franco OH, Johnson A, Emilsson V, Schrack JA, Semba RD, Siscovick DS, Arnett DK, Borecki IB, Franks PW, Kritchevsky SB, Lehtimaki T, Loos RJ, Orho-Melander M, Rotter JI, Wareham NJ, Witteman JC, Ferrucci L, Dedoussis G, Cupples LA, Nettleton JA. Genome-wide meta-analysis of observational studies shows common genetic variants associated with macronutrient intake. Am J Clin Nutr. 2013 Jun;97(6):1395-402. doi: 10.3945/ajcn.112.052183. Epub 2013 May 1."
+        },
+        {
+          "pmid": "23575256",
+          "type": "DERIVED",
+          "citation": "Banerjee D, Biggs ML, Mercer L, Mukamal K, Kaplan R, Barzilay J, Kuller L, Kizer JR, Djousse L, Tracy R, Zieman S, Lloyd-Jones D, Siscovick D, Carnethon M. Insulin resistance and risk of incident heart failure: Cardiovascular Health Study. Circ Heart Fail. 2013 May;6(3):364-70. doi: 10.1161/CIRCHEARTFAILURE.112.000022. Epub 2013 Apr 10."
+        },
+        {
+          "pmid": "22743310",
+          "type": "DERIVED",
+          "citation": "Lemaitre RN, Sitlani C, Song X, King IB, McKnight B, Spiegelman D, Sacks FM, Djousse L, Rimm EB, Siscovick DS, Mozaffarian D. Circulating and dietary alpha-linolenic acid and incidence of congestive heart failure in older adults: the Cardiovascular Health Study. Am J Clin Nutr. 2012 Aug;96(2):269-74. doi: 10.3945/ajcn.112.037960. Epub 2012 Jun 27."
+        },
+        {
+          "pmid": "21900186",
+          "type": "DERIVED",
+          "citation": "Barasch E, Gottdiener JS, Aurigemma G, Kitzman DW, Han J, Kop WJ, Tracy RP. The relationship between serum markers of collagen turnover and cardiovascular outcome in the elderly: the Cardiovascular Health Study. Circ Heart Fail. 2011 Nov;4(6):733-9. doi: 10.1161/CIRCHEARTFAILURE.111.962027. Epub 2011 Sep 7."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "For the complete bibliography, please refer to the Cardiovascular Health Study website",
+          "url": "http://www.chs-nhlbi.org/"
+        }
+      ],
+      "availIpds": [
+        {
+          "id": "CHS",
+          "type": "Individual Participant Data Set",
+          "url": "http://biolincc.nhlbi.nih.gov/studies/chs/",
+          "comment": "NHLBI provides controlled access to IPD through BioLINCC. Access requires registration, evidence of local IRB approval or certification of exemption from IRB review, and completion of a data use agreement."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D002318",
+          "term": "Cardiovascular Diseases"
+        },
+        {
+          "id": "D003327",
+          "term": "Coronary Disease"
+        },
+        {
+          "id": "D006331",
+          "term": "Heart Diseases"
+        },
+        {
+          "id": "D020521",
+          "term": "Stroke"
+        },
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D006973",
+          "term": "Hypertension"
+        },
+        {
+          "id": "D006333",
+          "term": "Heart Failure"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D017202",
+          "term": "Myocardial Ischemia"
+        },
+        {
+          "id": "D014652",
+          "term": "Vascular Diseases"
+        },
+        {
+          "id": "D002561",
+          "term": "Cerebrovascular Disorders"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

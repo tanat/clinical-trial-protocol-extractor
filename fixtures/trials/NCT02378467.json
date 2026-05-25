@@ -1,0 +1,629 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT02378467",
+      "orgStudyIdInfo": {
+        "id": "SHIP001"
+      },
+      "organization": {
+        "fullName": "University of Washington, the Collaborative Health Studies Coordinating Center",
+        "class": "OTHER"
+      },
+      "briefTitle": "Saline Hypertonic in Preschoolers",
+      "officialTitle": "Saline Hypertonic in Preschoolers",
+      "acronym": "SHIP"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2015-03-01",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2018-08-31",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2018-08-31",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2015-02-27",
+      "studyFirstSubmitQcDate": "2015-03-03",
+      "studyFirstPostDateStruct": {
+        "date": "2015-03-04",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2020-01-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-01-14",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Washington, the Collaborative Health Studies Coordinating Center",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Cystic Fibrosis Foundation",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of this study is to assess whether inhalation of 7% hypertonic saline (HS) twice daily for 48 weeks improves the lung clearance index by multiple breath nitrogen washout in comparison with inhalation of 0.9% isotonic saline (IS) in preschool children (ages 3 to 5) with cystic fibrosis.",
+      "detailedDescription": "A growing body of evidence supports the importance of intervention in cystic fibrosis (CF) lung disease during early childhood, in order to potentially delay or prevent irreversible lung damage. Yet, aside from antimicrobial therapies, the CF community has no clinical trial evidence base with which to guide chronic pulmonary therapies in preschool children. Hypertonic saline (HS) is the most attractive chronic maintenance therapy to investigate in preschool children because it addresses defective mucociliary clearance, an early step in the cascade of events leading to CF lung disease that is expected to be abnormal prior to the onset of airway infection and inflammation.\n\nBased on several studies, HS appears to be safe in children less than 6 years of age, but its effectiveness has been difficult to measure. In a previous study (ISIS), children less than 6 years old receiving HS had the same number of lung infections as children receiving a control treatment. However, the investigators think that children this young need a more sensitive test, such as lung function testing, to see if HS works in preventing lung damage. Multiple Breath Washout (MBW) is a relatively easy lung function test to perform with preschool children. It calculates a measurement called the Lung Clearance Index (LCI), a sensitive measure of airway inhomogeneity. In a sub-study of the ISIS study in 25 children, LCI improved in children that inhaled HS twice daily for 48 weeks.\n\nThis is a multicenter, randomized, double-blind, controlled, parallel group trial assessing LCI in children with CF ages 3 to 5 at enrollment. Participants will be randomized 1:1 to receive 7% HS (treatment arm) vs. 0.9 % isotonic saline (control arm) administered twice daily via jet nebulizer for 48 weeks. Study visits will occur at Screening, Enrollment, and at Weeks 12, 24, 36 and 48. Contact with a parent or legal guardian to assess adherence and interim medical history will occur at 1, 4 and 8 weeks after enrollment and then quarterly between subsequent study visits. Except for the screening visit, study visits will occur on a quarterly basis.\n\nTotal duration of participation will be up to 52 weeks. As enrollment will occur over approximately 18 months, total duration of the study is expected to be up to 30 months (18 months enrollment plus 12 months for the last participants to complete study participation)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Cystic Fibrosis"
+      ],
+      "keywords": [
+        "Cystic Fibrosis",
+        "Hypertonic Saline",
+        "Inhaled Saline",
+        "Digestive System Diseases",
+        "Genetic Diseases, Inborn",
+        "Lung Diseases",
+        "Pancreatic Diseases",
+        "Pathologic Processes",
+        "Respiratory Tract Diseases"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "QUADRUPLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 150,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Active Treatment Group",
+          "type": "EXPERIMENTAL",
+          "description": "7% Hypertonic Saline administered via inhalation twice daily for 48 weeks",
+          "interventionNames": [
+            "Drug: 7% Hypertonic Saline (HS)"
+          ]
+        },
+        {
+          "label": "Control Group",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "0.9% Isotonic Saline administered via inhalation twice daily for 48 weeks",
+          "interventionNames": [
+            "Drug: 0.9% Isotonic Saline (IS)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "7% Hypertonic Saline (HS)",
+          "description": "Administered via inhalation twice daily for 48 weeks. The delivery system is a PARI Sprint Junior nebulizer with a PARI Baby face mask or mouthpiece driven by a PARI Vios® compressor.",
+          "armGroupLabels": [
+            "Active Treatment Group"
+          ],
+          "otherNames": [
+            "Hyper-Sal™, inhaled saline"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "0.9% Isotonic Saline (IS)",
+          "description": "Administered via inhalation twice daily for 48 weeks. The delivery system is a PARI Sprint Junior nebulizer with a PARI Baby face mask or mouthpiece driven by a PARI Vios® compressor.",
+          "armGroupLabels": [
+            "Control Group"
+          ],
+          "otherNames": [
+            "Normal saline"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in Lung Clearance Index (LCI)",
+          "description": "Change in Lung Clearance Index (LCI) from baseline to 48 weeks measured by N2 Multiple Breath Washout (MBW) between subjects randomized to HS and IS.",
+          "timeFrame": "48 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Forced Expiratory Volume (FEV)",
+          "description": "Change in FEV 0.75 measured by preschool spirometry between subjects randomized to HS and IS.",
+          "timeFrame": "48 weeks"
+        },
+        {
+          "measure": "Pulmonary exacerbation rate",
+          "description": "Protocol defined pulmonary exacerbation rate.",
+          "timeFrame": "48 weeks"
+        },
+        {
+          "measure": "Health-related quality of life",
+          "description": "Health-related quality of life as measured by the modified parent-reported Cystic Fibrosis Questionnaire-Revised (CFQ-R) for preschoolers.",
+          "timeFrame": "48 weeks"
+        },
+        {
+          "measure": "Respiratory Signs",
+          "description": "Parent observation of respiratory signs as measured by the Cystic Fibrosis Respiratory Sign Diary for ages 0-6 (CFRSD0-6).",
+          "timeFrame": "48 weeks"
+        },
+        {
+          "measure": "Respiratory Pathogen Rate",
+          "description": "Rates of treatment emergent CF respiratory pathogens from clinical respiratory cultures.",
+          "timeFrame": "48 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Diagnosis of CF as evidenced by one or more clinical feature consistent with the CF phenotype or positive CF newborn screen AND one or more of the following criteria:\n* A documented sweat chloride ≥ 60 milliequivalents of solute per litre (mEq/L) by quantitative pilocarpine iontophoresis (QPIT)\n* A documented genotype with two disease-causing mutations in the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) gene\n* Informed consent by parent or legal guardian\n* Age ≥ 36 months and ≤72 months at Screening visit\n* Ability to comply with medication use, study visits and study procedures as judged by the site investigator\n* Ability to perform technically acceptable MBW measurements at the screening and enrollment visits\n\nExclusion Criteria:\n\n* Acute intercurrent respiratory infection, defined as an increase in cough, wheezing, or respiratory rate with onset within 3 weeks preceding Screening or Enrollment visit\n* Acute wheezing at Screening or Enrollment visit\n* Oxygen saturation \\< 95% (\\<90% in centers located above 4000 feet elevation) at Screening or Enrollment visit\n* Physical findings that would compromise the safety of the participant or the quality of the study data as determined by site investigator\n* Investigational drug use within 30 days prior to Screening or Enrollment visit\n* Treatment with inhaled hypertonic saline at any concentration within 30 days prior to Screening or Enrollment visit\n* Chronic lung disease not related to CF\n* Inability to tolerate first dose of study treatment at the Enrollment visit",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "3 Years",
+      "maximumAge": "5 Years",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Stephanie Davis, MD",
+          "affiliation": "Indiana University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Richard A Kronmal, PhD",
+          "affiliation": "University of Washington",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Felix Ratjen, MD, PhD, FRCPC",
+          "affiliation": "Hospital for Sick Kids, Toronto",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Margaret Rosenfeld, MD, MPH",
+          "affiliation": "Seattle Children's Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Alabama-Birmingham: Pulmonary, Allergy and Critical Care Medicine",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35233",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Stanford University",
+          "city": "Palo Alto",
+          "state": "California",
+          "zip": "94304",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.44188,
+            "lon": -122.14302
+          }
+        },
+        {
+          "facility": "Children's Hospital of Colorado",
+          "city": "Aurora",
+          "state": "Colorado",
+          "zip": "80045",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.72943,
+            "lon": -104.83192
+          }
+        },
+        {
+          "facility": "Nemours Children's Hospital",
+          "city": "Orlando",
+          "state": "Florida",
+          "zip": "32827",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 28.53834,
+            "lon": -81.37924
+          }
+        },
+        {
+          "facility": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Riley Hospital for Children-Indiana U Med Center",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46202",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "University of Iowa, Department of Pediatrics",
+          "city": "Iowa City",
+          "state": "Iowa",
+          "zip": "52242",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.66113,
+            "lon": -91.53017
+          }
+        },
+        {
+          "facility": "Johns Hopkins University: Pediatric Pulmonary",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21287",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Boston Children's Hospital",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Children's Hospitals and Clinics of Minnesota",
+          "city": "Minneapolis",
+          "state": "Minnesota",
+          "zip": "55404",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 44.97997,
+            "lon": -93.26384
+          }
+        },
+        {
+          "facility": "Children's Mercy Hospital",
+          "city": "Kansas City",
+          "state": "Missouri",
+          "zip": "64108",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.09973,
+            "lon": -94.57857
+          }
+        },
+        {
+          "facility": "Washington University School of Medicine",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63110",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "Women & Children's Hospital of Buffalo",
+          "city": "Buffalo",
+          "state": "New York",
+          "zip": "14222",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.88645,
+            "lon": -78.87837
+          }
+        },
+        {
+          "facility": "University of North Carolina at Chapel Hill",
+          "city": "Chapel Hill",
+          "state": "North Carolina",
+          "zip": "27599-7217",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.9132,
+            "lon": -79.05584
+          }
+        },
+        {
+          "facility": "Cincinnati Children's Hospital Medical Center",
+          "city": "Cincinnati",
+          "state": "Ohio",
+          "zip": "45229",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.12711,
+            "lon": -84.51439
+          }
+        },
+        {
+          "facility": "Rainbow Babies Children's Hospital and Case Western Reserve University School of Medicine",
+          "city": "Cleveland",
+          "state": "Ohio",
+          "zip": "44212",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.4995,
+            "lon": -81.69541
+          }
+        },
+        {
+          "facility": "Nationwide Children's Hospital",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Oregon Health Sciences University",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97239",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.52345,
+            "lon": -122.67621
+          }
+        },
+        {
+          "facility": "Children's Hospital of Philadelphia, UPenn",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95238,
+            "lon": -75.16362
+          }
+        },
+        {
+          "facility": "Children's Hospital of Pittsburgh of UPMC",
+          "city": "Pittsburgh",
+          "state": "Pennsylvania",
+          "zip": "15224",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.44062,
+            "lon": -79.99589
+          }
+        },
+        {
+          "facility": "Texas Children's Hospital and Baylor College of Medicine",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Seattle Children's Hospital",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98105",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.60621,
+            "lon": -122.33207
+          }
+        },
+        {
+          "facility": "Children's Hospital of Wisconsin",
+          "city": "Milwaukee",
+          "state": "Wisconsin",
+          "zip": "53226",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.0389,
+            "lon": -87.90647
+          }
+        },
+        {
+          "facility": "British Columbia Children's Hospital",
+          "city": "Vancouver",
+          "state": "British Columbia",
+          "zip": "V6H 3V4",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 49.24966,
+            "lon": -123.11934
+          }
+        },
+        {
+          "facility": "Hospital for Sick Kids",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 1X8",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "22610452",
+          "type": "BACKGROUND",
+          "citation": "Rosenfeld M, Ratjen F, Brumback L, Daniel S, Rowbotham R, McNamara S, Johnson R, Kronmal R, Davis SD; ISIS Study Group. Inhaled hypertonic saline in infants and children younger than 6 years with cystic fibrosis: the ISIS randomized controlled trial. JAMA. 2012 Jun 6;307(21):2269-77. doi: 10.1001/jama.2012.5214."
+        },
+        {
+          "pmid": "20435858",
+          "type": "BACKGROUND",
+          "citation": "Amin R, Subbarao P, Jabar A, Balkovec S, Jensen R, Kerrigan S, Gustafsson P, Ratjen F. Hypertonic saline improves the LCI in paediatric patients with CF with normal lung function. Thorax. 2010 May;65(5):379-83. doi: 10.1136/thx.2009.125831."
+        },
+        {
+          "pmid": "31178421",
+          "type": "RESULT",
+          "citation": "Ratjen F, Davis SD, Stanojevic S, Kronmal RA, Hinckley Stukovsky KD, Jorgensen N, Rosenfeld M; SHIP Study Group. Inhaled hypertonic saline in preschool children with cystic fibrosis (SHIP): a multicentre, randomised, double-blind, placebo-controlled trial. Lancet Respir Med. 2019 Sep;7(9):802-809. doi: 10.1016/S2213-2600(19)30187-0. Epub 2019 Jun 6."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003550",
+          "term": "Cystic Fibrosis"
+        },
+        {
+          "id": "D004066",
+          "term": "Digestive System Diseases"
+        },
+        {
+          "id": "D030342",
+          "term": "Genetic Diseases, Inborn"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D010182",
+          "term": "Pancreatic Diseases"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        },
+        {
+          "id": "D007232",
+          "term": "Infant, Newborn, Diseases"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D012462",
+          "term": "Saline Solution, Hypertonic"
+        },
+        {
+          "id": "D012965",
+          "term": "Sodium Chloride"
+        },
+        {
+          "id": "D000077330",
+          "term": "Saline Solution"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D006982",
+          "term": "Hypertonic Solutions"
+        },
+        {
+          "id": "D012996",
+          "term": "Solutions"
+        },
+        {
+          "id": "D004364",
+          "term": "Pharmaceutical Preparations"
+        },
+        {
+          "id": "D002712",
+          "term": "Chlorides"
+        },
+        {
+          "id": "D006851",
+          "term": "Hydrochloric Acid"
+        },
+        {
+          "id": "D017606",
+          "term": "Chlorine Compounds"
+        },
+        {
+          "id": "D007287",
+          "term": "Inorganic Chemicals"
+        },
+        {
+          "id": "D017670",
+          "term": "Sodium Compounds"
+        },
+        {
+          "id": "D000077324",
+          "term": "Crystalloid Solutions"
+        },
+        {
+          "id": "D007552",
+          "term": "Isotonic Solutions"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

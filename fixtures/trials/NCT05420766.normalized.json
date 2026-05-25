@@ -1,0 +1,118 @@
+{
+  "phase": "NA",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "10mL of heparinized blood",
+      "timeFrame": "Changes in immune function across Days 7, 11, 14, 21 and 28 of the 4-week sleep protocol",
+      "description": "Changes in the immune biomarker profile related to lung function and asthma morbidity: CD4+IFNy+ Th1 cells; CD4+IL4+, CD4+IL5+, CD4+IL13+ Th2 cells; plasma IL-6"
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Inclusion:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Children 7-11 years old",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Has physician-diagnosed asthma, per parent and pediatrician report",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Meets criteria for current persistent asthma with a current prescription for an asthma controller medicine",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Obtains 9.0-11.0 h of sleep per 24 h day in the past month",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Has a positive allergy skin test performed at the clinic visit",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Resides and attend school in one of the targeted urban areas (Rhode Island: East Providence, North Providence, Providence, Warwick, Cranston, Woonsocket, Central Falls, Pawtucket, Lincoln, Johnston. Massachusetts: Attleboro, North Attleboro, Fall River.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Has a primary caregiver who speaks English",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Exclusion:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "No asthma diagnosis",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "No use of asthma controller medication",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Severe persistent asthma that is poorly controlled",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Diagnosis of additional pulmonary disease or medical condition or immune deficiency disorders",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Use of systemic steroids <30 days of screening",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Asthma-related emergency department visit and/or asthma-related hospitalization in past 90 days",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Marked developmental delay, psychiatric conditions, academic/behavioral problems, learning disabilities",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Tanner stage 3-5 of pubertal development",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Diagnosed ADHD; Use of stimulants to treat ADHD",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "An Apnea-Hypoxia Index >5 (indicator of sleep disordered breathing)",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "BEHAVIORAL",
+      "name": "Shortened Sleep"
+    },
+    {
+      "type": "BEHAVIORAL",
+      "name": "Stabilized sleep"
+    }
+  ]
+}

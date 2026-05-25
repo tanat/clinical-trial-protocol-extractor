@@ -1,0 +1,4568 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03086486",
+      "orgStudyIdInfo": {
+        "id": "ZeNix (B-Pa-L) NC-007"
+      },
+      "organization": {
+        "fullName": "Global Alliance for TB Drug Development",
+        "class": "OTHER"
+      },
+      "briefTitle": "Various Doses and Durations of Linezolid Plus Bedaquiline & Pretomanid in Participants With Drug Resistant Tuberculosis",
+      "officialTitle": "A Phase 3 Partially-blinded, Randomized Trial Assessing the Safety and Efficacy of Various Doses and Treatment Durations of Linezolid Plus Bedaquiline and Pretomanid in Participants With Pulmonary Infection of Either Extensively Drug-resistant Tuberculosis (XDR-TB), Pre-XDR-TB or Treatment Intolerant or Non-responsive Multi-drug Resistant Tuberculosis (MDR-TB)",
+      "acronym": "ZeNix"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2023-06",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2017-11-21",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2021-02-15",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2022-02-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2017-03-07",
+      "studyFirstSubmitQcDate": "2017-03-15",
+      "studyFirstPostDateStruct": {
+        "date": "2017-03-22",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2022-05-26",
+      "resultsFirstSubmitQcDate": "2023-06-12",
+      "resultsFirstPostDateStruct": {
+        "date": "2023-06-29",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2023-06-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2023-06-29",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Global Alliance for TB Drug Development",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To evaluate the efficacy, safety and tolerability of various doses and durations of linezolid plus bedaquiline and pretomanid after 26 weeks of treatment in participants with either pulmonary XDR-TB, pre-XDR-TB, or treatment intolerant or non-responsive MDR-TB.",
+      "detailedDescription": "A phase 3, multi-center, partially-blinded, randomized clinical trial in 4 parallel treatment groups. Bedaquiline and pretomanid treatment will not be blinded. Linezolid treatment dose and duration will be double-blinded.\n\nParticipants will have a screening period of up to 14 days and will be randomized to receive one of the 4 active treatment arms. Participants will be randomized to one of the 4 regimens in a 1:1:1:1 ratio, using an interactive voice and web response system (IXRS) which will utilize a randomization system using stratification with a random element to allocate participants evenly across the arms by HIV status and type of TB.\n\nEach participant will receive 26 weeks of treatment. If participant's week 16 sputum sample is culture positive between the week 16 and week 26 treatment visits and their clinical condition suggests they may have an ongoing TB infection, Investigator may consider extending current treatment to 39 weeks. If the culture results between week 16 and week 26 are contaminated, missing or considered an isolated positive without clinical significance, available culture results should be used to make this decision. All decisions regarding treatment extension should be discussed with and approved by, in consultation with the Sponsor Medical Monitor before implementation. The treatment may also require modification due to toxicities. All dose modifications should be discussed with the Sponsor Medical Monitor prior to implementation, unless a pause or dose reduction is required urgently for safety concerns.\n\nParticipants will be followed for 78 weeks after end of treatment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Tuberculosis, Pulmonary",
+        "Tuberculosis, Multidrug-Resistant",
+        "Tuberculosis, MDR",
+        "Tuberculosis",
+        "Extensively Drug-Resistant Tuberculosis",
+        "Pre-XDR-TB",
+        "XDR-TB"
+      ],
+      "keywords": [
+        "Tuberculosis",
+        "Multi Drug-Resistant Tuberculosis",
+        "Extensively Drug-Resistant Tuberculosis",
+        "Drug-Resistant Tuberculosis",
+        "Pretomanid",
+        "PA-824",
+        "Bedaquiline",
+        "Linezolid",
+        "NC-007",
+        "TB Alliance",
+        "pre-XDR-TB",
+        "Sirturo",
+        "Zyvox",
+        "ZeNix"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "TRIPLE",
+          "maskingDescription": "Participants, trial investigators and staff, including laboratory staff, will be blinded to dose and scheduled duration of linezolid. Bedaquiline and pretomanid dosing will not be blinded. There will be three unblinded analyses which will contain results by linezolid treatment group in aggregate. The first analysis will be after all participants have completed 26 weeks of treatment and here sites, participants, and Sponsor staff will not be unblinded to individual linezolid treatment information. A limited number of statisticians will have access to individual linezolid treatment assignments. The blind for all individual participants will be broken for the primary endpoint analysis (the second unblinded analysis) once all clinical data and outcome parameters have been captured, no more data queries are pending, and the statistical analysis plan has been finalized. The third analysis will occur when all participants have completed 78 weeks of follow-up after end of treatment.",
+          "whoMasked": [
+            "PARTICIPANT",
+            "CARE_PROVIDER",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 181,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "1200mg L x 26 weeks + Pa + B",
+          "type": "EXPERIMENTAL",
+          "description": "2 linezolid 600 mg active tablets once daily for 26 weeks plus 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks",
+          "interventionNames": [
+            "Drug: Pretomanid",
+            "Drug: Linezolid",
+            "Drug: Bedaquiline",
+            "Drug: Placebo Linezolid"
+          ]
+        },
+        {
+          "label": "1200 mg L x 9 weeks + Pa + B",
+          "type": "EXPERIMENTAL",
+          "description": "2 linezolid 600 mg active tablets once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks",
+          "interventionNames": [
+            "Drug: Pretomanid",
+            "Drug: Linezolid",
+            "Drug: Bedaquiline",
+            "Drug: Placebo Linezolid"
+          ]
+        },
+        {
+          "label": "600 mg L x 26 weeks + Pa + B",
+          "type": "EXPERIMENTAL",
+          "description": "1 linezolid 600 mg active tablet once daily for 26 weeks, 1 placebo linezolid 600 mg tablet once daily for 26 weeks, 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks",
+          "interventionNames": [
+            "Drug: Pretomanid",
+            "Drug: Linezolid",
+            "Drug: Bedaquiline",
+            "Drug: Placebo Linezolid"
+          ]
+        },
+        {
+          "label": "600 mg L x 9 weeks + Pa + B",
+          "type": "EXPERIMENTAL",
+          "description": "1 linezolid 600 mg active tablets once daily for 8 weeks, 1 placebo linezolid 600 mg half tablet once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks",
+          "interventionNames": [
+            "Drug: Pretomanid",
+            "Drug: Linezolid",
+            "Drug: Bedaquiline",
+            "Drug: Placebo Linezolid"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Pretomanid",
+          "description": "200mg tablets",
+          "armGroupLabels": [
+            "1200 mg L x 9 weeks + Pa + B",
+            "1200mg L x 26 weeks + Pa + B",
+            "600 mg L x 26 weeks + Pa + B",
+            "600 mg L x 9 weeks + Pa + B"
+          ],
+          "otherNames": [
+            "PA-824",
+            "Pa"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Linezolid",
+          "description": "Scored 600mg tablets",
+          "armGroupLabels": [
+            "1200 mg L x 9 weeks + Pa + B",
+            "1200mg L x 26 weeks + Pa + B",
+            "600 mg L x 26 weeks + Pa + B",
+            "600 mg L x 9 weeks + Pa + B"
+          ],
+          "otherNames": [
+            "L",
+            "Lin",
+            "Zyvox"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Bedaquiline",
+          "description": "100mg tablets",
+          "armGroupLabels": [
+            "1200 mg L x 9 weeks + Pa + B",
+            "1200mg L x 26 weeks + Pa + B",
+            "600 mg L x 26 weeks + Pa + B",
+            "600 mg L x 9 weeks + Pa + B"
+          ],
+          "otherNames": [
+            "TMC-207",
+            "B",
+            "Sirturo"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo Linezolid",
+          "description": "Scored 600 mg tablets",
+          "armGroupLabels": [
+            "1200 mg L x 9 weeks + Pa + B",
+            "1200mg L x 26 weeks + Pa + B",
+            "600 mg L x 26 weeks + Pa + B",
+            "600 mg L x 9 weeks + Pa + B"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Incidence of Bacteriologic Failure or Relapse or Clinical Failure (Unfavorables) Through Follow up Until 26 Weeks After the End of Treatment",
+          "description": "Unfavourable status:\n\n1. Participants not classified as having achieved or maintained culture negative status when last seen\n2. Participants previously classified as having culture negative status who, following the end of treatment, have two positive cultures without an intervening negative culture\n3. Participants who had a positive culture not followed by at least two negative cultures when last seen\n4. Participants dying from any cause during treatment, except from violent or accidental cause, not including suicide\n5. Participants definitely or possibly dying from TB related cause during the follow-up phase\n6. Participants requiring an extension of their treatment beyond that permitted by the protocol a restart or a change of treatment for any reason except reinfection or pregnancy\n7. Participants who have had surgery and the resected tissue is cultured and is positive for MTB\n8. Participants lost to follow up or withdrawn from the study before the end of treatment",
+          "timeFrame": "26 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Incidence of Bacteriologic Failure or Relapse or Clinical Failure (Unfavorables) Through Follow up Until 78 Weeks After the End of Treatment.",
+          "description": "Unfavourable status:\n\n1. Participants not classified as having achieved or maintained culture negative status when last seen\n2. Participants previously classified as having culture negative status who, following the end of treatment, have two positive cultures without an intervening negative culture\n3. Participants who had a positive culture not followed by at least two negative cultures when last seen\n4. Participants dying from any cause during treatment, except from violent or accidental cause, not including suicide\n5. Participants definitely or possibly dying from TB related cause during the follow-up phase\n6. Participants requiring an extension of their treatment beyond that permitted by the protocol a restart or a change of treatment for any reason except reinfection or pregnancy\n7. Participants who have had surgery and the resected tissue is cultured and is positive for MTB\n8. Participants lost to follow up or withdrawn from the study before the end of treatment",
+          "timeFrame": "78 weeks"
+        },
+        {
+          "measure": "Time to Sputum Culture Conversion to Negative Status Through the Treatment Period",
+          "description": "Culture conversion is a diagnostic criteria indicating the point at which samples taken from a patient infected with tuberculosis can no longer produce tuberculosis cell cultures.\n\nNote:\n\n* Culture conversion requires at least 2 consecutive culture negative/positive samples at least 7 days apart.\n* Participants who are documented at a visit as unable to produce sputum and who are clinically considered to be responding well to treatment will be considered to be culture negative at that visit.",
+          "timeFrame": "26 weeks"
+        },
+        {
+          "measure": "Sputum Culture Conversion to Negative Status at End of Treatment for Those Positive at Baseline",
+          "description": "Culture conversion is a diagnostic criteria indicating the point at which samples taken from a patient infected with tuberculosis can no longer produce tuberculosis cell cultures.",
+          "timeFrame": "End of Treatment, 26 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Male or female, aged 14 years or older.\n* One of the following with documentation of culture positive or molecular test within 3 months of screening:\n\n  * XDR-TB defined as resistance to rifamycins, a fluoroquinolone AND an injectable OR\n  * Pre-XDR-TB with defined as resistance to rifamycins, and to a fluoroquinolone OR an injectable OR\n  * MDR-TB with resistance to rifamycins, and either non-responsive or non-tolerant to current treatment.\n* Of non-childbearing potential or willing to practice effective birth control methods.\n* Complete informed consent form.\n\nExclusion criteria:\n\n* Karnofsky score \\< 60 at screening.\n* Body mass index (BMI) \\< 17 kg/m2\n* Participants who are expected to require a surgical procedure (for Pulmonary TB).\n* Any risk factor for QT prolongation\n* Pregnant or breast-feeding\n* Any planned contraindicated medicines or received more than 2 weeks of bedaquiline, linezolid or delamanid prior to first dose of IMP.\n* A peripheral neuropathy of Grade 3 or 4, according to DMID. Or, participants with a Grade 1 or 2 neuropathy which is likely to progress/worsen over the course of the study, in the opinion of the Investigator\n* Any of the following lab toxicities/abnormalities:\n\n  * Viral load \\>1000 copies/mL (Unless newly diagnosed HIV and not yet on ART who otherwise qualify for participation);\n  * CD4+ count \\< 100 cells/µL (HIV positive participants);\n  * Serum potassium less than the lower limit of normal for the laboratory;\n  * Hemoglobin \\< 9.0 g/dL or 90g/L;\n  * Platelets \\<100,000/mm3 or \\< 100 x 10\\^9/L\n  * Absolute neutrophil count (ANC) \\< 1500/ mm3 or \\< 1.5 x 10\\^9/L\n  * Aspartate aminotransferase (AST) and Alanini aminotransferase (ALT) Grade 3 or greater (\\> 3.0 x ULN)\n  * Total bilirubin greater than 1.5 x ULN\n  * Direct bilirubin greater than ULN\n  * Serum creatinine level greater than 1.5 times upper limit of normal\n  * Albumin \\<3.0 g/dl or \\< 30 g/L",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "14 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Francesca Conradie",
+          "affiliation": "Isango Lethemba TB Research Unit",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "National Center for Tuberculosis and Lung Diseases",
+          "city": "Tbilisi",
+          "zip": "0101",
+          "country": "Georgia",
+          "geoPoint": {
+            "lat": 41.69143,
+            "lon": 44.83412
+          }
+        },
+        {
+          "facility": "Institute of Phthisiopneumology Chiril Draganiuc",
+          "city": "Chisinau",
+          "zip": "2025",
+          "country": "Moldova",
+          "geoPoint": {
+            "lat": 47.00902,
+            "lon": 28.85938
+          }
+        },
+        {
+          "facility": "Moscow City Research and Practice Tuberculosis Treatment Centre",
+          "city": "Moscow",
+          "zip": "107014",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 55.75204,
+            "lon": 37.61781
+          }
+        },
+        {
+          "facility": "Central TB Research Institute of the Federal Agency of Scientific Organizations Moscow",
+          "city": "Moscow",
+          "zip": "107564",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 55.75204,
+            "lon": 37.61781
+          }
+        },
+        {
+          "facility": "National Medical Research Center of Phthisiopulmonology and Infectious Diseases",
+          "city": "Moscow",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 55.75204,
+            "lon": 37.61781
+          }
+        },
+        {
+          "facility": "FSBI \"Saint-Petersburg Research Institute of Phthisiopulmonology\"",
+          "city": "Saint Petersburg",
+          "zip": "191036",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 59.93863,
+            "lon": 30.31413
+          }
+        },
+        {
+          "facility": "Ural Research Institute of Phthisiopulmonology",
+          "city": "Yekaterinburg",
+          "zip": "620039",
+          "country": "Russia",
+          "geoPoint": {
+            "lat": 56.85733,
+            "lon": 60.61529
+          }
+        },
+        {
+          "facility": "Empilweni TB Hospital",
+          "city": "Port Elizabeth",
+          "state": "Eastern Cape",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -33.96109,
+            "lon": 25.61494
+          }
+        },
+        {
+          "facility": "Tshepong Hospital",
+          "city": "Klerksdorp",
+          "state": "North West",
+          "zip": "2574",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -26.85213,
+            "lon": 26.66672
+          }
+        },
+        {
+          "facility": "King DinuZulu Hospital Complex",
+          "city": "Durban",
+          "zip": "4015",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -29.8579,
+            "lon": 31.0292
+          }
+        },
+        {
+          "facility": "Clinical HIV Research Unit (CHRU) Sizwe Tropical Diseases Hospital",
+          "city": "Johannesburg",
+          "zip": "2131",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -26.20227,
+            "lon": 28.04363
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "36053506",
+          "type": "DERIVED",
+          "citation": "Conradie F, Bagdasaryan TR, Borisov S, Howell P, Mikiashvili L, Ngubane N, Samoilova A, Skornykova S, Tudor E, Variava E, Yablonskiy P, Everitt D, Wills GH, Sun E, Olugbosi M, Egizi E, Li M, Holsta A, Timm J, Bateson A, Crook AM, Fabiane SM, Hunt R, McHugh TD, Tweed CD, Foraida S, Mendel CM, Spigelman M; ZeNix Trial Team. Bedaquiline-Pretomanid-Linezolid Regimens for Drug-Resistant Tuberculosis. N Engl J Med. 2022 Sep 1;387(9):810-823. doi: 10.1056/NEJMoa2119430."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "A total of 248 participants were screened for the trial, of whom 67 failed screening, 181 were randomized, and 169 completed treatment.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "1200mg L x 26 Weeks + Pa + B",
+          "description": "2 linezolid 600 mg active tablets once daily for 26 weeks plus 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+        },
+        {
+          "id": "FG001",
+          "title": "1200 mg L x 9 Weeks + Pa + B",
+          "description": "2 linezolid 600 mg active tablets once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+        },
+        {
+          "id": "FG002",
+          "title": "600 mg L x 26 Weeks + Pa + B",
+          "description": "1 linezolid 600 mg active tablet once daily for 26 weeks, 1 placebo linezolid 600 mg tablet once daily for 26 weeks, 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+        },
+        {
+          "id": "FG003",
+          "title": "600 mg L x 9 Weeks + Pa + B",
+          "description": "1 linezolid 600 mg active tablets once daily for 8 weeks, 1 placebo linezolid 600 mg half tablet once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "45"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "46"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "45"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "45"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "comment": "Treatment",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "44"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "42"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "43"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "40"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "4"
+                },
+                {
+                  "groupId": "FG002",
+                  "numSubjects": "2"
+                },
+                {
+                  "groupId": "FG003",
+                  "numSubjects": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "1200mg L x 26 Weeks + Pa + B",
+          "description": "2 linezolid 600 mg active tablets once daily for 26 weeks plus 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+        },
+        {
+          "id": "BG001",
+          "title": "1200 mg L x 9 Weeks + Pa + B",
+          "description": "2 linezolid 600 mg active tablets once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+        },
+        {
+          "id": "BG002",
+          "title": "600 mg L x 26 Weeks + Pa + B",
+          "description": "1 linezolid 600 mg active tablet once daily for 26 weeks, 1 placebo linezolid 600 mg tablet once daily for 26 weeks, 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+        },
+        {
+          "id": "BG003",
+          "title": "600 mg L x 9 Weeks + Pa + B",
+          "description": "1 linezolid 600 mg active tablets once daily for 8 weeks, 1 placebo linezolid 600 mg half tablet once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+        },
+        {
+          "id": "BG004",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "45"
+            },
+            {
+              "groupId": "BG001",
+              "value": "46"
+            },
+            {
+              "groupId": "BG002",
+              "value": "45"
+            },
+            {
+              "groupId": "BG003",
+              "value": "45"
+            },
+            {
+              "groupId": "BG004",
+              "value": "181"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "37.4",
+                      "lowerLimit": "30.0",
+                      "upperLimit": "44.0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "35.1",
+                      "lowerLimit": "26.0",
+                      "upperLimit": "42.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "39.2",
+                      "lowerLimit": "30.0",
+                      "upperLimit": "46.0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "36.8",
+                      "lowerLimit": "32.0",
+                      "upperLimit": "41.0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "37.1",
+                      "lowerLimit": "30.0",
+                      "upperLimit": "44.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "14"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "59"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "122"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "66"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "34"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "115"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "title": "South Africa",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "66"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Moldova",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Georgia",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "34"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Russia",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "71"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Height",
+          "paramType": "MEAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "cm",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "173.2",
+                      "lowerLimit": "165.0",
+                      "upperLimit": "178.0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "170.2",
+                      "lowerLimit": "164.0",
+                      "upperLimit": "177.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "171.2",
+                      "lowerLimit": "165.0",
+                      "upperLimit": "174.0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "171.2",
+                      "lowerLimit": "164.0",
+                      "upperLimit": "179.0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "171.4",
+                      "lowerLimit": "165.0",
+                      "upperLimit": "178.0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Weight",
+          "paramType": "MEAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "kg",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "62.8",
+                      "lowerLimit": "55.0",
+                      "upperLimit": "67.3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "62.1",
+                      "lowerLimit": "52.9",
+                      "upperLimit": "69.0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "63.1",
+                      "lowerLimit": "52.4",
+                      "upperLimit": "66.5"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "64.5",
+                      "lowerLimit": "58.0",
+                      "upperLimit": "70.7"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "63.1",
+                      "lowerLimit": "54.0",
+                      "upperLimit": "67.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "BMI",
+          "paramType": "MEAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "kg/m^2",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20.8",
+                      "lowerLimit": "18.8",
+                      "upperLimit": "22.3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "21.3",
+                      "lowerLimit": "18.6",
+                      "upperLimit": "23.4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21.3",
+                      "lowerLimit": "18.6",
+                      "upperLimit": "23.6"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "21.9",
+                      "lowerLimit": "19.6",
+                      "upperLimit": "24.0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "21.3",
+                      "lowerLimit": "18.8",
+                      "upperLimit": "23.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "HIV Status",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Positive",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "36"
+                    }
+                  ]
+                },
+                {
+                  "title": "Negative",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "145"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Smoking",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Never",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "68"
+                    }
+                  ]
+                },
+                {
+                  "title": "Current",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "15"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "66"
+                    }
+                  ]
+                },
+                {
+                  "title": "Former",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "47"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Alcohol Use",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Never",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "63"
+                    }
+                  ]
+                },
+                {
+                  "title": "Current",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "34"
+                    }
+                  ]
+                },
+                {
+                  "title": "Former",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "84"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Karnofsky performance status",
+          "description": "Trained clinicians interview participants and grade their ability to perform daily activities using a percent scale where higher scores indicate that the participant is better able to function than lower scores. 100% indicates normal activity with no evidence of disease whereas a score of 70% or lower would indicate that the participant is unable to work and 40% or lower is unable to care for themselves. http://www.npcrc.org/files/news/karnofsky\\_performance\\_scale.pdf",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "100",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "8"
+                    }
+                  ]
+                },
+                {
+                  "title": "90",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "26"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "113"
+                    }
+                  ]
+                },
+                {
+                  "title": "80",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "47"
+                    }
+                  ]
+                },
+                {
+                  "title": "70",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "13"
+                    }
+                  ]
+                },
+                {
+                  "title": "60 or below",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Current Tuberculosis (TB) type",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Multi Drug Resistant (MDR) TB (nonresponsive)",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "12"
+                    }
+                  ]
+                },
+                {
+                  "title": "Multi Drug Resistant (MDR) TB (treatment-intolerant)",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "9"
+                    }
+                  ]
+                },
+                {
+                  "title": "Pre-Extensively Drug Resistant (Pre-XDR) TB",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "85"
+                    }
+                  ]
+                },
+                {
+                  "title": "Extensively Drug Resistant (XDR) TB",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "19"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "17"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "75"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "History of Tuberculosis (TB)",
+          "description": "Participants reported all previous tuberculosis infections prior to and including current infection.",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "Drug Sensitive (DS) TB",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "54"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Mono Resistant TB",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "MDR TB",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "89"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Pre-XDR TB",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "24"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "XDR TB",
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "25"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "106"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Screening smear microscopy for Acid Fast Bacilli (AFB)",
+          "description": "Detected acid-fast bacilli (AFB) by microscopic examination of clinical sputum specimens and cultures collected from participants. A quantitative grading system (WHO/IUATLD scaling system) was used to report the number of AFB observed in stained smears from concentrated sputum specimens, ranging from none seen to a 3+, depending on the amount of bacilli counted on microscopic examination.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "No AFB seen",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "24"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "23"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "90"
+                    }
+                  ]
+                },
+                {
+                  "title": "Scanty positive",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "11"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "8"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "28"
+                    }
+                  ]
+                },
+                {
+                  "title": "1+",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "21"
+                    }
+                  ]
+                },
+                {
+                  "title": "2+",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "19"
+                    }
+                  ]
+                },
+                {
+                  "title": "3+",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "10"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "23"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Time to positive at baseline",
+          "description": "Liquid culture in the MGIT platform to detect the presence or absence of Mycobacterium tuberculosis (MTB) and obtain the time to positivity (TTP)",
+          "populationDescription": "Only participants who were positive at baseline in liquid culture MGIT. Positive culture at screening not required per protocol.",
+          "paramType": "MEAN",
+          "dispersionType": "INTER_QUARTILE_RANGE",
+          "unitOfMeasure": "days",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "30"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "32"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "33"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "36"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "131"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "14.3",
+                      "lowerLimit": "6.9",
+                      "upperLimit": "16.8"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "11.3",
+                      "lowerLimit": "6.7",
+                      "upperLimit": "13.7"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "14.0",
+                      "lowerLimit": "5.7",
+                      "upperLimit": "20.3"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "12.5",
+                      "lowerLimit": "5.8",
+                      "upperLimit": "17.7"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "13.0",
+                      "lowerLimit": "6.5",
+                      "upperLimit": "16.8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chest x-ray at Screening",
+          "description": "Obtained and read locally by the investigator or designee with results classified as normal or abnormal consistent with pulmonary TB in the opinion of the investigator.",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "Normal",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "title": "Abnormal",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "44"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "43"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "174"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Chest X-ray Cavities at Screening",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "denoms": [
+                {
+                  "units": "Participants",
+                  "counts": [
+                    {
+                      "groupId": "BG000",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "46"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "45"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "181"
+                    }
+                  ]
+                }
+              ],
+              "categories": [
+                {
+                  "title": "None",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "12"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "18"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "69"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unilateral",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "22"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "20"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "21"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "84"
+                    }
+                  ]
+                },
+                {
+                  "title": "Bilateral",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "13"
+                    },
+                    {
+                      "groupId": "BG003",
+                      "value": "6"
+                    },
+                    {
+                      "groupId": "BG004",
+                      "value": "28"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Incidence of Bacteriologic Failure or Relapse or Clinical Failure (Unfavorables) Through Follow up Until 26 Weeks After the End of Treatment",
+          "description": "Unfavourable status:\n\n1. Participants not classified as having achieved or maintained culture negative status when last seen\n2. Participants previously classified as having culture negative status who, following the end of treatment, have two positive cultures without an intervening negative culture\n3. Participants who had a positive culture not followed by at least two negative cultures when last seen\n4. Participants dying from any cause during treatment, except from violent or accidental cause, not including suicide\n5. Participants definitely or possibly dying from TB related cause during the follow-up phase\n6. Participants requiring an extension of their treatment beyond that permitted by the protocol a restart or a change of treatment for any reason except reinfection or pregnancy\n7. Participants who have had surgery and the resected tissue is cultured and is positive for MTB\n8. Participants lost to follow up or withdrawn from the study before the end of treatment",
+          "populationDescription": "Participants were considered unassessable and therefore excluded from the Modified Intent to Treat (MITT) population if they were late exclusions, lost to follow-up, reinfected with a different strain of TB, withdrawn during the Follow-up Period, or died during the treatment period.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "26 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "1200mg L x 26 Weeks + Pa + B",
+              "description": "2 linezolid 600 mg active tablets once daily for 26 weeks plus 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG001",
+              "title": "1200 mg L x 9 Weeks + Pa + B",
+              "description": "2 linezolid 600 mg active tablets once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG002",
+              "title": "600 mg L x 26 Weeks + Pa + B",
+              "description": "1 linezolid 600 mg active tablet once daily for 26 weeks, 1 placebo linezolid 600 mg tablet once daily for 26 weeks, 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG003",
+              "title": "600 mg L x 9 Weeks + Pa + B",
+              "description": "1 linezolid 600 mg active tablets once daily for 8 weeks, 1 placebo linezolid 600 mg half tablet once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG004",
+              "title": "Total",
+              "description": "Total Study Population"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "45"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "45"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG004",
+                  "value": "178"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Favorable",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "40"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "41"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "37"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "159"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unfavorable",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "4"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "7"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Incidence of Bacteriologic Failure or Relapse or Clinical Failure (Unfavorables) Through Follow up Until 78 Weeks After the End of Treatment.",
+          "description": "Unfavourable status:\n\n1. Participants not classified as having achieved or maintained culture negative status when last seen\n2. Participants previously classified as having culture negative status who, following the end of treatment, have two positive cultures without an intervening negative culture\n3. Participants who had a positive culture not followed by at least two negative cultures when last seen\n4. Participants dying from any cause during treatment, except from violent or accidental cause, not including suicide\n5. Participants definitely or possibly dying from TB related cause during the follow-up phase\n6. Participants requiring an extension of their treatment beyond that permitted by the protocol a restart or a change of treatment for any reason except reinfection or pregnancy\n7. Participants who have had surgery and the resected tissue is cultured and is positive for MTB\n8. Participants lost to follow up or withdrawn from the study before the end of treatment",
+          "populationDescription": "Participants were considered unassessable and therefore excluded from the Modified Intent to Treat (MITT) population if they were late exclusions, lost to follow-up, reinfected with a different strain of TB, withdrawn during the Follow-up Period, or died during the treatment period.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "78 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "1200mg L x 26 Weeks + Pa + B",
+              "description": "2 linezolid 600 mg active tablets once daily for 26 weeks plus 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG001",
+              "title": "1200 mg L x 9 Weeks + Pa + B",
+              "description": "2 linezolid 600 mg active tablets once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG002",
+              "title": "600 mg L x 26 Weeks + Pa + B",
+              "description": "1 linezolid 600 mg active tablet once daily for 26 weeks, 1 placebo linezolid 600 mg tablet once daily for 26 weeks, 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG003",
+              "title": "600 mg L x 9 Weeks + Pa + B",
+              "description": "1 linezolid 600 mg active tablets once daily for 8 weeks, 1 placebo linezolid 600 mg half tablet once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG004",
+              "title": "Total",
+              "description": "Total Study Population"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "43"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "45"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "44"
+                },
+                {
+                  "groupId": "OG004",
+                  "value": "176"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Favorable",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "40"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "39"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "40"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "35"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "154"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unfavorable",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "5"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "9"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "22"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time to Sputum Culture Conversion to Negative Status Through the Treatment Period",
+          "description": "Culture conversion is a diagnostic criteria indicating the point at which samples taken from a patient infected with tuberculosis can no longer produce tuberculosis cell cultures.\n\nNote:\n\n* Culture conversion requires at least 2 consecutive culture negative/positive samples at least 7 days apart.\n* Participants who are documented at a visit as unable to produce sputum and who are clinically considered to be responding well to treatment will be considered to be culture negative at that visit.",
+          "populationDescription": "Participants in the MITT population who were culture positive during the baseline period were assessable. Unassessable Includes participants not positive at baseline and/or unassessable in the MITT population.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Inter-Quartile Range",
+          "unitOfMeasure": "weeks",
+          "timeFrame": "26 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "1200mg L x 26 Weeks + Pa + B",
+              "description": "2 linezolid 600 mg active tablets once daily for 26 weeks plus 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG001",
+              "title": "1200 mg L x 9 Weeks + Pa + B",
+              "description": "2 linezolid 600 mg active tablets once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG002",
+              "title": "600 mg L x 26 Weeks + Pa + B",
+              "description": "1 linezolid 600 mg active tablet once daily for 26 weeks, 1 placebo linezolid 600 mg tablet once daily for 26 weeks, 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG003",
+              "title": "600 mg L x 9 Weeks + Pa + B",
+              "description": "1 linezolid 600 mg active tablets once daily for 8 weeks, 1 placebo linezolid 600 mg half tablet once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG004",
+              "title": "Total",
+              "description": "Total Study Population"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "30"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "32"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "33"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "35"
+                },
+                {
+                  "groupId": "OG004",
+                  "value": "130"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4",
+                      "lowerLimit": "2",
+                      "upperLimit": "8"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "4",
+                      "lowerLimit": "2",
+                      "upperLimit": "8"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "6",
+                      "lowerLimit": "3",
+                      "upperLimit": "6"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "6",
+                      "lowerLimit": "3",
+                      "upperLimit": "10"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "6",
+                      "lowerLimit": "3",
+                      "upperLimit": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Sputum Culture Conversion to Negative Status at End of Treatment for Those Positive at Baseline",
+          "description": "Culture conversion is a diagnostic criteria indicating the point at which samples taken from a patient infected with tuberculosis can no longer produce tuberculosis cell cultures.",
+          "populationDescription": "The participant numbers for inclusion in analysis are those assessable participants with a positive culture status at baseline, not including those who withdrew or were lost to contact during treatment at or before Week 26.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "End of Treatment, 26 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "1200mg L x 26 Weeks + Pa + B",
+              "description": "2 linezolid 600 mg active tablets once daily for 26 weeks plus 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG001",
+              "title": "1200 mg L x 9 Weeks + Pa + B",
+              "description": "2 linezolid 600 mg active tablets once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG002",
+              "title": "600 mg L x 26 Weeks + Pa + B",
+              "description": "1 linezolid 600 mg active tablet once daily for 26 weeks, 1 placebo linezolid 600 mg tablet once daily for 26 weeks, 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG003",
+              "title": "600 mg L x 9 Weeks + Pa + B",
+              "description": "1 linezolid 600 mg active tablets once daily for 8 weeks, 1 placebo linezolid 600 mg half tablet once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks"
+            },
+            {
+              "id": "OG004",
+              "title": "Total",
+              "description": "Total Study Population"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "29"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "29"
+                },
+                {
+                  "groupId": "OG002",
+                  "value": "32"
+                },
+                {
+                  "groupId": "OG003",
+                  "value": "32"
+                },
+                {
+                  "groupId": "OG004",
+                  "value": "122"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Negative",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "28"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "31"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "119"
+                    }
+                  ]
+                },
+                {
+                  "title": "Positive",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Died",
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG002",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG003",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "OG004",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "28 weeks",
+      "description": "All listed adverse events (AEs) are treatment emergent adverse events (TEAE) which are defined as AEs that started or worsened at or after the first administration of IMP up to and including 14 days after the last administration of IMP.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "1200mg L x 26 Weeks + Pa + B",
+          "description": "2 linezolid 600 mg active tablets once daily for 26 weeks plus 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 45,
+          "seriousNumAffected": 3,
+          "seriousNumAtRisk": 45,
+          "otherNumAffected": 40,
+          "otherNumAtRisk": 45
+        },
+        {
+          "id": "EG001",
+          "title": "1200 mg L x 9 Weeks + Pa + B",
+          "description": "2 linezolid 600 mg active tablets once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 46,
+          "seriousNumAffected": 4,
+          "seriousNumAtRisk": 46,
+          "otherNumAffected": 41,
+          "otherNumAtRisk": 46
+        },
+        {
+          "id": "EG002",
+          "title": "600 mg L x 26 Weeks + Pa + B",
+          "description": "1 linezolid 600 mg active tablet once daily for 26 weeks, 1 placebo linezolid 600 mg tablet once daily for 26 weeks, 1 placebo linezolid 300 mg half tablet once daily for 26 weeks plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 45,
+          "seriousNumAffected": 1,
+          "seriousNumAtRisk": 45,
+          "otherNumAffected": 39,
+          "otherNumAtRisk": 45
+        },
+        {
+          "id": "EG003",
+          "title": "600 mg L x 9 Weeks + Pa + B",
+          "description": "1 linezolid 600 mg active tablets once daily for 8 weeks, 1 placebo linezolid 600 mg half tablet once daily for 9 weeks, 1 placebo linezolid 300 mg half tablet once daily for 9 weeks (for Weeks 1-9); 2 placebo linezolid 600 mg tablets once daily for 17 weeks, 1 placebo linezolid 300 mg half tablet once daily for 17 weeks (for Weeks 10-26) plus; bedaquiline 200 mg once daily for 8 weeks then 100 mg once daily for 18 weeks plus; pretomanid 200 mg once daily for 26 weeks",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 45,
+          "seriousNumAffected": 3,
+          "seriousNumAtRisk": 45,
+          "otherNumAffected": 36,
+          "otherNumAtRisk": 45
+        },
+        {
+          "id": "EG004",
+          "title": "Total",
+          "description": "Total Study Population",
+          "deathsNumAffected": 1,
+          "deathsNumAtRisk": 181,
+          "seriousNumAffected": 11,
+          "seriousNumAtRisk": 181,
+          "otherNumAffected": 156,
+          "otherNumAtRisk": 181
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Optic neuropathy",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Drug-induced liver injury",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 2,
+              "numAffected": 2,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Hepatitis B",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Tertiary syphilis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Tuberculosis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Thermal burn",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Toxicity to various agents",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Wound haemorrhage",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Brain oedema",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Optic neuritis",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Alcoholic psychosis",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Suicide attempt",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Pulmonary fibrosis",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numEvents": 0,
+              "numAffected": 0,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numEvents": 1,
+              "numAffected": 1,
+              "numAtRisk": 181
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 7,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 14,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Neutropenia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 6,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 4,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 16,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 5,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 12,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Dyspepsia",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 9,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 5,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 15,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 2,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 9,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 4,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 2,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 2,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 9,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Hepatic enzyme increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 8,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 4,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 20,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Transaminases increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 6,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 5,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 16,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 5,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 13,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Hypoaesthesia",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 4,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 5,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 14,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Paraesthesia",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 11,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Peripheral sensory neuropathy",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 6,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 4,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 2,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 21,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis acneiform",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 3,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 5,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 13,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Pruritus",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 2,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 10,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Rash papular",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 4,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 1,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 2,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 10,
+              "numAtRisk": 181
+            }
+          ]
+        },
+        {
+          "term": "Hypertension",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA Version 23.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG001",
+              "numAffected": 1,
+              "numAtRisk": 46
+            },
+            {
+              "groupId": "EG002",
+              "numAffected": 2,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG003",
+              "numAffected": 4,
+              "numAtRisk": 45
+            },
+            {
+              "groupId": "EG004",
+              "numAffected": 12,
+              "numAtRisk": 181
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "None reported."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "OTHER",
+        "restrictiveAgreement": true,
+        "otherDetails": "Institution and Principal Investigator shall not publish, present or use the Study Data for its own instruction, research or publication without the prior express written consent of Sponsor. Because the Study is funded, in whole or in part, by the Bill and Melinda Gates Foundation (the \"Foundation\"), all peer-reviewed published research relating to the Study must comply with the Foundation's Open Access Policy."
+      },
+      "pointOfContact": {
+        "title": "Morounfolu Olugbosi",
+        "organization": "TB Alliance",
+        "email": "morounfolu.olugbosi@tballiance.org",
+        "phone": "1 212 227 7540"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2020-03-18",
+          "uploadDate": "2022-01-28T21:08",
+          "filename": "Prot_000.pdf",
+          "size": 13355748
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2021-01-29",
+          "uploadDate": "2022-01-28T21:17",
+          "filename": "SAP_001.pdf",
+          "size": 9161056
+        },
+        {
+          "typeAbbrev": "ICF",
+          "hasProtocol": false,
+          "hasSap": false,
+          "hasIcf": true,
+          "label": "Informed Consent Form",
+          "date": "2018-06-13",
+          "uploadDate": "2022-02-01T13:36",
+          "filename": "ICF_002.pdf",
+          "size": 3383947
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2022-06-27",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014397",
+          "term": "Tuberculosis, Pulmonary"
+        },
+        {
+          "id": "D018088",
+          "term": "Tuberculosis, Multidrug-Resistant"
+        },
+        {
+          "id": "D014376",
+          "term": "Tuberculosis"
+        },
+        {
+          "id": "D054908",
+          "term": "Extensively Drug-Resistant Tuberculosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009164",
+          "term": "Mycobacterium Infections"
+        },
+        {
+          "id": "D000193",
+          "term": "Actinomycetales Infections"
+        },
+        {
+          "id": "D016908",
+          "term": "Gram-Positive Bacterial Infections"
+        },
+        {
+          "id": "D001424",
+          "term": "Bacterial Infections"
+        },
+        {
+          "id": "D001423",
+          "term": "Bacterial Infections and Mycoses"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        },
+        {
+          "id": "D012141",
+          "term": "Respiratory Tract Infections"
+        },
+        {
+          "id": "D008171",
+          "term": "Lung Diseases"
+        },
+        {
+          "id": "D012140",
+          "term": "Respiratory Tract Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C410767",
+          "term": "pretomanid"
+        },
+        {
+          "id": "D000069349",
+          "term": "Linezolid"
+        },
+        {
+          "id": "C493870",
+          "term": "bedaquiline"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000081",
+          "term": "Acetamides"
+        },
+        {
+          "id": "D000577",
+          "term": "Amides"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D000085",
+          "term": "Acetates"
+        },
+        {
+          "id": "D000144",
+          "term": "Acids, Acyclic"
+        },
+        {
+          "id": "D002264",
+          "term": "Carboxylic Acids"
+        },
+        {
+          "id": "D023303",
+          "term": "Oxazolidinones"
+        },
+        {
+          "id": "D010080",
+          "term": "Oxazoles"
+        },
+        {
+          "id": "D001393",
+          "term": "Azoles"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

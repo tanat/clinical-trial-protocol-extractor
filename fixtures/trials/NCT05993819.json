@@ -1,0 +1,232 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05993819",
+      "orgStudyIdInfo": {
+        "id": "p.t.REC/012/004535"
+      },
+      "organization": {
+        "fullName": "Cairo University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Impact of Adding Cognitive Behaviour Therapy to Supervised Pilates-based Core Stability Training in Patients With Multiple Sclerosis",
+      "officialTitle": "Impact of Adding Cognitive Behaviour Therapy to Supervised Pilates-based Core Stability Training on Balance and Walking in Patients With Multiple Sclerosis",
+      "acronym": "MS"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-03",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-08-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-02-28",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2026-02-28",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2023-08-07",
+      "studyFirstSubmitQcDate": "2023-08-07",
+      "studyFirstPostDateStruct": {
+        "date": "2023-08-15",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-03-03",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-03-05",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Al Shaymaa Shaaban Abd El Azeim",
+        "investigatorTitle": "principle investigator. alshaymaa shaaban abd el-azeim",
+        "investigatorAffiliation": "Cairo University"
+      },
+      "leadSponsor": {
+        "name": "Cairo University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "To investigate the effect of adding cognitive behaviour therapy to supervised Pilates-based core stability training on balance, walking, fatigue and function in patients with multiple sclerosis",
+      "detailedDescription": "Multiple sclerosis (MS) is characterized by widespread demyelinating lesions and neurodegeneration in the central nervous system, leading to muscle weakness and compromised sensory-motor integration. Muscle weakness predominantly seen in lower extremities and decreased postural control deteriorate physical performance and gait function. Also , respiratory dysfunction and fatigue has been occurred. Optimal trunk control is provided by the somatosensory, motor, and musculoskeletal integrity, which is mostly damaged in MS. Core stability, is defined as the ability to control the position and movement of the trunk on the pelvis to allow optimum power and movement generation, transfer, and control in other segments. A decrease in core stability affects both trunk control and the quality of limb movements due to the kinetic chain in the body. Pilates-based core stability training (PBCST) is a controlled form of exercise used to improve the stabilization of the trunk muscles. The purpose of PBCST is to train the core muscles more effectively by using the basic principles of Pilates integrated into core stabilization exercises and the activation effect of breathing on deep muscles. Transversus abdominis (TrA) activation is crucial in this training. TrA is activated by a feed-forward mechanism of neuromuscular control before sudden spinal loads or limb movements and provides postural adaptation. Thus, effective TrA activation contributes to both distal mobility and postural control by increasing trunk stability (Freeman el al., 2012). We have recently developed a cognitive behavior therapy to explain MS fatigue that integrates the findings across biological and psychosocial research. This model proposes that primary disease factors trigger the initial symptom of fatigue in MS, and the fatigue is perpetuated or worsened depending . fifty patients with MS will be assigned randomly into two equal group; first one will receive cognitive behavioral therapy and pilates and the other will receive pilates only for eight weeks"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Multiple Sclerosis"
+      ],
+      "keywords": [
+        "cognitive behaviour therapy",
+        "Pilates exercise",
+        "palance",
+        "walking"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "interventionModelDescription": "pilates and cognitive behavioral therapy",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "maskingDescription": "opaque sealed envelope",
+          "whoMasked": [
+            "INVESTIGATOR",
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 90,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "pilates based core stability training and congnitive therapy",
+          "type": "EXPERIMENTAL",
+          "description": "the patients will receive pilates and cognitive therapy three times a week for eight weeks",
+          "interventionNames": [
+            "Other: pilates based core stability training and congnitive therapy"
+          ]
+        },
+        {
+          "label": "Pilates based core stability training",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "the patients will receive pilates three times a week for eight weeks",
+          "interventionNames": [
+            "Other: Pilates based core stability training"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "pilates based core stability training and congnitive therapy",
+          "description": "Exercises were structured in different conditions such as supine, side-lying, prone, quadruped, sitting, and standing positions. The various variations of each exercise were created so that the easier or more difficult versions of the exercises were selected according to the level of the patients, basically in the same training plan for all.the patients also will receive cognitive behavioural therapy.The CBT manual was written specifically for this trial. The sessions were collaborative in style, and the therapist used Socratic questioning wherever possible. The main aim was to challenge any behavioral, cognitive, emotional and external factors that may be contributing to MS fatigue.",
+          "armGroupLabels": [
+            "pilates based core stability training and congnitive therapy"
+          ]
+        },
+        {
+          "type": "OTHER",
+          "name": "Pilates based core stability training",
+          "description": "Exercises were structured in different conditions such as supine, side-lying, prone, quadruped, sitting, and standing positions. The various variations of each exercise were created so that the easier or more difficult versions of the exercises were selected according to the level of the patients, basically in the same training plan for all. The exercises were gradually made more difficult to increase the stabilization of the trunk by gradually reducing the support surface, increasing the extremity loading, and adding various materials.Exercises were progressed every 2 weeks in both groups and were performed with 10 repetitions for the first 4 weeks and 15 repetitions for the next 4 weeks.",
+          "armGroupLabels": [
+            "Pilates based core stability training"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "walking assessment",
+          "description": "walking will be assessed by walkway device",
+          "timeFrame": "up to eight weeks"
+        },
+        {
+          "measure": "balance",
+          "description": "balance will be assessed by biodex balance device",
+          "timeFrame": "up to eight weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "fatigue",
+          "description": "fatigue severity scale will be used for assessment of fatigue. The FSS is a self-reported questionnaire that is simple and easy to use. It consists of 9 statements that rate the severity of the patient's fatigue symptoms in terms of how these symptoms affect motivation, exercise, physical function, and activities of daily living. Reflecting on their condition over the past week, patients score each item from 1 to 7, based on the extent, to which they agree or disagree with each statement (1 = strong disagreement, 7 = strong agreement).",
+          "timeFrame": "up to eight weeks"
+        },
+        {
+          "measure": "life disability",
+          "description": "short form 36 will be used for assessment the quality of life in eight domains. score the SF-36, scales are standardized with a scoring algorithm or by the SF-36v2 scoring software to obtain a score ranging from 0 to 100. Higher scores indicate better health status, and a mean score of 50 has been articulated as a normative value for all scales.",
+          "timeFrame": "up to eight weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* A score of 3.5 or less on the Expanded Disability Status Scale (EDSS) because individuals with an EDSS score greater than 3.5 need more assistance, being less independent.\n* Age over 18 years\n* All definite multiple sclerosis patients diagnosed as MS according to revised McDonald criteria 2017\n* Both males and females were included\n\nExclusion Criteria:\n\n-Individuals who had orthopedic, neurologic, and psychological problems that accompanied MS that might affect the treatment results-\n\n* serious cognitive problems; performed regular exercise; were involved in another physiotherapy and rehabilitation program related to MS(Kurtzke, 1993)\n* Pregnant were not included.\n* Individuals who had an exacerbation during the treatment period",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "70 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "Alshaymaa Shaaban Abdelazeim",
+          "city": "Giza",
+          "state": "Dokki",
+          "zip": "11351",
+          "country": "Egypt",
+          "geoPoint": {
+            "lat": 30.00944,
+            "lon": 31.20861
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009103",
+          "term": "Multiple Sclerosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D020278",
+          "term": "Demyelinating Autoimmune Diseases, CNS"
+        },
+        {
+          "id": "D020274",
+          "term": "Autoimmune Diseases of the Nervous System"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D003711",
+          "term": "Demyelinating Diseases"
+        },
+        {
+          "id": "D001327",
+          "term": "Autoimmune Diseases"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

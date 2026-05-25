@@ -1,0 +1,1604 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00648375",
+      "orgStudyIdInfo": {
+        "id": "P50MH058911-01",
+        "type": "NIH",
+        "link": "https://reporter.nih.gov/quickSearch/P50MH058911-01"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "P50MH058911-01",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/P50MH058911-01"
+        },
+        {
+          "id": "0305006139",
+          "type": "OTHER",
+          "domain": "Weill Cornell IRB"
+        }
+      ],
+      "organization": {
+        "fullName": "Weill Medical College of Cornell University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effectiveness of Propranolol For Treating People With Post-Traumatic Stress Disorder",
+      "officialTitle": "Efficacy of Propanolol for Treatment of Posttraumatic Stress Disorder"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2019-12",
+      "overallStatus": "TERMINATED",
+      "whyStopped": "inadequate recruitment",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2003-12"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2009-06",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2009-09",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2008-03-28",
+      "studyFirstSubmitQcDate": "2008-03-28",
+      "studyFirstPostDateStruct": {
+        "date": "2008-04-01",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2019-12-02",
+      "resultsFirstSubmitQcDate": "2019-12-30",
+      "resultsFirstPostDateStruct": {
+        "date": "2020-01-02",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2019-12-30",
+      "lastUpdatePostDateStruct": {
+        "date": "2020-01-02",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Weill Medical College of Cornell University",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Institute of Mental Health (NIMH)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study will evaluate the effectiveness of propranolol in reducing symptoms of distress in people with post-traumatic stress disorder.",
+      "detailedDescription": "Post-traumatic stress disorder (PTSD) is a common and disabling condition, with about 10% of people having experienced PTSD at some point during their lives. The diagnosis of PTSD requires certain criteria: exposure to a severe psychological trauma and the persistent presence of three symptom clusters that include re-experiencing the traumatic event, physiologic hyperarousal, and emotional numbing paired with avoidance of stimuli associated with the event. Stimuli and cues associated with the trauma, such as features of an assailant or accident site, can cause a person to re-experience the traumatic memory and associated feelings of helplessness and fear. When re-experiencing a traumatic memory, people with PTSD usually undergo a heightened stress-related hormonal response that further solidifies new stimulating associations with the traumatic memory. Treatment with propranolol, a blood pressure-lowering drug that reduces stress-related hormonal responses, may be an effective means of preventing the formation of traumatic memories and of improving PTSD symptoms. This study will evaluate the effectiveness of propranolol in reducing symptoms of distress associated with traumatic memories in people with PTSD.\n\nParticipation in this study will last 14 weeks. All potential participants will undergo a 4-hour initial visit that will begin with a medical and psychiatric history review, a psychiatric interview, and symptom questionnaires. Participants will then be assigned randomly to take a test dose of either propranolol or placebo. Upon completion of the test dose, participants will begin 14 weeks of treatment with their assigned test dose medication. Participants will be asked to take the study medication each time they have a traumatic memory associated with hyperarousal symptoms, but no more than two times a day. Using a cognitive behavioral therapy based-workbook, participants will track their symptoms daily and when they use cognitive techniques to relieve symptoms.\n\nParticipants will attend study visits every 2 weeks for the 14 weeks of treatment. During these visits, participants will describe any side effects experienced, complete interviews and questionnaires about PTSD symptom severity, review with study officials their daily workbook entries, and pick up medication. Study participation will end upon completion of the Week 14 study visit.\n\nFor information on a related study, please follow this link:\n\nhttp://clinicaltrials.gov/show/NCT00391430"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Post-Traumatic Stress Disorder"
+      ],
+      "keywords": [
+        "Propanolol",
+        "Beta Blockers",
+        "Reconsolidation",
+        "Cognitive Therapy",
+        "PTSD"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE4"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "DOUBLE",
+          "whoMasked": [
+            "PARTICIPANT",
+            "INVESTIGATOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 12,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Propranolol",
+          "type": "EXPERIMENTAL",
+          "description": "Participants will take propranolol for 14 weeks. Medication will be self-administered times they experience acute onset of hyperarousal symptoms, not more than twice per day.",
+          "interventionNames": [
+            "Drug: Propanolol",
+            "Behavioral: Cognitive therapy workbook"
+          ]
+        },
+        {
+          "label": "Placebo",
+          "type": "PLACEBO_COMPARATOR",
+          "description": "Participants will take placebo for 14 weeks. Medication will be self-administered times they experience acute onset of hyperarousal symptoms, not more than twice per day.",
+          "interventionNames": [
+            "Drug: Placebo",
+            "Behavioral: Cognitive therapy workbook"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Propanolol",
+          "description": "Participants will take a 40-mg dose of propranolol immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.",
+          "armGroupLabels": [
+            "Propranolol"
+          ],
+          "otherNames": [
+            "Inderal"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Placebo",
+          "description": "Participants will take a single dose of placebo immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.",
+          "armGroupLabels": [
+            "Placebo"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Cognitive therapy workbook",
+          "description": "Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day.",
+          "armGroupLabels": [
+            "Placebo",
+            "Propranolol"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in Severity of PTSD Symptoms Measured by Clinician Administered PTSD Scale for DSM-IV (CAPS-DX)",
+          "description": "Scores range from 0-70, higher scores represent more severe symptoms",
+          "timeFrame": "Measured at Week 0, 2,4,6,8,10,12,14"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in Depression Measured by Beck Depression Inventory (BDI)",
+          "description": "Scores range from 0-30, higher scores represent more severe symptoms",
+          "timeFrame": "Measured at Weeks 0,2,4,6,8,10,12, 14"
+        },
+        {
+          "measure": "Change in Post-traumatic Scale-Self Score (PS-SR)",
+          "description": "This is a 17-item self-report scale. Scores range from 0-51, higher scores represent more severe symptoms.",
+          "timeFrame": "Measured at Weeks 0,2,4,6,8,10,12, 14"
+        },
+        {
+          "measure": "Change in Brief Symptoms Inventory-Short Form (BSI-SF)",
+          "description": "BSI-SF is an 18 item scale used for a global score of general distress. Scores range from 0-72, higher scores represent more severe symptoms",
+          "timeFrame": "Measured at Weeks 0,2,4,6,8,10,12, 14"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* DSM-IV diagnosis of PTSD or meets the five of the six diagnostic criteria for PTSD (event, hyperarousal, re-experiencing, duration, and distress/impaired functioning symptom criteria), but not the avoidance/numbing symptom criteria\n\nExclusion Criteria:\n\n* Past or current asthma\n* Diabetes or heart disease\n* Currently pregnant or breastfeeding\n* Concurrent use of daily benzodiazepine; daily use of antidepressant medication allowed if dose has been stable for the 3 months before study entry\n* Exposure therapy or additional cognitive therapy during the course of the study (supportive psychotherapy is allowed if ongoing for at least 3 months before study entry)\n* Substance abuse\n* Current use of beta blockers, amiodarone, chlorpromazine, cimetidine, clonidine, or digoxin",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "maximumAge": "50 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Margaret Altemus, MD",
+          "affiliation": "Weill Medical College of Cornell University",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Weill Cornell Medical College",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "12 subjects were screened for the study. 3 subjects met enrollment criteria and were randomized to study medication.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Propranolol",
+          "description": "Participants will take propranolol for 14 weeks.\n\nPropanolol: Participants will take a 40-mg dose of propranolol immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+        },
+        {
+          "id": "FG001",
+          "title": "Placebo",
+          "description": "Participants will take placebo for 14 weeks.\n\nPlacebo: Participants will take a single dose of placebo immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "2"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "0"
+                },
+                {
+                  "groupId": "FG001",
+                  "numSubjects": "0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "3 of 12 subjects met inclusion criteria for the study",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Propranolol",
+          "description": "Participants will take propranolol for 14 weeks.\n\nPropanolol: Participants will take a 40-mg dose of propranolol immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+        },
+        {
+          "id": "BG001",
+          "title": "Placebo",
+          "description": "Participants will take placebo for 14 weeks.\n\nPlacebo: Participants will take a single dose of placebo immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+        },
+        {
+          "id": "BG002",
+          "title": "Total",
+          "description": "Total of all reporting groups"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "1"
+            },
+            {
+              "groupId": "BG001",
+              "value": "2"
+            },
+            {
+              "groupId": "BG002",
+              "value": "3"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "FULL_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "title": "age",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "42",
+                      "lowerLimit": "42",
+                      "upperLimit": "42"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "36.5",
+                      "lowerLimit": "29",
+                      "upperLimit": "44"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "38.3",
+                      "lowerLimit": "29",
+                      "upperLimit": "44"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "0"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Region of Enrollment",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "United States",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    },
+                    {
+                      "groupId": "BG001",
+                      "value": "2"
+                    },
+                    {
+                      "groupId": "BG002",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Change in Severity of PTSD Symptoms Measured by Clinician Administered PTSD Scale for DSM-IV (CAPS-DX)",
+          "description": "Scores range from 0-70, higher scores represent more severe symptoms",
+          "populationDescription": "3 subjects enrolled in the study and completed all study visits.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Measured at Week 0, 2,4,6,8,10,12,14",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Propranolol",
+              "description": "Participants will take propranolol for 14 weeks.\n\nPropanolol: Participants will take a 40-mg dose of propranolol immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants will take placebo for 14 weeks.\n\nPlacebo: Participants will take a single dose of placebo immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58",
+                      "lowerLimit": "58",
+                      "upperLimit": "58"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "59",
+                      "lowerLimit": "55",
+                      "upperLimit": "63"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 2",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "62",
+                      "lowerLimit": "62",
+                      "upperLimit": "62"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "60",
+                      "lowerLimit": "58",
+                      "upperLimit": "62"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "56",
+                      "lowerLimit": "56",
+                      "upperLimit": "56"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "49.5",
+                      "lowerLimit": "45",
+                      "upperLimit": "54"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 6",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "45",
+                      "lowerLimit": "45",
+                      "upperLimit": "45"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "44",
+                      "lowerLimit": "40",
+                      "upperLimit": "48"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 8",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "40",
+                      "lowerLimit": "40",
+                      "upperLimit": "40"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "45.5",
+                      "lowerLimit": "36",
+                      "upperLimit": "55"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 10",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "32",
+                      "lowerLimit": "32",
+                      "upperLimit": "32"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "35",
+                      "lowerLimit": "30",
+                      "upperLimit": "40"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "29",
+                      "lowerLimit": "29",
+                      "upperLimit": "29"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "35",
+                      "lowerLimit": "18",
+                      "upperLimit": "52"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 14",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "27",
+                      "lowerLimit": "27",
+                      "upperLimit": "27"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "28",
+                      "lowerLimit": "16",
+                      "upperLimit": "40"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Depression Measured by Beck Depression Inventory (BDI)",
+          "description": "Scores range from 0-30, higher scores represent more severe symptoms",
+          "populationDescription": "3 subjects were enrolled and randomized: one to active propranolol and two to placebo. Total number of subjects was too low to perform statistical analysis",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Measured at Weeks 0,2,4,6,8,10,12, 14",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Propranolol",
+              "description": "Participants will take propranolol for 14 weeks.\n\nPropanolol: Participants will take a 40-mg dose of propranolol immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants will take placebo for 14 weeks.\n\nPlacebo: Participants will take a single dose of placebo immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12",
+                      "lowerLimit": "12",
+                      "upperLimit": "12"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "13",
+                      "lowerLimit": "10",
+                      "upperLimit": "16"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 2",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11",
+                      "lowerLimit": "11",
+                      "upperLimit": "11"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "13",
+                      "lowerLimit": "12",
+                      "upperLimit": "14"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "12",
+                      "lowerLimit": "12",
+                      "upperLimit": "12"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9.5",
+                      "lowerLimit": "9",
+                      "upperLimit": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 6",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9",
+                      "lowerLimit": "9",
+                      "upperLimit": "9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "9.5",
+                      "lowerLimit": "8",
+                      "upperLimit": "11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 8",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "9",
+                      "lowerLimit": "9",
+                      "upperLimit": "9"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "10",
+                      "lowerLimit": "10",
+                      "upperLimit": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 10",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7",
+                      "lowerLimit": "7",
+                      "upperLimit": "7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7.5",
+                      "lowerLimit": "7",
+                      "upperLimit": "8"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7",
+                      "lowerLimit": "7",
+                      "upperLimit": "7"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "8.5",
+                      "lowerLimit": "8",
+                      "upperLimit": "9"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 14",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6",
+                      "lowerLimit": "6",
+                      "upperLimit": "6"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "7",
+                      "lowerLimit": "6",
+                      "upperLimit": "8"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Post-traumatic Scale-Self Score (PS-SR)",
+          "description": "This is a 17-item self-report scale. Scores range from 0-51, higher scores represent more severe symptoms.",
+          "populationDescription": "3 subject were enrolled: 1 was randomized to propranolol and 2 were randomized to placebo.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Measured at Weeks 0,2,4,6,8,10,12, 14",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Propranolol",
+              "description": "Participants will take propranolol for 14 weeks.\n\nPropanolol: Participants will take a 40-mg dose of propranolol immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants will take placebo for 14 weeks.\n\nPlacebo: Participants will take a single dose of placebo immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "36",
+                      "lowerLimit": "36",
+                      "upperLimit": "36"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "42.5",
+                      "lowerLimit": "40",
+                      "upperLimit": "45"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 2",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "38",
+                      "lowerLimit": "38",
+                      "upperLimit": "38"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "42.5",
+                      "lowerLimit": "40",
+                      "upperLimit": "45"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "38",
+                      "lowerLimit": "38",
+                      "upperLimit": "38"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "36.5",
+                      "lowerLimit": "34",
+                      "upperLimit": "39"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 6",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "30",
+                      "lowerLimit": "30",
+                      "upperLimit": "30"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "35.5",
+                      "lowerLimit": "35",
+                      "upperLimit": "36"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 8",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "28",
+                      "lowerLimit": "28",
+                      "upperLimit": "28"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "32",
+                      "lowerLimit": "28",
+                      "upperLimit": "36"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 10",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18",
+                      "lowerLimit": "18",
+                      "upperLimit": "18"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "26.5",
+                      "lowerLimit": "24",
+                      "upperLimit": "29"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "19",
+                      "lowerLimit": "19",
+                      "upperLimit": "19"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "24",
+                      "lowerLimit": "14",
+                      "upperLimit": "34"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 14",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17",
+                      "lowerLimit": "17",
+                      "upperLimit": "17"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20.5",
+                      "lowerLimit": "12",
+                      "upperLimit": "29"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Change in Brief Symptoms Inventory-Short Form (BSI-SF)",
+          "description": "BSI-SF is an 18 item scale used for a global score of general distress. Scores range from 0-72, higher scores represent more severe symptoms",
+          "populationDescription": "3 subjects were randomized, one to propranolol and one to placebo. The total number of subjects was too low to perform statistical analysis.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "score on a scale",
+          "timeFrame": "Measured at Weeks 0,2,4,6,8,10,12, 14",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Propranolol",
+              "description": "Participants will take propranolol for 14 weeks.\n\nPropanolol: Participants will take a 40-mg dose of propranolol immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+            },
+            {
+              "id": "OG001",
+              "title": "Placebo",
+              "description": "Participants will take placebo for 14 weeks.\n\nPlacebo: Participants will take a single dose of placebo immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "1"
+                },
+                {
+                  "groupId": "OG001",
+                  "value": "2"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Baseline",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "28",
+                      "lowerLimit": "28",
+                      "upperLimit": "28"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "41",
+                      "lowerLimit": "39",
+                      "upperLimit": "44"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 2",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "34",
+                      "lowerLimit": "34",
+                      "upperLimit": "34"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "42",
+                      "lowerLimit": "41",
+                      "upperLimit": "43"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 4",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "30",
+                      "lowerLimit": "30",
+                      "upperLimit": "30"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "35",
+                      "lowerLimit": "32",
+                      "upperLimit": "38"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 6",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "28",
+                      "lowerLimit": "28",
+                      "upperLimit": "28"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "31",
+                      "lowerLimit": "28",
+                      "upperLimit": "34"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 8",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "32",
+                      "lowerLimit": "32",
+                      "upperLimit": "32"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "32",
+                      "lowerLimit": "25",
+                      "upperLimit": "39"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 10",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26",
+                      "lowerLimit": "26",
+                      "upperLimit": "26"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "25",
+                      "lowerLimit": "21",
+                      "upperLimit": "29"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 12",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "23",
+                      "lowerLimit": "23",
+                      "upperLimit": "23"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "24.5",
+                      "lowerLimit": "13",
+                      "upperLimit": "36"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Week 14",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "18",
+                      "lowerLimit": "18",
+                      "upperLimit": "18"
+                    },
+                    {
+                      "groupId": "OG001",
+                      "value": "20",
+                      "lowerLimit": "12",
+                      "upperLimit": "28"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "14 weeks",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Propranolol",
+          "description": "Participants will take propranolol for 14 weeks.\n\nPropanolol: Participants will take a 40-mg dose of propranolol immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 1,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 1,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 1
+        },
+        {
+          "id": "EG001",
+          "title": "Placebo",
+          "description": "Participants will take placebo for 14 weeks.\n\nPlacebo: Participants will take a single dose of placebo immediately after they experience a traumatic memory associated with strong hyperarousal symptoms. Participants may take up to two doses a day, if the doses are separated by at least 6 hours.\n\nCognitive therapy workbook: Participants will also receive a cognitive behavioral therapy-based workbook in which they will track symptoms and efforts to use cognitive techniques to relieve symptoms each day.",
+          "deathsNumAffected": 0,
+          "deathsNumAtRisk": 2,
+          "seriousNumAffected": 0,
+          "seriousNumAtRisk": 2,
+          "otherNumAffected": 0,
+          "otherNumAtRisk": 2
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "limitationsAndCaveats": {
+        "description": "Due to small numbers of subjects in both arms, statistical analyses were not possible."
+      },
+      "certainAgreement": {
+        "piSponsorEmployee": true
+      },
+      "pointOfContact": {
+        "title": "Margaret Altemus",
+        "organization": "Yale School of Medicine",
+        "email": "margaret.altemus@yale.edu",
+        "phone": "646-209-6277"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D013313",
+          "term": "Stress Disorders, Post-Traumatic"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D040921",
+          "term": "Stress Disorders, Traumatic"
+        },
+        {
+          "id": "D000068099",
+          "term": "Trauma and Stressor Related Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D011433",
+          "term": "Propranolol"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D050198",
+          "term": "Phenoxypropanolamines"
+        },
+        {
+          "id": "D011412",
+          "term": "Propanolamines"
+        },
+        {
+          "id": "D000605",
+          "term": "Amino Alcohols"
+        },
+        {
+          "id": "D000438",
+          "term": "Alcohols"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D020005",
+          "term": "Propanols"
+        },
+        {
+          "id": "D000588",
+          "term": "Amines"
+        },
+        {
+          "id": "D009281",
+          "term": "Naphthalenes"
+        },
+        {
+          "id": "D011084",
+          "term": "Polycyclic Aromatic Hydrocarbons"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

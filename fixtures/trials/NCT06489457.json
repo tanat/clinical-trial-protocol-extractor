@@ -1,0 +1,364 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06489457",
+      "orgStudyIdInfo": {
+        "id": "SEMA-TESTO Hypogonadism"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "0120-26/2020/13",
+          "type": "OTHER",
+          "domain": "Slovenian National Medical Ethics Committee NMEC"
+        }
+      ],
+      "organization": {
+        "fullName": "University Medical Centre Ljubljana",
+        "class": "OTHER"
+      },
+      "briefTitle": "The Effects of Semaglutide vs Testosterone Replacement Therapy on Functional Hypogonadism and Sperm Quality in Men With Type 2 Diabetes Mellitus and Obesity",
+      "officialTitle": "The Effects of Semaglutide vs Testosterone Replacement Therapy on Functional Hypogonadism and Sperm Quality in Men With Type 2 Diabetes Mellitus and Obesity",
+      "acronym": "SEMAT"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-09-20",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-05-11",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2023-06-30",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2024-06-18",
+      "studyFirstSubmitQcDate": "2024-07-02",
+      "studyFirstPostDateStruct": {
+        "date": "2024-07-08",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-07-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-07-08",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Andrej Janez",
+        "investigatorTitle": "Professor, PhD, MD",
+        "investigatorAffiliation": "University Medical Centre Ljubljana"
+      },
+      "leadSponsor": {
+        "name": "University Medical Centre Ljubljana",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The goal of this study is to learn whether semaglutide (treatment for type 2 diabetes and obesity) can improve signs and symptoms of hypogonadism in men with type 2 diabetes, obesity and hypogonadism (a condition when levels of testosterone are decreased).\n\nThe main questions the study aims to answer are:\n\n* Does semaglutide improve the quality of sperm?\n* Does semaglutide improve symptoms of hypogonadism as well as testosterone replacement?\n\nThe researchers will compare semaglutide to testosterone replacement to see which drug better treats symptoms of hypogonadism.\n\n* The participants will receive testosterone replacement therapy (intramuscular injection every 10-12 weeks) or magnitude (subcutaneous injection once a week).\n* The treatment will last 24 weeks.\n* The participants will visit the clinic at the start and the end of the study.\n\nAt the visit, the researchers will measure body weight and take a few blood samples. The participants will also be asked to complete several questionnaires and collect a sperm sample.\n\nThe participants are free to terminate their participation in the study at any time without giving a reason.",
+      "detailedDescription": "Men aged 18 - 65 years with type 2 diabetes on oral antidiabetic treatment, body mass index above 30 kg/m2 and functional hypogonadism (total testosterone below 11 nmol/L and at least 2 symptoms of hypogonadism) are eligible to participate in the study. The participants are randomized to either testosterone undecanoate (100 mg intramuscular injection once per 10-12 weeks) or semaglutide (subcutaneous injection once weekly titrated to 1 mg in concordance with Summary of product characteristics (SmPC) for 24 weeks.\n\nAt the beginning of the study and after 24 weeks of treatment the researchers measured anthropometric (body weight, body composition), endocrine (total testosterone, luteinizing hormone (LH), follicle-stimulating hormone (FSH), sex hormone binding globulin (SHBG)) and metabolic parameters (HbA1c, 75-g oral glucose tolerance test (OGTT), insulin, c-peptide). The participants also gave sperm samples and completed self-reported hypogonadism symptom evaluation (Ageing male symptoms (AMS) score, International Index of erectile function 15 (IIEF-15))."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Type 2 Diabetes Mellitus",
+        "Obesity",
+        "Functional Hypogonadism"
+      ],
+      "keywords": [
+        "Functional Hypogonadism",
+        "Type 2 Diabetes",
+        "Obesity",
+        "Tesrosterone Replacement Therapy",
+        "Semaglutide",
+        "GLP-1 agonist",
+        "Semen",
+        "Sperm"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 25,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Semaglutide Treatment",
+          "type": "EXPERIMENTAL",
+          "interventionNames": [
+            "Drug: Semaglutide"
+          ]
+        },
+        {
+          "label": "Testosterone Replacement Therapy",
+          "type": "ACTIVE_COMPARATOR",
+          "interventionNames": [
+            "Drug: Testosterone Undecanoate"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Semaglutide",
+          "description": "Semaglutide subcutaneous injection once weekly titrated to 1 mg in concordance with Summary of product characteristics (SmPC) (0.25 mg once weekly in the first month, 0.5 mg once weekly in the second month and 1 mg once weekly from the third month onward)",
+          "armGroupLabels": [
+            "Semaglutide Treatment"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Testosterone Undecanoate",
+          "description": "Testosterone Undecanoate intramuscular injection 1000 mg once per 10-12 weeks",
+          "armGroupLabels": [
+            "Testosterone Replacement Therapy"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Change in semen volume from baseline and between the treatment arms",
+          "description": "The semen volume will be measured and reported in mililiters (mL). The higher the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in sperm concentration from baseline and between the treatment arms",
+          "description": "The sperm concentration will be measured and reported in number times 10\\^6 per mililiter (10\\^6/mL). The higher the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in total motility of sperm from baseline and between the treatment arms",
+          "description": "The total motility will be assessed as total number of motile sperm and reported as number times 10\\^6 per ejaculate (10\\^6/ejaculate). The higher the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in normal sperm forms from baseline and between the treatment arms",
+          "description": "The normal sperm forms will be assessed as total number of sperm with normal morphology and reported as number times 10\\^6 per ejaculate (10\\^6/ejaculate). The higher the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in total number of sperm from baseline and between the treatment arms",
+          "description": "The total number of sperm will be measured and reported in number times 10\\^6 per ejaculate (10\\^6/ejaculate). The higher the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Change in International index of erectile function 15 (IIEF-15) score from baseline and between the treatment arms",
+          "description": "IIEF-15 assesses male sexual function. It has 5 domains. Erectile function with scoring range from 30 (max) to 1 (min). Orgasmic function with scoring range from 10 (max) to 1 (min). Sexual desire with scoring range from 10 (max) to 2 (min). Intercourse satisfaction with scoring range from 15 (max) to 0 (min). Overall satisfaction with scoring range from 10 (max) to 2 (min). The subdomains combine to overall score with scoring range from 75 (max) to 6 (min). The higher score indicates the better sexual function.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in Aging male symptoms (AMS) score from baseline and between the treatment arms",
+          "description": "The AMS score assesses male symptoms os hypogonadism. It has 3 subdomains. Psychological symptoms with scoring range from 25 (max) to 5 (min). Somatic with scoring range from 35 (max) to 7 (min). Sexual with scoring range from 25 (max) to 5 (min). The subdomains combine to overall score with scoring range from 85 (max) to 17 (min). The lower the score the less symptoms are present.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in HbA1c from baseline and between the treatment arms",
+          "description": "The HbA1c will be measured and reported in % and milimoles per mole (mmol/mol). The lower the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in follicle-stimulating hormone (FSH) from baseline and between the treatment arms",
+          "description": "The FSH will be measured and reported in international units per liter (IU/L). The higher the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in luteinizing hormone (LH) from baseline and between the treatment arms",
+          "description": "The LH will be measured and reported in international units per liter (IU/L). The higher the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in estimated visceral adipose tissue from baseline and between the treatment arms",
+          "description": "Measured by dual-energy X-ray absorptiometry the estimated visceral adipose tissue will be reported in grams (g). The lower the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in percentage of body fat from baseline and between the treatment arms",
+          "description": "Measured by dual-energy X-ray absorptiometry the procentage of body fat will be reported in %. The lower the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in fasting serum low-density lipoproteins (LDL) cholesterol from baseline and between the treatment arms",
+          "description": "The LDL cholesterol will be measured and reported in milimoles per liter (mmol/L). The lower the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in fasting serum total cholesterol from baseline and between the treatment arms",
+          "description": "The total cholesterol will be measured and reported in milimoles per liter (mmol/L). The lower the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in fasting serum high-density lipoproteins (HDL) cholesterol from baseline and between the treatment arms",
+          "description": "The HDL cholesterol will be measured and reported in milimoles per liter (mmol/L). The higher the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in fasting triglycerides from baseline and between the treatment arms",
+          "description": "Triglycerides will be measured and reported in milimoles per liter (mmol/L). The lower the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Change in body mass from baseline and between the treatment arms",
+          "description": "The body mass will be assessed and reported in kilograms (kg). The lower the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in body mass index (BMI) from baseline and between the treatment arms",
+          "description": "The BMI will be calculated from body mass and height using the following equation: BMI=body mass in kilograms (kg) divided by height in meters (m) squared, and reported in kg/m\\^2. The lower the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        },
+        {
+          "measure": "Change in Homeostatic Model Assessment for Insulin Resistance (HOMA-IR) score from baseline and between the treatment arms",
+          "description": "The HOMA-IR will be calculated using the following equation: HOMA-IR = (fasting plasma insulin×fasting plasma glucose)/22.5. The lower the value the better the outcome.",
+          "timeFrame": "Baseline and 24 weeks"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion criteria:\n\n* type 2 diabetes mellitus,\n* obesity (body mass index (BMI) higher or equal to 30 kg/m\\^2),\n* functional hypogonadism (defined by total testosterone less than 11 nmol/L and 2 or more symptoms of sexual dysfunction)\n\nExclusion criteria:\n\n* Insulin treatment,\n* glucagon-like peptide 1 (GLP-1) agonist treatment,\n* sodium-glucose cotransporter-2 (SGLT-2) inhibitor treatment,\n* other identified causes of hypogonadism,\n* hemochromatosis,\n* active malignant disease,\n* thrombophilia,\n* venous thrombosis within 6 months,\n* recent acute myocardial infarction or stroke,\n* prostate-specific antigen (PSA) higher than 3 ng/L,\n* severe lower urinary tract symptoms with an International Prostate Symptom Score above 19,\n* severe sleep apnea syndrome,\n* hematocrit higher than 0.5,\n* significant kidney or liver disease,\n* ongoing treatment with opioid analgesics, antipsychotics, glucocorticoids,\n* alcohol abuse,\n* severe ongoing mental illness,\n* personal history of pancreatitis or medullary thyroid carcinoma,\n* personal or family history of multiple endocrine neoplasia type 2.",
+      "healthyVolunteers": false,
+      "sex": "MALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "65 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "locations": [
+        {
+          "facility": "University Medical Centre Ljubljana",
+          "city": "Ljubljana",
+          "zip": "1000",
+          "country": "Slovenia",
+          "geoPoint": {
+            "lat": 46.05108,
+            "lon": 14.50513
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "39511836",
+          "type": "DERIVED",
+          "citation": "Gregoric N, Sikonja J, Janez A, Jensterle M. Semaglutide improved sperm morphology in obese men with type 2 diabetes mellitus and functional hypogonadism. Diabetes Obes Metab. 2025 Feb;27(2):519-528. doi: 10.1111/dom.16042. Epub 2024 Nov 7."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO",
+      "description": "We have not decided how and when IPD and the supporting information will be shared. The documents also need to be translated into English. It might take some time."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003924",
+          "term": "Diabetes Mellitus, Type 2"
+        },
+        {
+          "id": "D009765",
+          "term": "Obesity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D003920",
+          "term": "Diabetes Mellitus"
+        },
+        {
+          "id": "D044882",
+          "term": "Glucose Metabolism Disorders"
+        },
+        {
+          "id": "D008659",
+          "term": "Metabolic Diseases"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D050177",
+          "term": "Overweight"
+        },
+        {
+          "id": "D044343",
+          "term": "Overnutrition"
+        },
+        {
+          "id": "D009748",
+          "term": "Nutrition Disorders"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000591245",
+          "term": "semaglutide"
+        },
+        {
+          "id": "C010792",
+          "term": "testosterone undecanoate"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,161 @@
+{
+  "phase": "PHASE_3",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Incidence of Bacteriologic Failure or Relapse or Clinical Failure (Unfavorables) Through Follow up Until 26 Weeks After the End of Treatment",
+      "timeFrame": "26 weeks",
+      "description": "Unfavourable status:\n\n1. Participants not classified as having achieved or maintained culture negative status when last seen\n2. Participants previously classified as having culture negative status who, following the end of treatment, have two positive cultures without an intervening negative culture\n3. Participants who had a positive culture not followed by at least two negative cultures when last seen\n4. Participants dying from any cause during treatment, except from violent or accidental cause, not including suicide\n5. Participants definitely or possibly dying from TB related cause during the follow-up phase\n6. Participants requiring an extension of their treatment beyond that permitted by the protocol a restart or a change of treatment for any reason except reinfection or pregnancy\n7. Participants who have had surgery and the resected tissue is cultured and is positive for MTB\n8. Participants lost to follow up or withdrawn from the study before the end of treatment"
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Male or female, aged 14 years or older.",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "One of the following with documentation of culture positive or molecular test within 3 months of screening:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "XDR-TB defined as resistance to rifamycins, a fluoroquinolone AND an injectable OR",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Pre-XDR-TB with defined as resistance to rifamycins, and to a fluoroquinolone OR an injectable OR",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "MDR-TB with resistance to rifamycins, and either non-responsive or non-tolerant to current treatment.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Of non-childbearing potential or willing to practice effective birth control methods.",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Complete informed consent form.",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Karnofsky score < 60 at screening.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Body mass index (BMI) < 17 kg/m2",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Participants who are expected to require a surgical procedure (for Pulmonary TB).",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Any risk factor for QT prolongation",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Pregnant or breast-feeding",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Any planned contraindicated medicines or received more than 2 weeks of bedaquiline, linezolid or delamanid prior to first dose of IMP.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "A peripheral neuropathy of Grade 3 or 4, according to DMID. Or, participants with a Grade 1 or 2 neuropathy which is likely to progress/worsen over the course of the study, in the opinion of the Investigator",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Any of the following lab toxicities/abnormalities:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Viral load >1000 copies/mL (Unless newly diagnosed HIV and not yet on ART who otherwise qualify for participation);",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "CD4+ count < 100 cells/µL (HIV positive participants);",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Serum potassium less than the lower limit of normal for the laboratory;",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Hemoglobin < 9.0 g/dL or 90g/L;",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Platelets <100,000/mm3 or < 100 x 10\\^9/L",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Absolute neutrophil count (ANC) < 1500/ mm3 or < 1.5 x 10\\^9/L",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Aspartate aminotransferase (AST) and Alanini aminotransferase (ALT) Grade 3 or greater (> 3.0 x ULN)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Total bilirubin greater than 1.5 x ULN",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Direct bilirubin greater than ULN",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Serum creatinine level greater than 1.5 times upper limit of normal",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Albumin <3.0 g/dl or < 30 g/L",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "Pretomanid"
+    },
+    {
+      "type": "DRUG",
+      "name": "Linezolid"
+    },
+    {
+      "type": "DRUG",
+      "name": "Bedaquiline"
+    },
+    {
+      "type": "DRUG",
+      "name": "Placebo Linezolid"
+    }
+  ]
+}

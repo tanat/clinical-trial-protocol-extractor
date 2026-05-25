@@ -1,0 +1,197 @@
+{
+  "phase": "PHASE_2",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Shrinkage of Fibroids - Size of Fibroids",
+      "timeFrame": "3 months (baseline to end of treatment)",
+      "description": "The primary outcome, fibroid volume, was calculated by an ellipsoid formula (π/6xd1xd2xd3) using orthogonal three-dimensional measurements taken from pelvic MRI scan. Individual volumes were summed to assess total fibroid volume for each woman, which were log-transformed before analysis. Women with paired MRI results were included in this intent to treat analysis, even if they did not take all study medication. Fibroids were included if they were seen on both studies.The absolute change in cm3 between baseline and end of treatment was calculated and its log was used for statistics and reporting the results in the data table below."
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Female gender-to evaluate effects in the target population for clinical trials.",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "History of uterine leiomyoma causing symptoms of bleeding, pressure, or pain, as defined by the American College of Obstetrics and Gynecology (ACOG) practice bulletin:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Excessive uterine bleeding will be evidenced by either of the following-profuse bleeding with flooding or clots or repetitive periods lasting for more than 8 days; or anemia due to acute or chronic blood loss;",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Pelvic discomfort caused by leiomyomata, either acute and severe or chronic lower abdominal or low back pressure or bladder pressure with urinary frequency not due to urinary tract infection.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Uterine leiomyoma(ta) of at least 2 cm size.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "In good health. Chronic medication use is acceptable except for glucocorticoid use. Other chronic medication use may be acceptable at the discretion of the research team. Interval use of over-the-counter drugs is acceptable but must be recorded.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Menstrual cycles of 24 - 35 days.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Hemoglobin greater than 10 g/dL (for those wishing surgery); iron may be administered to improve red blood cell counts.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Willing and able to comply with study requirements.",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Age 25 to 50.",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Using mechanical (condoms, diaphragms) sterilization or abstinence methods of contraception for the duration of the study.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Negative urine pregnancy test.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Body mass index (BMI) less than or equal to 33, if a surgical candidate or less than or equal to 35, if not a surgical candidate.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Creatinine less than 1.3 mg/dL.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Liver function tests within 130% of upper limit.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "If interested in hysterectomy, no desire for fertility.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Significant abnormalities in the history, physical or laboratory examination.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Pregnancy.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Lactation.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Use of oral, injectable or inhaled glucocorticoids or megestrol within the last year.",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Unexplained vaginal bleeding.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "History of malignancy within the past 5 years.",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Use of estrogen or progesterone-containing compounds, such as oral contraceptives and hormone replacement therapy, within 8 weeks of study entry, including transdermal, injectable, vaginal and oral preparations.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Use of agents known to induce hepatic P450 enzymes; use of imidazoles.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Current use of Gonadotropin-releasing hormone (GnRH) analogs or other compounds that affect menstrual cyclicity.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Follicle stimulating hormone (FSH) greater than 20 IU/mL.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Untreated cervical dysplasia.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Need for interval use of narcotics.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Abnormal adnexal/ovarian mass.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Use of herbal medication having estrogenic or antiestrogenic effects within the past 3 months.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Contradiction to anesthesia, for women planning surgery.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Genetic causes of leiomyomata.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Previous participation in the study.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Known recent rapid growth of fibroids, defined as a doubling in size in six months.",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "ulipristal acetate 20 mg"
+    },
+    {
+      "type": "DRUG",
+      "name": "ulipristal acetate 10 mg"
+    },
+    {
+      "type": "DRUG",
+      "name": "placebo"
+    }
+  ]
+}

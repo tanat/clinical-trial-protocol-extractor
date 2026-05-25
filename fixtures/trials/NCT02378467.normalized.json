@@ -1,0 +1,98 @@
+{
+  "phase": "NA",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Change in Lung Clearance Index (LCI)",
+      "timeFrame": "48 weeks",
+      "description": "Change in Lung Clearance Index (LCI) from baseline to 48 weeks measured by N2 Multiple Breath Washout (MBW) between subjects randomized to HS and IS."
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Diagnosis of CF as evidenced by one or more clinical feature consistent with the CF phenotype or positive CF newborn screen AND one or more of the following criteria:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "A documented sweat chloride ≥ 60 milliequivalents of solute per litre (mEq/L) by quantitative pilocarpine iontophoresis (QPIT)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "A documented genotype with two disease-causing mutations in the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) gene",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Informed consent by parent or legal guardian",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Age ≥ 36 months and ≤72 months at Screening visit",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Ability to comply with medication use, study visits and study procedures as judged by the site investigator",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Ability to perform technically acceptable MBW measurements at the screening and enrollment visits",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Acute intercurrent respiratory infection, defined as an increase in cough, wheezing, or respiratory rate with onset within 3 weeks preceding Screening or Enrollment visit",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Acute wheezing at Screening or Enrollment visit",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Oxygen saturation < 95% (<90% in centers located above 4000 feet elevation) at Screening or Enrollment visit",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Physical findings that would compromise the safety of the participant or the quality of the study data as determined by site investigator",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Investigational drug use within 30 days prior to Screening or Enrollment visit",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Treatment with inhaled hypertonic saline at any concentration within 30 days prior to Screening or Enrollment visit",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Chronic lung disease not related to CF",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Inability to tolerate first dose of study treatment at the Enrollment visit",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "7% Hypertonic Saline (HS)"
+    },
+    {
+      "type": "DRUG",
+      "name": "0.9% Isotonic Saline (IS)"
+    }
+  ]
+}

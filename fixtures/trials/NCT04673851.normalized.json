@@ -1,0 +1,69 @@
+{
+  "phase": "NA",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Mean Change in UCLA Loneliness Scale Score (Both Cohorts)",
+      "timeFrame": "Cohort 1: Baseline, Mid-treatment (single assessment between Month 1-2), and Post-treatment (up to 3 months); Cohort 2: Baseline, Mid-treatment (single assessment between Month 2-4), and Post-treatment (up to 6 months)",
+      "description": "The UCLA Loneliness scale is a 20 item scale. Answers are on a 4 point scale with options \"I often feel this way,\" \"I sometimes feel this way,\" \"I rarely feel this way,\" and \"I never feel this way.\" Possible scores range from 20 to 80. Higher scores reflect worse outcomes (greater feelings of loneliness). The UCLA Loneliness Scale is a part of the PhenX Toolkit. The UCLA Loneliness Scale is administered in both cohort 1 (Baseline, Mid-treatment, Post-treatment, up to 3 months) and cohort 2 (Baseline, Mid-treatment, Post-treatment, up to 6 months)."
+    },
+    {
+      "measure": "Mean Change in Medical Outcomes Study (MOS) Social Support Survey - Total Score (Both Cohorts)",
+      "timeFrame": "Cohort 1: Baseline, Mid-treatment (single assessment between Month 1-2), and Post-treatment (up to 3 months); Cohort 2: Baseline, Mid-treatment (single assessment between Month 2-4), and Post-treatment (up to 6 months)",
+      "description": "The MOS Social Support Survey is a 19 item scale. Answers are on a 5 point scale with options \"none of the time\", \"a little of the time\", \"some of the time\", \"most of the time\", and \"all of the time\". Possible scores range from 19 to 95. Higher scores reflect higher feelings of social support (more perceived social support). The MOS Social Support Survey is a part of the PhenX Toolkit. The MOS Social Support Survey is administered in both cohort 1 (Baseline, Mid-treatment, Post-treatment, up to 3 months) and cohort 2 (Baseline, Mid-treatment, Post-treatment, up to 6 months)."
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Clients must be between the ages of 16 and 35",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Clients must have a diagnosis of schizophrenia, schizoaffective disorder, schizophreniform disorder, or Unspecified Schizophrenia Spectrum or Other Psychotic disorder",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Clients must be receiving services at one of the four FEP clinics in North Carolina (OASIS, Encompass, Eagle, or SHORE) or UNC-affiliated STEP clinics (Carr Mill Mall, Vilcom Center, Main Wake Clinic)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Clients must not have had thoughts of harming themselves in the month before enrollment",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Clients must not have been hospitalized for psychiatric reasons in the three months before enrollment",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Clients must not have had a psychiatric medication change in the month before enrollment",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Clients must have access to the internet through a phone, tablet, or computer",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Clients who do not speak English will not be considered for enrollment",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Adult clients (18+ years) with legal guardians (LARs) will not be considered for the study",
+      "category": "DEMOGRAPHIC"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DEVICE",
+      "name": "Horyzons USA"
+    }
+  ]
+}

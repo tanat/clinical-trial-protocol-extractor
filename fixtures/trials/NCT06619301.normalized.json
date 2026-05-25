@@ -1,0 +1,73 @@
+{
+  "phase": "PHASE_3",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Hypoglycemia",
+      "timeFrame": "From initiation of insulin therapy to delivery",
+      "description": "Episodes of hypoglycemia with blood glucose less than 60 mg/dL"
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Patient requiring initiation of insulin therapy for Gestational Diabetes Mellitus or Type 2 Diabetes Mellitus in pregnancy",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "At least 18 years old",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Insulin started prior to 34 weeks gestation",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Established prenatal care by 14 weeks gestation",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Those under the age of 18 years old",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Those unable to consent in english",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Allergy to insulin",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Controlled with only diet modification or the use of oral antihyperglycemics",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Has diagnosis of Type 1 Diabetes Mellitus",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Receiving insulin through an insulin pump",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "Insulin glargine"
+    },
+    {
+      "type": "DRUG",
+      "name": "insulin NPH"
+    }
+  ]
+}

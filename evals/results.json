@@ -1,0 +1,3303 @@
+[
+  {
+    "runId": "2026-05-09T11:40:28.318Z",
+    "schemaVersion": "v1.0.0",
+    "promptVersion": "v1.0.0",
+    "model": "claude-sonnet-4-6",
+    "mode": "single-pass",
+    "perTrial": [
+      {
+        "trialId": "NCT00005133",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": []
+          }
+        },
+        "latencyMs": 8274,
+        "tokensIn": 3283,
+        "tokensOut": 291,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT00057629",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 5208,
+        "tokensIn": 1741,
+        "tokensOut": 60,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT00290251",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.8,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.6666666666666666,
+            "matches": [
+              [
+                0,
+                0,
+                0.825
+              ],
+              [
+                1,
+                2,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 6138,
+        "tokensIn": 2450,
+        "tokensOut": 286,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT00318929",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 5627,
+        "tokensIn": 1946,
+        "tokensOut": 165,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT00648375",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.8,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.6666666666666666,
+            "matches": [
+              [
+                0,
+                0,
+                0.8
+              ],
+              [
+                1,
+                1,
+                0.8444444444444443
+              ]
+            ]
+          }
+        },
+        "latencyMs": 6298,
+        "tokensIn": 2000,
+        "tokensOut": 241,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT00794586",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 6022,
+        "tokensIn": 1715,
+        "tokensOut": 118,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT01096901",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 8069,
+        "tokensIn": 1704,
+        "tokensOut": 286,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT01616381",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.6666666666666666,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.5,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 9001,
+        "tokensIn": 2081,
+        "tokensOut": 266,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT02057471",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 7940,
+        "tokensIn": 1746,
+        "tokensOut": 299,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT02237495",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.6666666666666666,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.5,
+            "matches": [
+              [
+                0,
+                0,
+                0.9176470588235293
+              ]
+            ]
+          }
+        },
+        "latencyMs": 5256,
+        "tokensIn": 2075,
+        "tokensOut": 178,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT02378467",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                0.7222222222222222
+              ]
+            ]
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                0.8599999999999999
+              ],
+              [
+                1,
+                1,
+                0.8599999999999999
+              ]
+            ]
+          }
+        },
+        "latencyMs": 6282,
+        "tokensIn": 2043,
+        "tokensOut": 231,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT03086486",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 4391,
+        "tokensIn": 1835,
+        "tokensOut": 101,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT03227731",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 9050,
+        "tokensIn": 3276,
+        "tokensOut": 356,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT03737981",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 5783,
+        "tokensIn": 2225,
+        "tokensOut": 66,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT04673851",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 10106,
+        "tokensIn": 2315,
+        "tokensOut": 390,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05420766",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.8,
+            "type": "f1",
+            "precision": 0.6666666666666666,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                2,
+                1,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 9298,
+        "tokensIn": 2217,
+        "tokensOut": 429,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05586230",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.6666666666666666,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.5,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 5695,
+        "tokensIn": 1783,
+        "tokensOut": 274,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05593094",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.18181818181818182,
+            "type": "f1",
+            "precision": 0.25,
+            "recall": 0.14285714285714285,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 11437,
+        "tokensIn": 1845,
+        "tokensOut": 272,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05751044",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.9090909090909091,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.8333333333333334,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                2,
+                2,
+                1
+              ],
+              [
+                3,
+                3,
+                1
+              ],
+              [
+                4,
+                4,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 12987,
+        "tokensIn": 1848,
+        "tokensOut": 537,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05946772",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 12074,
+        "tokensIn": 1797,
+        "tokensOut": 288,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05993819",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 6978,
+        "tokensIn": 1901,
+        "tokensOut": 145,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT06489457",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 11922,
+        "tokensIn": 1772,
+        "tokensOut": 307,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT06619301",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 7896,
+        "tokensIn": 1740,
+        "tokensOut": 270,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT06948019",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 9046,
+        "tokensIn": 2078,
+        "tokensOut": 156,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT07187739",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 12186,
+        "tokensIn": 2452,
+        "tokensOut": 507,
+        "validationStatus": "invalid"
+      }
+    ],
+    "aggregate": {
+      "phase": 0.28,
+      "studyType": 0.6,
+      "primaryOutcomes": 0.12,
+      "eligibilityCriteria": 0,
+      "interventions": 0.3396363636363637
+    }
+  },
+  {
+    "runId": "2026-05-09T11:44:10.278Z",
+    "schemaVersion": "v1.0.0",
+    "promptVersion": "v1.0.0",
+    "model": "claude-sonnet-4-6",
+    "mode": "single-pass",
+    "perTrial": [
+      {
+        "trialId": "NCT00005133",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 1,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": []
+          }
+        },
+        "latencyMs": 5986,
+        "tokensIn": 3283,
+        "tokensOut": 210,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT00057629",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 9157,
+        "tokensIn": 1741,
+        "tokensOut": 289,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT00290251",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.8,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.6666666666666666,
+            "matches": [
+              [
+                0,
+                0,
+                0.825
+              ],
+              [
+                1,
+                2,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 6888,
+        "tokensIn": 2450,
+        "tokensOut": 303,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT00318929",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 8062,
+        "tokensIn": 1946,
+        "tokensOut": 169,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT00648375",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 4612,
+        "tokensIn": 2000,
+        "tokensOut": 107,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT00794586",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 7086,
+        "tokensIn": 1715,
+        "tokensOut": 103,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT01096901",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0.125,
+            "type": "f1",
+            "precision": 0.5,
+            "recall": 0.07142857142857142,
+            "matches": [
+              [
+                1,
+                0,
+                1
+              ]
+            ]
+          },
+          "interventions": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                0.8133333333333332
+              ]
+            ]
+          }
+        },
+        "latencyMs": 10442,
+        "tokensIn": 1704,
+        "tokensOut": 330,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT01616381",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 4023,
+        "tokensIn": 2081,
+        "tokensOut": 50,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT02057471",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 9359,
+        "tokensIn": 1746,
+        "tokensOut": 363,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT02237495",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.6666666666666666,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.5,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 5753,
+        "tokensIn": 2075,
+        "tokensOut": 202,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT02378467",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                0.7222222222222222
+              ]
+            ]
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                0.7759999999999999
+              ],
+              [
+                1,
+                1,
+                0.8319999999999999
+              ]
+            ]
+          }
+        },
+        "latencyMs": 8216,
+        "tokensIn": 2043,
+        "tokensOut": 249,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT03086486",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 4037,
+        "tokensIn": 1835,
+        "tokensOut": 129,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT03227731",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 8827,
+        "tokensIn": 3276,
+        "tokensOut": 351,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT03737981",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.8571428571428571,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.75,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                2,
+                3,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 6068,
+        "tokensIn": 2225,
+        "tokensOut": 232,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT04673851",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 13621,
+        "tokensIn": 2315,
+        "tokensOut": 439,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05420766",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.8,
+            "type": "f1",
+            "precision": 0.6666666666666666,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                1,
+                0.748
+              ],
+              [
+                1,
+                0,
+                0.7375
+              ]
+            ]
+          }
+        },
+        "latencyMs": 17653,
+        "tokensIn": 2217,
+        "tokensOut": 571,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05586230",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 3328,
+        "tokensIn": 1783,
+        "tokensOut": 55,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT05593094",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.18181818181818182,
+            "type": "f1",
+            "precision": 0.25,
+            "recall": 0.14285714285714285,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 5997,
+        "tokensIn": 1845,
+        "tokensOut": 287,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05751044",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.9090909090909091,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.8333333333333334,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                2,
+                2,
+                1
+              ],
+              [
+                3,
+                3,
+                1
+              ],
+              [
+                4,
+                4,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 17087,
+        "tokensIn": 1848,
+        "tokensOut": 537,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05946772",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 4389,
+        "tokensIn": 1797,
+        "tokensOut": 60,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT05993819",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 6533,
+        "tokensIn": 1901,
+        "tokensOut": 138,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT06489457",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                1,
+                0,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 9855,
+        "tokensIn": 1772,
+        "tokensOut": 479,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT06619301",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 11346,
+        "tokensIn": 1740,
+        "tokensOut": 300,
+        "validationStatus": "invalid"
+      },
+      {
+        "trialId": "NCT06948019",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 4342,
+        "tokensIn": 2078,
+        "tokensOut": 152,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT07187739",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 8366,
+        "tokensIn": 2452,
+        "tokensOut": 224,
+        "validationStatus": "invalid"
+      }
+    ],
+    "aggregate": {
+      "phase": 0.2,
+      "studyType": 0.48,
+      "primaryOutcomes": 0.08,
+      "eligibilityCriteria": 0.005,
+      "interventions": 0.32858874458874454
+    }
+  },
+  {
+    "runId": "2026-05-09T11:50:09.634Z",
+    "schemaVersion": "v1.0.0",
+    "promptVersion": "v1.0.0",
+    "model": "cascade(gpt-4o-mini segmenter, claude-sonnet-4-6 sections)",
+    "mode": "cascade",
+    "perTrial": [
+      {
+        "trialId": "NCT00005133",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 1,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": []
+          }
+        },
+        "latencyMs": 13535,
+        "tokensIn": 7036,
+        "tokensOut": 377,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT00057629",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.4,
+            "type": "f1",
+            "precision": 0.5,
+            "recall": 0.3333333333333333,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 13747,
+        "tokensIn": 2177,
+        "tokensOut": 357,
+        "validationStatus": "partial"
+      },
+      {
+        "trialId": "NCT00290251",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.5714285714285715,
+            "type": "f1",
+            "precision": 0.5,
+            "recall": 0.6666666666666666,
+            "matches": [
+              [
+                0,
+                0,
+                0.825
+              ],
+              [
+                1,
+                2,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 14254,
+        "tokensIn": 2965,
+        "tokensOut": 508,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT00318929",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 10129,
+        "tokensIn": 3192,
+        "tokensOut": 174,
+        "validationStatus": "partial"
+      },
+      {
+        "trialId": "NCT00648375",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.8,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.6666666666666666,
+            "matches": [
+              [
+                0,
+                0,
+                0.9363636363636363
+              ],
+              [
+                1,
+                1,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 10321,
+        "tokensIn": 2722,
+        "tokensOut": 345,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT00794586",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 8591,
+        "tokensIn": 2354,
+        "tokensOut": 261,
+        "validationStatus": "partial"
+      },
+      {
+        "trialId": "NCT01096901",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0.10526315789473682,
+            "type": "f1",
+            "precision": 0.2,
+            "recall": 0.07142857142857142,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 9747,
+        "tokensIn": 2131,
+        "tokensOut": 354,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT01616381",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.3333333333333333,
+            "type": "f1",
+            "precision": 0.25,
+            "recall": 0.5,
+            "matches": [
+              [
+                0,
+                0,
+                0.7
+              ]
+            ]
+          }
+        },
+        "latencyMs": 13337,
+        "tokensIn": 2917,
+        "tokensOut": 321,
+        "validationStatus": "partial"
+      },
+      {
+        "trialId": "NCT02057471",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 8494,
+        "tokensIn": 2193,
+        "tokensOut": 294,
+        "validationStatus": "partial"
+      },
+      {
+        "trialId": "NCT02237495",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 0,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.5,
+            "type": "f1",
+            "precision": 0.5,
+            "recall": 0.5,
+            "matches": [
+              [
+                1,
+                0,
+                0.7
+              ]
+            ]
+          }
+        },
+        "latencyMs": 13046,
+        "tokensIn": 3000,
+        "tokensOut": 242,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT02378467",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                0.7222222222222222
+              ]
+            ]
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                0.8599999999999999
+              ],
+              [
+                1,
+                1,
+                0.8599999999999999
+              ]
+            ]
+          }
+        },
+        "latencyMs": 11759,
+        "tokensIn": 2342,
+        "tokensOut": 245,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT03086486",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.8571428571428571,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.75,
+            "matches": [
+              [
+                0,
+                2,
+                1
+              ],
+              [
+                1,
+                0,
+                1
+              ],
+              [
+                2,
+                1,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 10549,
+        "tokensIn": 2497,
+        "tokensOut": 149,
+        "validationStatus": "partial"
+      },
+      {
+        "trialId": "NCT03227731",
+        "ok": false,
+        "error": "No object generated: could not parse the response."
+      },
+      {
+        "trialId": "NCT03737981",
+        "ok": false,
+        "error": "No object generated: response did not match schema."
+      },
+      {
+        "trialId": "NCT04673851",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 11613,
+        "tokensIn": 2726,
+        "tokensOut": 292,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05420766",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.5,
+            "type": "f1",
+            "precision": 0.3333333333333333,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                1,
+                0,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 14555,
+        "tokensIn": 2645,
+        "tokensOut": 504,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05586230",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.5,
+            "type": "f1",
+            "precision": 0.5,
+            "recall": 0.5,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 9900,
+        "tokensIn": 2014,
+        "tokensOut": 200,
+        "validationStatus": "partial"
+      },
+      {
+        "trialId": "NCT05593094",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.16666666666666666,
+            "type": "f1",
+            "precision": 0.2,
+            "recall": 0.14285714285714285,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 7812,
+        "tokensIn": 2625,
+        "tokensOut": 212,
+        "validationStatus": "partial"
+      },
+      {
+        "trialId": "NCT05751044",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.9090909090909091,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0.8333333333333334,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ],
+              [
+                1,
+                1,
+                1
+              ],
+              [
+                2,
+                2,
+                1
+              ],
+              [
+                3,
+                3,
+                1
+              ],
+              [
+                4,
+                4,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 13656,
+        "tokensIn": 2553,
+        "tokensOut": 576,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05946772",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0.5,
+            "type": "f1",
+            "precision": 0.5,
+            "recall": 0.5,
+            "matches": [
+              [
+                1,
+                1,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 10640,
+        "tokensIn": 2361,
+        "tokensOut": 249,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT05993819",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 1,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 8898,
+        "tokensIn": 2556,
+        "tokensOut": 179,
+        "validationStatus": "partial"
+      },
+      {
+        "trialId": "NCT06489457",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                1,
+                1
+              ],
+              [
+                1,
+                0,
+                1
+              ]
+            ]
+          }
+        },
+        "latencyMs": 10929,
+        "tokensIn": 2157,
+        "tokensOut": 948,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT06619301",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 1,
+            "type": "f1",
+            "precision": 1,
+            "recall": 1,
+            "matches": [
+              [
+                0,
+                0,
+                1
+              ]
+            ]
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 9930,
+        "tokensIn": 2032,
+        "tokensOut": 376,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT06948019",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 0,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 19459,
+        "tokensIn": 3062,
+        "tokensOut": 449,
+        "validationStatus": "valid"
+      },
+      {
+        "trialId": "NCT07187739",
+        "ok": true,
+        "perField": {
+          "phase": {
+            "score": 1,
+            "type": "exact"
+          },
+          "studyType": {
+            "score": 1,
+            "type": "exact"
+          },
+          "primaryOutcomes": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          },
+          "eligibilityCriteria": {
+            "score": 0.125,
+            "type": "f1",
+            "precision": 0.125,
+            "recall": 0.125,
+            "matches": [
+              [
+                3,
+                3,
+                0.8108108108108107
+              ]
+            ]
+          },
+          "interventions": {
+            "score": 0,
+            "type": "f1",
+            "precision": 0,
+            "recall": 0,
+            "matches": []
+          }
+        },
+        "latencyMs": 21900,
+        "tokensIn": 3138,
+        "tokensOut": 399,
+        "validationStatus": "valid"
+      }
+    ],
+    "aggregate": {
+      "phase": 0.43478260869565216,
+      "studyType": 0.9130434782608695,
+      "primaryOutcomes": 0.08695652173913043,
+      "eligibilityCriteria": 0.010011441647597253,
+      "interventions": 0.39294184076792765
+    }
+  }
+]

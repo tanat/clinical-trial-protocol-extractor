@@ -1,0 +1,298 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05420766",
+      "orgStudyIdInfo": {
+        "id": "R01HL156277",
+        "type": "NIH",
+        "link": "https://reporter.nih.gov/quickSearch/R01HL156277"
+      },
+      "organization": {
+        "fullName": "Rhode Island Hospital",
+        "class": "OTHER"
+      },
+      "briefTitle": "Impact of Sleep Duration on Immune Balance in Urban Children With Asthma",
+      "officialTitle": "Impact of Sleep Duration on Immune Balance in Urban Children With Asthma",
+      "acronym": "AIMS"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2022-05-15",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-07-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-07-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-06-02",
+      "studyFirstSubmitQcDate": "2022-06-13",
+      "studyFirstPostDateStruct": {
+        "date": "2022-06-15",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-09-19",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-22",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Rhode Island Hospital",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Brown University",
+          "class": "OTHER"
+        },
+        {
+          "name": "University of Mississippi Medical Center",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false,
+      "isUsExport": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Urban children with asthma are at high risk for short sleep, due to an environment that jeopardizes both sleep and asthma management. Further, urban children with asthma suffer from altered immune balance, a key biological process contributing to individual differences in asthma morbidity and sleep health. In the proposed research, the researchers will examine the effects of shortened and recovery sleep on immune balance and associated changes in lung function in urban children with allergic asthma through an experimental design.",
+      "detailedDescription": "Urban children with asthma are at high risk for short sleep, due to an environment that jeopardizes sleep and asthma management. Further, this group suffers from altered immune balance, a key biological process contributing to individual differences in asthma morbidity and sleep health. Allergic asthma is a chronic inflammatory disorder driven primarily by disturbed T helper 1 (Th1)/ 2 (Th2) cytokine balance marked by Th2 cytokine (IL-4, IL-5 and/or IL-13) predominance. Experimental findings in healthy adults show that shortened sleep increases inflammatory cytokine (e.g., IL-6) and certain Th2 cytokine levels and that recovery sleep following sleep restriction promotes a return to immune balance. Whether sleep duration plays a key role in immune function and associated asthma activity in urban children with asthma remains a scientific gap. The researchers use an experimental design that targets sleep duration, because (1) the urban environment and asthma symptoms interact to shorten sleep, (2) sleep duration is a modifiable behavior overlooked in clinical care of urban children with asthma, and (3) experimental data are critical to test a causal link for sleep duration as a mechanism underlying immune balance and asthma.\n\nThe research team will enroll urban children (N=204; ages 7-11 years) with persistent allergic asthma and adequate sleep duration (9-11 h) who will complete a 4-week within-subjects protocol that includes 3 scheduled experimental sleep conditions: (1) 1 week stabilized sleep (individualized; 9-11 h time in bed), (2) 1 week shortened sleep (1.5 h decrease in time in bed), and (3) 2 weeks recovery sleep (1.5 h increase in time in bed). Sleep duration (actigraphy) and lung function (home spirometry) will be monitored daily and assess immune biomarkers weekly and at the midpoint of shortened sleep. To control time-in-study effects, 1/3 of the sample will receive only the stabilized sleep schedule across the 4-week protocol. In this project, the researchers will study only urban children with allergic asthma who obtain sufficient sleep (9-11 h, within national guidelines). The shortened sleep protocol will model the sleep loss that urban children with asthma can experience due to asthma and/or urban context. Additionally, the recovery sleep protocol simulates a sleep optimization intervention following shortened sleep in a well-controlled approach.\n\nThe first aim of the study is to examine the effects of shortened sleep on immune balance \\[e.g., Th1 (Interferon-IFN gamma)/Th2 (Interleukin-IL-4, IL-5, IL-13)R and plasma IL-6 levels\\]. The second aim involves determining the effects of recovery sleep on immune balance. The third aim involves examining the extent to which changes in immune balance are associated with changes in asthma-related lung function (changes in FEV1) under conditions of shortened and recovery sleep. Results from this study ultimately will support the development feasible, ecologically valid, and clinically meaningful interventions to optimize sleep duration, immune balance, and asthma in this at-risk group."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Asthma in Children",
+        "Sleep Hygiene",
+        "Sleep, Inadequate"
+      ],
+      "keywords": [
+        "Sleep Hygiene",
+        "Children with asthma",
+        "Immune function in children"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "OTHER",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 204,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Shortened Sleep",
+          "type": "EXPERIMENTAL",
+          "description": "In this 4-week sleep protocol, children in this experimental condition follow a Stabilized Sleep schedule (i.e., their usual bed time) during weeks 1, 3 and 4. During week 2, they follow a Shortened Sleep schedule, during which they go to bed 90 later than is typical.",
+          "interventionNames": [
+            "Behavioral: Shortened Sleep"
+          ]
+        },
+        {
+          "label": "Usual Sleep Schedule",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "In this control arm of the 4-week sleep protocol, children follow the Stabilized Sleep schedule for all 4 weeks.",
+          "interventionNames": [
+            "Behavioral: Stabilized sleep"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Shortened Sleep",
+          "description": "In this experimental condition, children go to bed 90 minutes later than their typical bedtime during Week 2 of the 4-week protocol.",
+          "armGroupLabels": [
+            "Shortened Sleep"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Stabilized sleep",
+          "description": "In this control condition, children go to bed at their usual time throughout the 4-week protocol.",
+          "armGroupLabels": [
+            "Usual Sleep Schedule"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "10mL of heparinized blood",
+          "description": "Changes in the immune biomarker profile related to lung function and asthma morbidity: CD4+IFNy+ Th1 cells; CD4+IL4+, CD4+IL5+, CD4+IL13+ Th2 cells; plasma IL-6",
+          "timeFrame": "Changes in immune function across Days 7, 11, 14, 21 and 28 of the 4-week sleep protocol"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Forced Expiratory Flow in 1 second (FEV1) % predicted",
+          "description": "Asthma-related lung function",
+          "timeFrame": "Lung function over the 4-week sleep protocol"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "Time in Bed actigraphy scores",
+          "description": "Sleep Duration measured via actigraphy, to validate the prescribed sleep schedules",
+          "timeFrame": "Continuously throughout the 4-week sleep protocol"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion:\n\n* Children 7-11 years old\n* Has physician-diagnosed asthma, per parent and pediatrician report\n* Meets criteria for current persistent asthma with a current prescription for an asthma controller medicine\n* Obtains 9.0-11.0 h of sleep per 24 h day in the past month\n* Has a positive allergy skin test performed at the clinic visit\n* Resides and attend school in one of the targeted urban areas (Rhode Island: East Providence, North Providence, Providence, Warwick, Cranston, Woonsocket, Central Falls, Pawtucket, Lincoln, Johnston. Massachusetts: Attleboro, North Attleboro, Fall River.\n* Has a primary caregiver who speaks English\n\nExclusion:\n\n* No asthma diagnosis\n* No use of asthma controller medication\n* Severe persistent asthma that is poorly controlled\n* Diagnosis of additional pulmonary disease or medical condition or immune deficiency disorders\n* Use of systemic steroids \\<30 days of screening\n* Asthma-related emergency department visit and/or asthma-related hospitalization in past 90 days\n* Marked developmental delay, psychiatric conditions, academic/behavioral problems, learning disabilities\n* Tanner stage 3-5 of pubertal development\n* Diagnosed ADHD; Use of stimulants to treat ADHD\n* An Apnea-Hypoxia Index \\>5 (indicator of sleep disordered breathing)",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "7 Years",
+      "maximumAge": "11 Years",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Daphne Koinis-Mitchell, PhD",
+          "role": "CONTACT",
+          "phone": "401-793-8632",
+          "email": "dkoinismitchell@lifespan.org"
+        },
+        {
+          "name": "Sheryl J Kopel, MSc",
+          "role": "CONTACT",
+          "phone": "401 444-7217",
+          "email": "sjkopel@lifespan.org"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Daphne Koinis-Mitchell, PhD",
+          "affiliation": "Rhode Island Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Rhode Island Hospital",
+          "status": "RECRUITING",
+          "city": "Providence",
+          "state": "Rhode Island",
+          "zip": "02903",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Daphne Koinis-Mitchell, PhD",
+              "role": "CONTACT",
+              "phone": "401-793-8632",
+              "email": "dkoinismitchell@lifespan.org"
+            },
+            {
+              "name": "Sheryl J Kopel, MSc",
+              "role": "CONTACT",
+              "phone": "401-444-7217",
+              "email": "sjkopel@lifespan.org"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.82399,
+            "lon": -71.41283
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Following the NIH data sharing policy (2015), within one year of completion of the study and dissemination of primary study results, public-use analysis datasets will be made available to the public, along with the final version of the study protocol, data dictionaries and brief instructions. De-identification for the analysis data sets will follow published guidelines for \"limited access data sets\" funded by NHLBI (Geller et al., 2004).",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "ICF",
+        "CSR",
+        "ANALYTIC_CODE"
+      ],
+      "timeFrame": "Data will become available within one year of completion of the study and dissemination of primary study results and will be available for 10 years following the completion of the study.",
+      "accessCriteria": "Once data become available, researchers requesting the data would follow the published \"Project AIMS\" data request procedures (available from the PI or designate). We will make data available to potential users only under an NIH-approved data sharing agreement that provides for 1) a commitment to using the dta only for research purposes and not to identify any individual participant in any way; 2) a commitment to securing the data using appropriate information security this is compliant with the most current federal guidelines that are outlined by our information security protocol; and 3) a commitment to destroying or returning the data after completion of analyses."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000070263",
+          "term": "Sleep Hygiene"
+        },
+        {
+          "id": "D012892",
+          "term": "Sleep Deprivation"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D015438",
+          "term": "Health Behavior"
+        },
+        {
+          "id": "D001519",
+          "term": "Behavior"
+        },
+        {
+          "id": "D020920",
+          "term": "Dyssomnias"
+        },
+        {
+          "id": "D012893",
+          "term": "Sleep Wake Disorders"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,153 @@
+{
+  "phase": "PHASE_3",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Change in semen volume from baseline and between the treatment arms",
+      "timeFrame": "Baseline and 24 weeks",
+      "description": "The semen volume will be measured and reported in mililiters (mL). The higher the value the better the outcome."
+    },
+    {
+      "measure": "Change in sperm concentration from baseline and between the treatment arms",
+      "timeFrame": "Baseline and 24 weeks",
+      "description": "The sperm concentration will be measured and reported in number times 10\\^6 per mililiter (10\\^6/mL). The higher the value the better the outcome."
+    },
+    {
+      "measure": "Change in total motility of sperm from baseline and between the treatment arms",
+      "timeFrame": "Baseline and 24 weeks",
+      "description": "The total motility will be assessed as total number of motile sperm and reported as number times 10\\^6 per ejaculate (10\\^6/ejaculate). The higher the value the better the outcome."
+    },
+    {
+      "measure": "Change in normal sperm forms from baseline and between the treatment arms",
+      "timeFrame": "Baseline and 24 weeks",
+      "description": "The normal sperm forms will be assessed as total number of sperm with normal morphology and reported as number times 10\\^6 per ejaculate (10\\^6/ejaculate). The higher the value the better the outcome."
+    },
+    {
+      "measure": "Change in total number of sperm from baseline and between the treatment arms",
+      "timeFrame": "Baseline and 24 weeks",
+      "description": "The total number of sperm will be measured and reported in number times 10\\^6 per ejaculate (10\\^6/ejaculate). The higher the value the better the outcome."
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "type 2 diabetes mellitus,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "obesity (body mass index (BMI) higher or equal to 30 kg/m\\^2),",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "functional hypogonadism (defined by total testosterone less than 11 nmol/L and 2 or more symptoms of sexual dysfunction)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Insulin treatment,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "glucagon-like peptide 1 (GLP-1) agonist treatment,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "sodium-glucose cotransporter-2 (SGLT-2) inhibitor treatment,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "other identified causes of hypogonadism,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "hemochromatosis,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "active malignant disease,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "thrombophilia,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "venous thrombosis within 6 months,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "recent acute myocardial infarction or stroke,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "prostate-specific antigen (PSA) higher than 3 ng/L,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "severe lower urinary tract symptoms with an International Prostate Symptom Score above 19,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "severe sleep apnea syndrome,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "hematocrit higher than 0.5,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "significant kidney or liver disease,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "ongoing treatment with opioid analgesics, antipsychotics, glucocorticoids,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "alcohol abuse,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "severe ongoing mental illness,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "personal history of pancreatitis or medullary thyroid carcinoma,",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "personal or family history of multiple endocrine neoplasia type 2.",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "Semaglutide"
+    },
+    {
+      "type": "DRUG",
+      "name": "Testosterone Undecanoate"
+    }
+  ]
+}

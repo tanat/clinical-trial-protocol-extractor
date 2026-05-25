@@ -1,0 +1,88 @@
+{
+  "phase": "PHASE_1_2",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "The Incidence of Treatment-emergent Adverse Events of ZN-A-1041 as a Monotherapy in Phase 1a",
+      "timeFrame": "23 days",
+      "description": "Dose at which no more than one out of six participant at the same dose level experiences a probable drug-related DLT."
+    },
+    {
+      "measure": "The Incidence of Treatment-emergent Adverse Events of ZN-A-1041 in Combination with T-DM1 or with T-DXd, or in Combination with PHESGO or Herceptin plus Perjeta",
+      "timeFrame": "21 days",
+      "description": "Dose at which no more than one out of six participant at the same dose level experiences a probable drug-related DLT."
+    },
+    {
+      "measure": "RP2D",
+      "timeFrame": "Through study completion, an average of 1 year",
+      "description": "To evaluate the safety of ZN-A-1041 in combination with T-DM1 or with T-DXd, or in combination with PHESGO or Herceptin plus Perjeta in participants on the RP2D."
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Life expectancy of at least 6 months, as determined by the investigator",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Histologically or cytologically confirmed with unresectable or metastatic HER2-positive advanced solid tumors",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Must be relapsed or refractory after prior treatment for metastatic disease that included a taxane and trastuzumab or must have received first-line induction therapy for advanced disease a pertuzumab plus trastuzumab-based regimen or a T-DXd-based regimen",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Participants with new, untreated, progressive, or stable brain metastases are eligible",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Participation in any other clinical study involving an investigational drug or device within 4 weeks prior to the first dose of study treatment",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Any intracranial lesion (brain metastasis) that requires immediate local therapy, such as surgery or radiation, or systemic corticosteroids at the time of enrollment",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "ZN-A-1041"
+    },
+    {
+      "type": "DRUG",
+      "name": "ZN-A-1041 + T-DM1 3.6 mg/kg iv. for Phase 1b"
+    },
+    {
+      "type": "DRUG",
+      "name": "ZN-A-1041 + T-Dxd 5.4 mg/kg iv. for Phase 1b"
+    },
+    {
+      "type": "DRUG",
+      "name": "ZN-A-1041 + PHESGO / Herceptin plus Perjeta injection for Phase 1b"
+    },
+    {
+      "type": "DRUG",
+      "name": "ZN-A-1041 + T-DM1 3.6 mg/kg iv. for Phase 1c"
+    },
+    {
+      "type": "DRUG",
+      "name": "ZN-A-1041 + T-Dxd 5.4 mg/kg iv. for Phase 1c"
+    },
+    {
+      "type": "DRUG",
+      "name": "ZN-A-1041 + PHESGO / Herceptin plus Perjeta injection for Phase 1c"
+    }
+  ]
+}

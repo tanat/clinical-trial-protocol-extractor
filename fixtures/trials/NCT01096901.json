@@ -1,0 +1,216 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT01096901",
+      "orgStudyIdInfo": {
+        "id": "CP-CTL"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "CP-EFI"
+        }
+      ],
+      "organization": {
+        "fullName": "California Polytechnic State University-San Luis Obispo",
+        "class": "OTHER"
+      },
+      "briefTitle": "Choose to Lose for Women-Weight Loss to Reduce Breast Cancer Risk Factors",
+      "officialTitle": "Weight Loss to Reduce Breast Cancer Risk Factors",
+      "acronym": "CTL"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2015-10",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2010-11"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2011-06",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2011-06",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2010-03-30",
+      "studyFirstSubmitQcDate": "2010-03-30",
+      "studyFirstPostDateStruct": {
+        "date": "2010-03-31",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2015-10-26",
+      "lastUpdatePostDateStruct": {
+        "date": "2015-10-28",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Suzanne Phelan",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "California Polytechnic State University-San Luis Obispo"
+      },
+      "leadSponsor": {
+        "name": "California Polytechnic State University-San Luis Obispo",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is investigating the changes in specific hormone levels in women age 30-45 after a 12 week weight loss intervention.",
+      "detailedDescription": "In sum, excess body weight and inactivity have emerged as strong avoidable causes of postmenopausal breast cancer, with the greatest potential for primary prevention occurring during the premenopausal years. However, surprisingly, no study to date has examined the effects of a standard behavioral weight loss intervention on breast cancer risk markers in premenopausal women. Understanding the effects of weight loss in premenopausal women is a critical next step in existing research and will inform the development of future breast cancer primary prevention programs. The purpose of this study is to determine the feasibility of recruiting, treating, and retaining 20 overweight/obese women in a 12-week randomized control trial examining feasibility and effects of a behavioral weight loss program on breast cancer risk markers in premenopausal women. Participants will be randomly assigned to either a 12-week comprehensive behavioral weight loss program (n=10) or control condition (n=10). All women will be assessed at baseline and after 3 months of treatment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Obesity",
+        "Overweight"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "EARLY_PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "PARTICIPANT"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 19,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Comprehensive behavioral weight loss",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "The group will be implemented to induce a 6% weight loss over 3 months. The lessons will follow protocols from the Look AHEAD trial and Diabetes Prevention Program. This behavioral program has been shown to promote long-term weight loss and a reduction in diabetes and cardiovascular risk factors, and is based on the social cognitive theory.",
+          "interventionNames": [
+            "Behavioral: Behavioral Weight loss"
+          ]
+        },
+        {
+          "label": "Education and Support Control group",
+          "type": "NO_INTERVENTION",
+          "description": "Participants in this group will receive support and education about healthy eating and activity with lessons based on the Look AHEAD support and education control condition. Participants will attend monthly closed group meetings and meetings will be designed to promote retention but not weight loss."
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Behavioral Weight loss",
+          "description": "Intervention groups will meet weekly for 12 weeks. Weekly meetings will focus on weight loss in women age 30-45 through behavioral weight loss topics. These topics are designed with the Look AHEAD protocols.",
+          "armGroupLabels": [
+            "Comprehensive behavioral weight loss"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Weight loss for one group",
+          "description": "One group in this randomized study will be focused on weight loss during a 3 month period. The goal is to acheive a 6% weight loss during this time. Specific blood draws will be conducted pre and post weight loss to measure any hormonal changes due to this weight loss.",
+          "timeFrame": "3 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Increased physical activity",
+          "description": "The secondary objective in this study is to increase participant activity level to help reduce the risks of certain cancers. As well as increase the overall health of these participants.",
+          "timeFrame": "3 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Premenopausal women\n* Age 30-45\n* Current BMI of \\>25\n* English or Spanish speaking\n* 5th grade reading level\n* Menstrual regularity, defined as menstrual cycle length of 27-31 and \\< 1 missed period within the past 12 months.\n\nExclusion Criteria:\n\n* Current use or recent (\\< 6 months) use of oral contraceptives, hormones, or other hormone-influencing medications\n* Pregnant, lactating or planning pregnancy in the next 12 weeks\n* Unwilling and able to location for intervention visits.\n* Serious medical condition requiring the supervision of a physician for exercise and diet\n* History of eating disorder\n* History of or current use of drugs\n* Current treatment for serious psychological disorder\n* Donation of blood within past 6 weeks.",
+      "healthyVolunteers": true,
+      "sex": "FEMALE",
+      "minimumAge": "30 Years",
+      "maximumAge": "45 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Suzanne Phelan, PhD.",
+          "affiliation": "California Polytechnic State University-San Luis Obispo",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "California Polytechnic State University",
+          "city": "San Luis Obispo",
+          "state": "California",
+          "zip": "93407",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.28275,
+            "lon": -120.65962
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D009765",
+          "term": "Obesity"
+        },
+        {
+          "id": "D050177",
+          "term": "Overweight"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D044343",
+          "term": "Overnutrition"
+        },
+        {
+          "id": "D009748",
+          "term": "Nutrition Disorders"
+        },
+        {
+          "id": "D009750",
+          "term": "Nutritional and Metabolic Diseases"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

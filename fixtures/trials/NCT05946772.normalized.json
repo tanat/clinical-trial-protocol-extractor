@@ -1,0 +1,113 @@
+{
+  "phase": "PHASE_2",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Myocardial damage",
+      "timeFrame": "baseline, hour 3, hour 12, hour 24, hour 36, hour 48, hour 60, hour 72, day 30",
+      "description": "High-sensitive Troponin T AUC over several time points between CsA and Placebo."
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Patients aged over 18",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Enrollment and first IMP administration within 24 hours after cardiac catheterization",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Regional Wall Motion Abnormality (WMA) consistent with TTS in angiography or echocardiography",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "InterTAK prognostic score- or a GEIST Score ≥ 9 -",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Written informed consent",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Key",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Acute coronary syndrome (ACS) with significant coronary stenosis potentially associated with wall motion abnormalities (WMA) or percutaneous coronary intervention (PCI)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Infection (defined as concomitant infection with a positive blood culture at the time of study inclusion)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "History of hypersensitivity to cyclosporine",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "History of hypersensitivity to egg, peanut or soybean proteins",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "History of chronic renal insufficiency (either creatinin clearance <30 ml/min/1.73m² or current medical care for severe renal insufficiency)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "History of liver insufficiency",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Uncontrolled hypertension at the time of screening for study inclusion (systolic blood pressure >180mmHg and/or diastolic blood pressure >110mmHg)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Current medication with any compound containing Hypericum perforatum (St. John's worth) or Stiripentol or Aliskiren or Bosentan or Rosuvastatine (Rosuvastatine >5mg within 24h intake<48h before IMP administration)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Female patients currently pregnant or women of childbearing age without negative pregnancy test or without effective contraception",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Any disorder associated with immunological dysfunction ≤6 months prior to presentation (autoimmune disease, known positive serology for HIV or hepatitis)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Immunosuppressive, chemotherapeutical, or antibody treatment",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Participation in other clinical trials except for non interventional trials",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "Cyclosporine A"
+    },
+    {
+      "type": "DRUG",
+      "name": "Placebo"
+    }
+  ]
+}

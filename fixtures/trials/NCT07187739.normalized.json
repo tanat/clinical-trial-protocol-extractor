@@ -1,0 +1,69 @@
+{
+  "phase": "NA",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Body weight",
+      "timeFrame": "From enrollment to the end of treatment at 3 months",
+      "description": "The body weights of the individuals will be measured with a body analyzer sensitive to 0.1 kilograms for all participants."
+    },
+    {
+      "measure": "Height",
+      "timeFrame": "From enrollment to the end of treatment at 3 months",
+      "description": "The height of the participants will be measured in cm with a portable stadiometer without shoes, with the head in an upright position and in the Frankfort plane."
+    },
+    {
+      "measure": "Body Mass Index",
+      "timeFrame": "From enrollment to the end of treatment at 3 months",
+      "description": "Body Mass Index will be reported in kg/m² by dividing the body weight by the square of the height."
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Being between 45-64 years of age",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Signing informed consent",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Undergoing STN DBS surgery",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Continuing antiparkinsonian therapy",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Those with a Mini Mental Test result of ≥24 points",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Having any psychiatric illness",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Those with a Mini Mental Test result of <24 points",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Those with a disease requiring a special diet other than Parkinson's Disease",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "OTHER",
+      "name": "Mediterranean diet"
+    }
+  ]
+}

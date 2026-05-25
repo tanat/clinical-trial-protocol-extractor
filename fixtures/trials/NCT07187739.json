@@ -1,0 +1,355 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT07187739",
+      "orgStudyIdInfo": {
+        "id": "AEŞH-BADEK-2024-652"
+      },
+      "organization": {
+        "fullName": "Ankara University",
+        "class": "OTHER"
+      },
+      "briefTitle": "Effect of Mediterranean Diet on Nutrition in Parkinson's Disease Patients With Bilateral Subthalamic Deep Brain Stimulation",
+      "officialTitle": "Investigation of the Effect of the Mediterranean Diet on Nutritional Status in Parkinson's Patients Undergoing Bilateral Subthalamic Nucleus Deep Brain Stimulation"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-10",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-09-25",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-03",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-03",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-05-19",
+      "studyFirstSubmitQcDate": "2025-09-19",
+      "studyFirstPostDateStruct": {
+        "date": "2025-09-23",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-11-26",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-12-03",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "PRINCIPAL_INVESTIGATOR",
+        "investigatorFullName": "Nursena ERSOY SÖKE",
+        "investigatorTitle": "Principal Investigator",
+        "investigatorAffiliation": "Ankara University"
+      },
+      "leadSponsor": {
+        "name": "Ankara University",
+        "class": "OTHER"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The goal of this clinical trial is to evaluate whether Mediterranean diet can help manage body weight and improve body composition in adult Parkinson's disease patients who have undergone bilateral subthalamic nucleus deep brain stimulation (STN DBS).\n\nThe main questions it aims to answer are:\n\nDoes adherence to the Mediterranean diet for three months post-surgery help control body weight gain in STN DBS patients?\n\nDoes the Mediterranean diet positively affect body composition and other clinical parameters such as nutritional status, appetite, quality of life, and physical activity?\n\nResearchers will compare an intervention group following the Mediterranean diet with a control group continuing their usual diet to see if dietary guidance leads to improvements in weight management, body composition, and other nutritional status parameters.\n\nParticipants will:\n\nBe randomized into intervention and control groups.\n\nReceive Mediterranean dietary recommendations (intervention group) or continue usual diet (control group).\n\nUndergo evaluations at baseline (pre-operative), and at the 1st, 2nd, and 3rd months post-operatively using the following tools:\n\nVisual Appetite Scale\n\nHoehn and Yahr Questionnaire\n\nParkinson's Disease Quality of Life Questionnaire-8\n\nMovement Disorder Society-Unified Parkinson's Disease Rating Scale - Part 2\n\nMediterranean Diet Adherence Scale\n\nFood Consumption Record\n\nHave their anthropometric measurements and body composition (e.g., weight, waist and neck circumference, upper arm circumference, handgrip strength) assessed.",
+      "detailedDescription": "Parkinson's disease is a neurodegenerative disease characterized by the loss of dopaminergic neurons in the substantia nigra region. Although the prevalence of Parkinson's disease varies according to gender and geographical region, the prevalence increases with age. Parkinson's Disease is characterized by three motor symptoms: tremor, bradykinesia and rigidity. Aside from motor symptoms, non-motor symptoms are also present. The majority of non-motor symptoms consist of gastrointestinal symptoms such as dysphagia, gastroparesis and constipation. The most effective pharmacological drug for treating motor symptoms in Parkinson's patients is levodopa (3,4-dihydroxyphenylalanine). Deep brain stimulation (DBS: Deep Brain Stimulation) may be a treatment option in patients who have motor fluctuation, dyskinesia or tremor symptoms despite optimal drug therapy. Deep brain stimulation is a minimally invasive, targeted neurosurgical intervention that involves placing electrodes and a pacemaker that electrically stimulates these electrodes in structures deep in the brain. Over the past 25 years, deep brain stimulation has been used extensively to target various brain regions. The most preferred method is Subthalamic Nucleus DBS. The suitability of this treatment for patients is determined by a multidisciplinary team based on the presence of various indications. In these patients, body weight gain may be observed after surgery due to increased food intake, decreased motor symptoms, and decreased energy expenditure due to physical activity. Body weight is associated with increasing levodopa dosage, dyskinesia, and risk of metabolic syndrome. To prevent this important side effect of DBS, the European Society of Enteral and Parenteral Nutrition emphasizes nutritional therapy in patients to control post-operative body weight gain and prevent the onset of metabolic disorders. The primary aim of this study was to examine the effect of Mediterranean dietary recommendations on body weight and body composition during three months post-operatively in adult patients undergoing STN DBS. Inclusion criteria for the study are as follows: being between 45 and 64 years of age, volunteering to participate, having undergone bilateral subthalamic nucleus deep brain stimulation (STN DBS) surgery, continuing antiparkinsonian treatment, and having a Mini-Mental State Examination (MMSE) score of 24 or higher. Exclusion criteria include having any psychiatric disorder, having a Mini-Mental State Examination (MMSE) score below 24, and having a disease other than Parkinson's disease that requires a special diet. Participants who meet the inclusion criteria will be randomized into two groups: intervention and control groups. Participants in the control group will be instructed to continue their current eating habits. Participants' appetite will be assessed by the investigators using the \"Visual Appetite Scale\", disease stage using the \"Hoehn and Yahr Questionnaire\", quality of life using the \"Parkinson Disease Quality of Life Questionnaire-8\", motor symptoms related to feeding (chewing and swallowing, eating) using the \"Movement Disorder Society Unified Parkinson's Disease Rating Scale - Part 2\", adherence to the Mediterranean diet using the \"Mediterranean Diet Adherence Scale\", diet assessment using the \"Food Consumption Record\" and physical activity status using the \"International Physical Activity Questionnaire-Short Form\" by the investigators. In order to determine the daily energy and nutrient consumption status of participants, a 24-hour dietary recall will be taken in the pre-operative interview, and a total of three days of food consumption records will be taken in the post-operative 1st, 2nd and 3rd interviews, one day of which will be 24-hour recall and two days of which will be food recording method. Visual Appetite Scale, Hoehn and Yahr Questionnaire, Parkinson's Disease Quality of Life Questionnaire-8, Movement Disorder Association Unified Parkinson's Disease Rating Scale - Part 2, and Mediterranean Diet Adherence Scale will be applied by the investigators to all participants at preoperative, post-operative 1st, 2nd and 3rd month. In addition, participants' anthropometric measurements (body weight, waist circumference, neck circumference, upper mid-arm circumference, handgrip strength) and body composition will be evaluated by the investigators. All data obtained during the research process will be evaluated using appropriate statistical analysis."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Parkinson Disease",
+        "Deep Brain Stimulation",
+        "Deep Brain Stimulation Surgery"
+      ],
+      "keywords": [
+        "Mediterranean Diet",
+        "Body Weight",
+        "Body Composition",
+        "Dietary Assesment",
+        "Parkinson Disease"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "NA"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "PREVENTION",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 24,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Control",
+          "type": "NO_INTERVENTION",
+          "description": "Individuals in the control group will continue their routine nutrition."
+        },
+        {
+          "label": "Mediterranean Diet",
+          "type": "EXPERIMENTAL",
+          "description": "Individuals in the Mediterranean diet group will be given a Mediterranean diet.",
+          "interventionNames": [
+            "Other: Mediterranean diet"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "OTHER",
+          "name": "Mediterranean diet",
+          "description": "All individuals in the intervention group will be instructed to adhere to Mediterranean diet recommendations for a period of three months following the activation of the deep brain stimulation device. Nutritional training sessions focusing on the Mediterranean diet will be provided and reinforced during monthly follow-up interviews. In line with these recommendations, olive oil will be promoted as the primary dietary fat. Participants will be encouraged to consume a minimum of 300-400 grams of vegetables daily and 450 grams of fresh fruit or alternatively, 300 grams of fresh fruit and 30 grams of dried fruit. The consumption of bakery products, sugary snacks, and carbonated beverages will be discouraged. White meat will be favored over red meat in meal planning. Participants will also be advised to include 450 grams of fish, 30 grams of oilseeds, and 180 grams of legumes in their weekly diets. There is no routine Mediterranean diet recommendation after STN DBS.",
+          "armGroupLabels": [
+            "Mediterranean Diet"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Body weight",
+          "description": "The body weights of the individuals will be measured with a body analyzer sensitive to 0.1 kilograms for all participants.",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        },
+        {
+          "measure": "Height",
+          "description": "The height of the participants will be measured in cm with a portable stadiometer without shoes, with the head in an upright position and in the Frankfort plane.",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        },
+        {
+          "measure": "Body Mass Index",
+          "description": "Body Mass Index will be reported in kg/m² by dividing the body weight by the square of the height.",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Triceps skinfold thickness",
+          "description": "The triceps skinfold thickness will be measured using a caliper in mm and will be used to evaluate the adipose tissue.",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        },
+        {
+          "measure": "Upper mid-arm circumference",
+          "description": "The upper mid-arm circumference will be measured in cm with a non-stretchable tape measure.",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        },
+        {
+          "measure": "Upper mid-arm muscle circumference",
+          "description": "Upper mid-arm muscle circumference will be calculated using the upper mid-arm circumference and triceps skinfold thickness to evaluate lean body mass. It is expressed in cm.",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        },
+        {
+          "measure": "Upper mid-arm muscle area",
+          "description": "The upper mid-arm muscle area will be calculated using the upper mid-arm circumference and triceps skinfold thickness to evaluate lean body mass. It is expressed in cm².",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        },
+        {
+          "measure": "Motor symptoms related to nutrition",
+          "description": "Motor symptoms related to nutrition (chewing and swallowing, eating) will be assessed by the \"Movement Disorder Association Unified Parkinson's Disease Assessment Scale-Part 2\". The 2.2 chewing and swallowing questions and the 2.4 eating questions in Section 2 will be evaluated. These questions are on a 5-point Likert type, from 0 (normal) to 1 (severe). Higher scores indicate higher swallowing, chewing, and swallowing symptoms.",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        },
+        {
+          "measure": "Dietary Intake",
+          "description": "The dietary intake of the individuals will be assessed by the \"Food Consumption Record\" preoperatively and at the 1st, 2nd, and 3rd months postoperatively for the individuals in both groups. In order to determine the daily energy and nutrient consumption status of the individuals, a 24-hour retrospective daily food consumption record will be taken in the pre-operative interview, and a total of three days of food consumption records will be taken in the post-operative 1st, 2nd, and 3rd interviews, one day of which will be 24-hour retrospective and the other two days of which will be the food recording method. If there are records that are considered to be incomplete or incorrect, the individual will be asked again and corrected. The energy and nutrients of the daily consumed foods will be calculated using the Nutrition Information System (BEBIS) program.",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        },
+        {
+          "measure": "Life Quality",
+          "description": "The \"Parkinson's Disease Quality of Life Questionnaire-8\" will be used for quality of life.The Parkinson's Disease Questionnaire-8 is a 5-point Likert scale with each of the 8 items ranging from 0 (never) to 4 (always). The total score is calculated by summing all items and the scores are converted to values between 0 and 100. Higher scores indicate worse quality of life.",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        },
+        {
+          "measure": "Appetite Status",
+          "description": "The appetite status will be assessed using a 100 mm visual analogue scale. The visual appetite scale is marked on the 100 mm line as \"My appetite is very poor,\" \"My appetite is poor\", \"My appetite is moderate,\" \"My appetite is good,\" and \"My appetite is very good\". Participants will be asked to place a vertical mark on the line that best reflects their appetite. Each score will be determined by measuring the distance from the left side of the line to the mark.",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        },
+        {
+          "measure": "Mediterranean Diet Adherence",
+          "description": "The compliance with the Mediterranean diet will be assessed by the \"Mediterranean Diet Adherence Scale\". The Mediterranean Diet Adherence Scale is a 14-question questionnaire. The Turkish validity and reliability study of this scale was conducted. This scale questions the basic oil type used in individuals' meals, olive oil consumption, vegetable and fruit consumption, red meat consumption, butter and margarine consumption, daily amounts of sugary or sweetened beverage consumption, and weekly amounts of wine, legumes, fish/seafood, processed desserts or pastries, hazelnuts, and olive oil with sauce. In addition, the scale includes whether the individual prefers white meat over red meat in their diet. A total score is calculated by giving 0 or 1 points to each question asked according to the amount of consumption. A total score of 7 and above indicates that the individual has an acceptable level of compliance with the Mediterranean diet.",
+          "timeFrame": "From enrollment to the end of treatment at 3 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Being between 45-64 years of age\n* Signing informed consent\n* Undergoing STN DBS surgery\n* Continuing antiparkinsonian therapy\n* Those with a Mini Mental Test result of ≥24 points\n\nExclusion Criteria:\n\n* Having any psychiatric illness\n* Those with a Mini Mental Test result of \\<24 points\n* Those with a disease requiring a special diet other than Parkinson's Disease",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "genderBased": true,
+      "genderDescription": "Participants will be randomized into 2 groups: intervention and control, based on age, gender, disease severity and body mass index.",
+      "minimumAge": "45 Years",
+      "maximumAge": "64 Years",
+      "stdAges": [
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Nursena ERSOY SÖKE, MsC",
+          "role": "CONTACT",
+          "phone": "(+90) 534 330 11 11",
+          "email": "ersoynursena73@gmail.com"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Ankara Etlik City Hospital",
+          "status": "RECRUITING",
+          "city": "Ankara",
+          "state": "Ankara",
+          "zip": "06290",
+          "country": "Turkey (Türkiye)",
+          "contacts": [
+            {
+              "name": "Nursena Ersoy Söke",
+              "role": "CONTACT",
+              "phone": "+0905343301111",
+              "email": "nsersoy@ankara.edu.tr"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.91987,
+            "lon": 32.85427
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "29274834",
+          "type": "RESULT",
+          "citation": "Burgos R, Breton I, Cereda E, Desport JC, Dziewas R, Genton L, Gomes F, Jesus P, Leischker A, Muscaritoli M, Poulia KA, Preiser JC, Van der Marck M, Wirth R, Singer P, Bischoff SC. ESPEN guideline clinical nutrition in neurology. Clin Nutr. 2018 Feb;37(1):354-396. doi: 10.1016/j.clnu.2017.09.003. Epub 2017 Sep 22."
+        },
+        {
+          "pmid": "19633906",
+          "type": "RESULT",
+          "citation": "Guimaraes J, Matos E, Rosas MJ, Vieira-Coelho A, Borges N, Correia F, Vaz R, Garrett C. Modulation of nutritional state in Parkinsonian patients with bilateral subthalamic nucleus stimulation. J Neurol. 2009 Dec;256(12):2072-8. doi: 10.1007/s00415-009-5252-x."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D010300",
+          "term": "Parkinson Disease"
+        },
+        {
+          "id": "D001835",
+          "term": "Body Weight"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D020734",
+          "term": "Parkinsonian Disorders"
+        },
+        {
+          "id": "D001480",
+          "term": "Basal Ganglia Diseases"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D009069",
+          "term": "Movement Disorders"
+        },
+        {
+          "id": "D000080874",
+          "term": "Synucleinopathies"
+        },
+        {
+          "id": "D019636",
+          "term": "Neurodegenerative Diseases"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D038441",
+          "term": "Diet, Mediterranean"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D000095500",
+          "term": "Diet, Plant-Based"
+        },
+        {
+          "id": "D004035",
+          "term": "Diet Therapy"
+        },
+        {
+          "id": "D044623",
+          "term": "Nutrition Therapy"
+        },
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        },
+        {
+          "id": "D004032",
+          "term": "Diet"
+        },
+        {
+          "id": "D009747",
+          "term": "Nutritional Physiological Phenomena"
+        },
+        {
+          "id": "D000066888",
+          "term": "Diet, Food, and Nutrition"
+        },
+        {
+          "id": "D010829",
+          "term": "Physiological Phenomena"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

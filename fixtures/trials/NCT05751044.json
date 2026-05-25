@@ -1,0 +1,1086 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05751044",
+      "orgStudyIdInfo": {
+        "id": "2022-501866-22-00"
+      },
+      "organization": {
+        "fullName": "Princess Maxima Center for Pediatric Oncology",
+        "class": "OTHER"
+      },
+      "briefTitle": "HEM-iSMART-B: Dasatinib + Venetoclax + Dexamethasone + Cyclophosphamide and Cytarabine in Pediatric Patients With Relapsed or Refractory Hematological Malignancies",
+      "officialTitle": "International Proof of Concept Therapeutic Stratification Trial of Molecular Anomalies in Relapsed or Refractory HEMatological Malignancies in Children, Sub-protocol B Dasatinib + Venetoclax + Dexamethasone + Cyclophosphamide and Cytarabine in Pediatric Patients With Relapsed or Refractory Hematological Malignancies",
+      "acronym": "HEM-iSMART B"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-09",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-10-01",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2032-02-01",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2032-02-01",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2023-02-20",
+      "studyFirstSubmitQcDate": "2023-02-20",
+      "studyFirstPostDateStruct": {
+        "date": "2023-03-02",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-09-09",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-09-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Princess Maxima Center for Pediatric Oncology",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Innovative Therapies For Children with Cancer Consortium",
+          "class": "OTHER"
+        },
+        {
+          "name": "IBFM",
+          "class": "INDUSTRY"
+        },
+        {
+          "name": "Fight Kids Cancer",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": false,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "HEM-iSMART is a master protocol which investigates multiple investigational medicinal products in children, adolescents and young adults (AYA) with relapsed/refractory (R/R) ALL and LBL. Sub-protocol B is a phase I/II trial evaluating the safety and efficacy of dasatinib + venetocolax in combination with dexamethasone + Cyclophosphamide and cytarabine in children and AYA with R/R ped ALL/LBL whose tumor present with alterations in the MAPK/SRC pathway.",
+      "detailedDescription": "HEM-iSMART is a master protocol with sub-protocols. The overarching objective is that introducing targeted therapy using a biomarker driven approach for treatment stratification may improve the outcome of children with R/R acute lymphoblastic leukemia (ALL) and lymphoblastic lymphoma (LBL) It is characterized by a shared framework that allows for the investigation of multiple IMPs and generate pivotal safety and efficacy evidence within the sub-protocols to establish and define the benefits and risks of new treatments for children with R/R leukemia.\n\nSub-protocol B within HEM-iSMART, is a phase I/II, multicenter, international, open-label clinical trial designed to evaluate the safety, tolerability, pharmacokinetics (PK) and efficacy of dasatinib + venetoclax in combination with dexamethasone, cyclophosphamide and cytarabine in children, adolescents and young with R/R ALL and LBL. Patients with actionable alterations in the MAPK/SRC pathway will be eligible for sub-protocol B including but not limited to NUP214-ABL1 fusion or other ABL1 fusion, activating the kinase domain, or ABL1 amplification, or PDGFRβ-fusion with various fusion partners including but not limited to: AGGF1, DOCK2, SATB1, ETV6 and/or Patients showing a very deep ex-vivo dasatinib IC50 below 10 nM (only data generated in the Zurich Leukemia Research Laboratory Assay will be considered)."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Acute Lymphoblastic Leukemia",
+        "Lymphoblastic Lymphoma (Precursor B-Lymphoblastic Lymphoma/Leukaemia) Recurrent",
+        "Lymphoblastic Lymphoma (Precursor T-Lymphoblastic Lymphoma/Leukaemia) Recurrent",
+        "Lymphoblastic Lymphoma (Precursor B-Lymphoblastic Lymphoma/Leukaemia) Refractory",
+        "Lymphoblastic Lymphoma (Precursor T-Lymphoblastic Lymphoma/Leukaemia) Refractory"
+      ],
+      "keywords": [
+        "Acute lymphoblastic leukemia",
+        "Relape",
+        "Biomarker driven clinical trial",
+        "Dasatinib",
+        "Refractory",
+        "Chemotherapy",
+        "Children",
+        "Adolescents",
+        "Young adults",
+        "Lymphoblastic lymphoma"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 26,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Dasatinib + Venetoclax + Dexamethasone + Cyclophosphamide + cytarabine",
+          "type": "EXPERIMENTAL",
+          "description": "Sub-study B\n\nEach cycle lasts 28 days.\n\nCycle 1: All patients in cycle 1 will receive 28 days of of dasatinib (days 1-14), 28 days of venetoclax (days 1-28), one block of five days of dexamethasone (days 1-5), one dose of cyclophosphamide (day 3) and two blocks of four consecutive days of cytarabine (days 5 to 8 and days 12 to 15). A 1-day venetoclax ramp-up is proposed in this study.\n\nCycle 2 and subsequent cycles: Dasatinib and ventoclax one a day (day 1-28); one block of five days of dexamethasone (days 1-5), one dose of cyclophosphamide (day 1) and two blocks of four consecutive days of cytarabine (days 3 to 6 and days 10 to 13).\n\nPatients in dose level -1, receive a lower dose of venetoclax. Patients in dose level 2 receive a higher dose of venetoclax.\n\nAll patients receive age adapted intrathecal chemotherapy.",
+          "interventionNames": [
+            "Drug: Dasatinib",
+            "Drug: Venetoclax",
+            "Drug: Dexamethasone",
+            "Drug: Cyclophosphamide",
+            "Drug: Cytarabine",
+            "Drug: intrathecal chemotherapy"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Dasatinib",
+          "description": "Oral",
+          "armGroupLabels": [
+            "Dasatinib + Venetoclax + Dexamethasone + Cyclophosphamide + cytarabine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Venetoclax",
+          "description": "oral",
+          "armGroupLabels": [
+            "Dasatinib + Venetoclax + Dexamethasone + Cyclophosphamide + cytarabine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Dexamethasone",
+          "description": "oral/intervenous",
+          "armGroupLabels": [
+            "Dasatinib + Venetoclax + Dexamethasone + Cyclophosphamide + cytarabine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Cyclophosphamide",
+          "description": "intravenous",
+          "armGroupLabels": [
+            "Dasatinib + Venetoclax + Dexamethasone + Cyclophosphamide + cytarabine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Cytarabine",
+          "description": "intravenous",
+          "armGroupLabels": [
+            "Dasatinib + Venetoclax + Dexamethasone + Cyclophosphamide + cytarabine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "intrathecal chemotherapy",
+          "description": "IT: Methotrexate +/- prednisone/hydrocortisone/cytarabine according to the degree of central nervous involvement",
+          "armGroupLabels": [
+            "Dasatinib + Venetoclax + Dexamethasone + Cyclophosphamide + cytarabine"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Phase I: Maximum tolerated dose (MTD) / Recommended phase 2 dose (RP2D).",
+          "description": "Defined as the highest dose level tested at which 0/6 or 1/6 patients experiences dose limiting toxicities (DLT) during course 1 with at least 2 patients experiencing DLT at the next higher dose.",
+          "timeFrame": "3 years"
+        },
+        {
+          "measure": "Phase II: Best Overall Response Rate (ORR).",
+          "description": "For patients with leukemia: CR and MRD response after 1 cycle of treatment. This includes determination of CR, CRp, CRi and minimal residual disease (MRD) negativity rate in patients suffering from overt morphological relapse of T-ALL at time of enrolment (morphological disease (M2/M3)), and the MRD negativity rate in those that entered with high-MRD levels but in morphological CR. These results will together be presented as a composite endpoint Overall Response rate (ORR). MRD negativity will be defined as ≤1x10-4 as generated by multi-parameter flow cytometry.\n\nFor patients with lymphoma: Response in LBL patients is defined as CR, PR, minor response (MR) as defined in International pediatric NHL response criteria. In case of bone-marrow involvement MRD will be taken into account.\n\nFor patients with lymphoma: Response in LBL patients is defined as CR, PR, minor response (MR) as defined in International pediatric NHL response criteria.",
+          "timeFrame": "6 years"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Overall survival (OS)",
+          "description": "Defined as time from C1D1 until death of any cause.",
+          "timeFrame": "7 years"
+        },
+        {
+          "measure": "Event-free survival (EFS)",
+          "description": "Defined as time from C1D1 to the first event (subsequent relapse after CR (including molecular reappearance), death of any cause, failure to achieve remission (CR, CRp or CRi), or secondary malignancy).",
+          "timeFrame": "7 years"
+        },
+        {
+          "measure": "Cumulative incidence of relapse (CIR)",
+          "description": "Estimate of the risk, that a patient will develop a relapse over a specified period of time.",
+          "timeFrame": "7 years"
+        },
+        {
+          "measure": "Number of patients proceeding to hematopoietic stem cell transplantation (HSCT) after the experimental therapy.",
+          "description": "The rate of those proceeding to subsequent allogenic HSC",
+          "timeFrame": "7 years"
+        },
+        {
+          "measure": "Cumulative overall response rate (ORR)",
+          "description": "Defined as the CR, CRp, CRi and MRD negativity rates after more than 1 cycle of treatment.",
+          "timeFrame": "7 years"
+        },
+        {
+          "measure": "Rate of dose limiting toxicities (DLTs)",
+          "description": "Number of participants with dose limiting toxicities (DLTs)",
+          "timeFrame": "7 years"
+        },
+        {
+          "measure": "Peak Plasma Concentration (Cmax)",
+          "description": "Estimation of venetoclax and dasatinib Cmax",
+          "timeFrame": "6 years"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Children between 1 year (≥ 12 months) and 18 years of age at the time of first diagnosis and less than 21 years at the time of inclusion\n2. Performance status: Karnofsky performance status (for patients \\>12 years of age) or Lansky Play score (for patients ≤12 years of age) ≥ 50% (Appendix I).\n3. Written informed consent from parents/legal representative, patient, and age-appropriate assent before any study specific screening procedures are conducted, according to local, regional or national guidelines.\n4. For all oral medications patients must be able to comfortably swallow capsules (except for those for which an oral solution is available or dissolving of tablets is allowed based on investigator brochure (IB); nasogastric or gastrostomy feeding tube administration is allowed only if indicated).\n5. Patients must have had advanced molecular profiling and flow-cytometric analysis of their recurrent or refractory disease at a time-point before the first inclusion into this trial (see section 9.1 for detailed description of the molecular diagnostics required). Drug response profiling and methylation is highly recommended but not mandatory. Patients with advanced molecular profiling at diagnosis may be allowed to be included after discussion with the sponsor.\n6. Patients whose tumor present the following alterations: NUP214-ABL1 fusion or other ABL1 fusion, activating the kinase domain, or ABL1 amplification, or PDGFRβ-fusion with various fusion partners including but not limited to: AGGF1, DOCK2, SATB1, ETV6 and/or Patients showing a very deep ex-vivo dasatinib IC50 below 10 nM (Only data generated in centralized laboratory, where a robust DRP platform has been established with a reference cohort in place, will be considered)\n7. Adequate organ function:\n\n   * RENAL AND HEPATIC FUNCTION (Assessed within 48 hours prior to C1D1) :\n\n     * Serum creatinine ≤ 1.5 x upper limit of normal (ULN) for age or calculated creatinine clearance as per the Schwartz formula or radioisotope glomerular filtration rate ≥ 60 mL/min/1.73 m2.\n     * Direct bilirubin ≤ 2 x ULN (≤ 3.0 × ULN for patients with Gilbert's syndrome).\n     * Alanine aminotransferase (ALT)/serum glutamic pyruvic transaminase (SGPT) ≤ 5 x ULN; aspartate aminotransferase (AST)/serum glutamic oxaloacetic transaminase/SGOT ≤ 5 x ULN. Note: Patients with hepatic disfunction related to the underling disease can be eligible even if they do not fulfill the aforementioned values for hepatic transaminases. In these cases, patients need to be discussed with the sponsor to confirm the eligibility.\n   * CARDIAC FUNCTION:\n\n     * Shortening fraction (SF) \\>29% (\\>35% for children \\< 3 years) and/or left ventricular ejection fraction (LVEF) ≥50% at baseline, as determined by echocardiography or MUGA.\n     * Absence of QTcF prolongation (QTc prolongation is defined as \\>450 msec on baseline ECG, using the Friedericia correction), or other clinically significant ventricular or atrial arrhythmia.\n\nExclusion Criteria:\n\n1. Pregnancy or positive pregnancy test (urine or serum) in females of childbearing potential. Pregnancy test must be performed within 7 days prior to C1D1.\n2. Sexually active participants not willing to use highly effective contraceptive method (pearl index \\<1) as defined in CTFG HMA 2020 (Appendix II) during trial participation and until 6 months after end of antileukemic therapy.\n3. Breast feeding.\n4. Impairment of gastrointestinal (GI) function or GI disease that may significantly alter drug absorption of oral drugs (e.g., ulcerative diseases, uncontrolled nausea, vomiting, diarrhea, or malabsorption syndrome) in case of oral IMPs.\n5. Patients whose tumor present known mutationts confering resistance to venetoclax (e.g. BCL2 mutations of venetoclax binding-site (Gly101Val mutation, Phe104Leu/Cys mutations).\n6. Have a known immediate or delayed hypersensitivity reaction or idiosyncrasy to the study drugs, or drugs chemically related to study treatment or excipients that contraindicate their participation, including conventional chemotherapeutics (i.e. cytarabine and cyclophosphamide when applicable, intrathecal agents) and corticoids.\n7. Known active viral hepatitis or known human immunodeficiency virus (HIV) infection or any other uncontrolled infection.\n\n   a. Additional specifications for SARS-CoV-2 (COVID-19): i. Patients with a recent positive test for SARS-CoV-2 (COVID-19) and no follow-up negative PCR test are not eligible.\n\n   ii. Patients with recent contact to persons with COVID-19 and persons with signs and symptoms of COVID-19 infection must be tested before enrolling. In case of contact with a COVID-19 positive person, at least 5 days should be observed between last contact and COVID testing. A negative PCR test is required to be eligible.\n\n   iii. A negative COVID-19 test result is defined as at least 1 negative PCR test at least 24 hours after resolution of clinical symptoms. Resolution of clinical symptoms is defined as resolution of fever without use of antipyretics and improvement in respiratory symptoms (e.g., cough, shortness of breath).\n\n   iv. Frequency or timing of COVID-19 testing and interval between testing for the above viral clearance criteria may be adjusted to the applicable country and institutional guidelines.\n8. Severe concomitant disease that does not allow treatment according to the protocol at the investigator's discretion.\n9. Subjects unwilling or unable to comply with the study procedures.\n10. Previous treatment with dasatinib and venetoclax in combination (Patients who have previously received any of these two drugs separately can be eligible for this sub-protocol).\n11. Current use of a prohibited medication or herbal preparation or requires any of these medications during the study. See Section 7, Appendix III and IV for details. In general, CYP3A4 inhibitors/Pgp inhibitors, moderate or strong inducers of CYP3A4 or drugs inducing QTc changes (prolongation of the QT interval or inducing Torsade de Points) are not permitted. Among others and not exclusively that relates to antiviral, antifungal, antibiotic, antimalarial, antipsychotic and antidepressive drugs.\n12. Patients who have consumed grapefruit, grapefruit products, Seville oranges (Including marmalade containing Seville oranges) or starfruit within 72 hours prior to the first dose of study drug.\n13. Unresolved toxicity greater than NCI CTCAE v 5.0 ≥ grade 2 from previous anti-cancer therapy, including major surgery, except those that in the opinion of the investigator are not clinically relevant given the known safety/toxicity profile of the study treatment (e.g., alopecia and/or peripheral neuropathy related to platinum or vinca alkaloid based chemotherapy) (Common Terminology Criteria for Adverse Events (CTCAE) (cancer.gov).\n14. Active acute graft versus host disease (GvHD) of any grade or chronic GvHD of grade 2 or higher. Patients receiving any agent to treat or prevent GvHD post bone marrow transplant are not eligible for this trial.\n15. Received immunosuppression post allogenic HSCT within one moth of study entry.\n16. History of bone disorders such as osteogenesis imperfecta, rickets, renal osteodystrophy, osteomyelitis, osteopenia, fibrous dysplasia, osteomalacia etc. prior to the underlying diagnosis.\n17. Evidence of clinically active tuberculosis (clinical diagnosis per local practice).\n18. Wash-out periods of prior medication:\n\n    1. CHEMOTHERAPY: At least 7 days must have elapsed since the completion of cytotoxic therapy, with the exception of hydroxyurea, 6-mercaptopurine, oral methotrexate and steroids which are permitted up until 48 hours prior to initiating protocol therapy. Patients may have received intrathecal therapy (IT) at any time prior to study entry.\n    2. RADIOTHERAPY: Radiotherapy (non-palliative) within 21 days prior to the first dose of drug. Palliative radiation in past 21 days is allowed.\n    3. HEMATOPOIETIC STEM CELL TRANSPLANTATION (HSCT):\n\n       * Autologous HSCT within 2 months prior to the first study drug dose.\n       * Allogeneic HSCT within 3 months prior to the first study drug dose.\n    4. IMMUNOTHERAPY: At least 42 days must have elapsed after the completion of any type of immunotherapy other than monoclonal antibodies (e.g. CAR-T therapy)\n    5. MONOCLONAL ANTIBODIES AND INVESTIGATIONAL DRUGS: At least 21 days or 5 times the half-life (whichever is shorter) from prior treatment with monoclonal antibodies or any investigational drug under investigation must have elapsed before the first study drug.\n    6. SURGERY: Major surgery within 21 days of the first dose. Gastrostomy, ventriculo-peritoneal shunt, endoscopic ventriculostomy, tumor biopsy and insertion of central venous access devices are not considered major surgery.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "1 Year",
+      "maximumAge": "21 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Anne Elsinghorst",
+          "role": "CONTACT",
+          "phone": "+31650006270",
+          "email": "hem-ismart@prinsesmaximacentrum.nl"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Michel Zwaan, Prof. Dr.",
+          "affiliation": "Princess Máxima Center",
+          "role": "STUDY_CHAIR"
+        },
+        {
+          "name": "Andrej Lissat, MD PhD",
+          "affiliation": "Charite University, Berlin, Germany",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "St. Anna Kinderspital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Vienna",
+          "zip": "1090",
+          "country": "Austria",
+          "contacts": [
+            {
+              "name": "Andishe Attarbaschi",
+              "role": "CONTACT",
+              "email": "andishe.attarbaschi@stanna.at"
+            }
+          ],
+          "geoPoint": {
+            "lat": 48.20849,
+            "lon": 16.37208
+          }
+        },
+        {
+          "facility": "Universitair Ziekenhuis Gent",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Ghent",
+          "zip": "9000",
+          "country": "Belgium",
+          "contacts": [
+            {
+              "name": "Barbara De Moerloose",
+              "role": "CONTACT",
+              "email": "Barbara.DeMoerloose@uzgent.be"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.05,
+            "lon": 3.71667
+          }
+        },
+        {
+          "facility": "Rigshospitalet Copenhagen",
+          "status": "RECRUITING",
+          "city": "Copenhagen",
+          "zip": "DK-2100",
+          "country": "Denmark",
+          "contacts": [
+            {
+              "name": "Ruta Tuckuviene",
+              "role": "CONTACT",
+              "email": "ruta.tuckuviene@regionh.dk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 55.67594,
+            "lon": 12.56553
+          }
+        },
+        {
+          "facility": "Helsinki University Hospital, New Children's Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Helsinki",
+          "zip": "FI00029",
+          "country": "Finland",
+          "contacts": [
+            {
+              "name": "Antti Kyrönlahti",
+              "role": "CONTACT",
+              "email": "antti.kyronlahti@hus.fi"
+            }
+          ],
+          "geoPoint": {
+            "lat": 60.16952,
+            "lon": 24.93545
+          }
+        },
+        {
+          "facility": "Hôpital des Enfants GH Pellegrin - CHU de Bordeaux",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Bordeaux",
+          "zip": "33076",
+          "country": "France",
+          "contacts": [
+            {
+              "name": "Stephane Ducassou",
+              "role": "CONTACT",
+              "email": "stephane.ducassou@chu-bordeaux.fr"
+            }
+          ],
+          "geoPoint": {
+            "lat": 44.84124,
+            "lon": -0.58046
+          }
+        },
+        {
+          "facility": "CHRU Lille - Hôpital Jeanne de Flandre",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Lille",
+          "zip": "59037",
+          "country": "France",
+          "contacts": [
+            {
+              "name": "Bigitte Nelken",
+              "role": "CONTACT",
+              "email": "brigitte.nelken@chu-lille.fr"
+            }
+          ],
+          "geoPoint": {
+            "lat": 50.63391,
+            "lon": 3.05512
+          }
+        },
+        {
+          "facility": "Centre Léon Bérard",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Lyon",
+          "zip": "69 373",
+          "country": "France",
+          "contacts": [
+            {
+              "name": "Nathalie Garnier",
+              "role": "CONTACT",
+              "email": "nathalie.garnier@ihope.fr"
+            }
+          ],
+          "geoPoint": {
+            "lat": 45.74906,
+            "lon": 4.84789
+          }
+        },
+        {
+          "facility": "Hopital La Timone - Enfants",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Marseille",
+          "zip": "13005",
+          "country": "France",
+          "contacts": [
+            {
+              "name": "Paul Saultier",
+              "role": "CONTACT",
+              "email": "paul.saultier@ap-hm.fr"
+            }
+          ],
+          "geoPoint": {
+            "lat": 43.29695,
+            "lon": 5.38107
+          }
+        },
+        {
+          "facility": "CHU Nantes Hôpital Mère-Enfant",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Nantes",
+          "zip": "44093",
+          "country": "France",
+          "contacts": [
+            {
+              "name": "Fanny Rialland",
+              "role": "CONTACT",
+              "email": "fanny.rialland@chu-nantes.fr"
+            }
+          ],
+          "geoPoint": {
+            "lat": 47.21725,
+            "lon": -1.55336
+          }
+        },
+        {
+          "facility": "Hôpital Robert Debré",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Paris",
+          "zip": "75019",
+          "country": "France",
+          "contacts": [
+            {
+              "name": "Marion Strullu",
+              "role": "CONTACT",
+              "email": "marion.strullu@aphp.fr"
+            }
+          ],
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Universitätsklinikum Augsburg",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Augsburg",
+          "zip": "86156",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Michael Frühwald",
+              "role": "CONTACT",
+              "email": "Michael.Fruehwald@uk-augsburg.de"
+            }
+          ],
+          "geoPoint": {
+            "lat": 48.37154,
+            "lon": 10.89851
+          }
+        },
+        {
+          "facility": "Charité Universitätsmedizin Berlin",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Berlin",
+          "zip": "13353",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Arend von Stackelberg",
+              "role": "CONTACT",
+              "email": "arend.stackelberg@charite.de"
+            }
+          ],
+          "geoPoint": {
+            "lat": 52.52437,
+            "lon": 13.41053
+          }
+        },
+        {
+          "facility": "Universitätsklinikum Essen",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Essen",
+          "zip": "45147",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Dirk Reinhardt",
+              "role": "CONTACT",
+              "email": "dirk.reinhardt@uk-essen.de"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.45657,
+            "lon": 7.01228
+          }
+        },
+        {
+          "facility": "Universitätsklinikum Frankfurt",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Frankfurt",
+          "zip": "60590",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Jan-Hemming Klusmann",
+              "role": "CONTACT",
+              "email": "Jan-Henning.Klusmann@ukffm.de"
+            }
+          ],
+          "geoPoint": {
+            "lat": 49.68333,
+            "lon": 10.53333
+          }
+        },
+        {
+          "facility": "Universitätsklinikum Münster",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Münster",
+          "zip": "48149",
+          "country": "Germany",
+          "contacts": [
+            {
+              "name": "Birgit Burkhardt",
+              "role": "CONTACT",
+              "email": "birgit.burkhardt@ukmuenster.de"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.96236,
+            "lon": 7.62571
+          }
+        },
+        {
+          "facility": "Our Lady's Hospital for Sick Children",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Dublin",
+          "zip": "D12N512",
+          "country": "Ireland",
+          "contacts": [
+            {
+              "name": "Andrea Malone",
+              "role": "CONTACT",
+              "email": "andrea.malone@olchc.ie"
+            }
+          ],
+          "geoPoint": {
+            "lat": 53.33306,
+            "lon": -6.24889
+          }
+        },
+        {
+          "facility": "Schneider's Children's Medical Center",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Petah Tikva",
+          "zip": "4920235",
+          "country": "Israel",
+          "contacts": [
+            {
+              "name": "Gil Gilad",
+              "role": "CONTACT",
+              "email": "gilgi@clalit.org.il"
+            }
+          ],
+          "geoPoint": {
+            "lat": 32.08707,
+            "lon": 34.88747
+          }
+        },
+        {
+          "facility": "Sheba Medical Center Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Ramat Gan",
+          "zip": "52621",
+          "country": "Israel",
+          "contacts": [
+            {
+              "name": "Bella Bielorai",
+              "role": "CONTACT",
+              "email": "bella.bielorai@sheba.health.gov.il"
+            }
+          ],
+          "geoPoint": {
+            "lat": 32.08227,
+            "lon": 34.81065
+          }
+        },
+        {
+          "facility": "IRCCS Istituto Giannina Gaslini",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Genova",
+          "zip": "16147",
+          "country": "Italy",
+          "contacts": [
+            {
+              "name": "Concetta Micalizzi",
+              "role": "CONTACT",
+              "email": "concettamicalizzi@gaslini.org"
+            }
+          ],
+          "geoPoint": {
+            "lat": 45.21604,
+            "lon": 11.87211
+          }
+        },
+        {
+          "facility": "Fondazione MBBM c/o Centro ML Verga",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Monza",
+          "zip": "20900",
+          "country": "Italy",
+          "contacts": [
+            {
+              "name": "Carmelo Rizzari",
+              "role": "CONTACT",
+              "email": "carmelo.rizzari@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 45.58005,
+            "lon": 9.27246
+          }
+        },
+        {
+          "facility": "Padova Azienda Ospedaliera",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Padova",
+          "zip": "35128",
+          "country": "Italy",
+          "contacts": [
+            {
+              "name": "Marta Pillon",
+              "role": "CONTACT",
+              "email": "marta.pillon@unipd.it"
+            }
+          ],
+          "geoPoint": {
+            "lat": 44.38225,
+            "lon": 11.14261
+          }
+        },
+        {
+          "facility": "Ospedale Pediatrico Bambino Gesù, IRCCS",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Roma",
+          "zip": "0165",
+          "country": "Italy",
+          "contacts": [
+            {
+              "name": "Franco Locatelli",
+              "role": "CONTACT",
+              "email": "franco.locatelli@opbg.net"
+            }
+          ],
+          "geoPoint": {
+            "lat": 44.99364,
+            "lon": 11.10642
+          }
+        },
+        {
+          "facility": "Ospedale Infantile Regina Margherita",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Turin",
+          "zip": "10126",
+          "country": "Italy",
+          "contacts": [
+            {
+              "name": "Franca Fagioli",
+              "role": "CONTACT",
+              "email": "franca.fagioli@unito.it"
+            }
+          ],
+          "geoPoint": {
+            "lat": 45.07049,
+            "lon": 7.68682
+          }
+        },
+        {
+          "facility": "Princess Máxima Center for Pediatric Oncology",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Utrecht",
+          "state": "Utrecht",
+          "zip": "3584CS",
+          "country": "Netherlands",
+          "contacts": [
+            {
+              "name": "Anne A.L Elsinghorst",
+              "role": "CONTACT",
+              "email": "hem-ismart@prinsesmaximacentrum.nl"
+            }
+          ],
+          "geoPoint": {
+            "lat": 52.09083,
+            "lon": 5.12222
+          }
+        },
+        {
+          "facility": "Oslo University Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Oslo",
+          "zip": "0373",
+          "country": "Norway",
+          "contacts": [
+            {
+              "name": "Jochen Büchner",
+              "role": "CONTACT",
+              "email": "jocbuc@ous-hf.no"
+            }
+          ],
+          "geoPoint": {
+            "lat": 59.91273,
+            "lon": 10.74609
+          }
+        },
+        {
+          "facility": "Hospital Sant Joan de Déu de Barcelona",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Barcelona",
+          "zip": "08950",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Jose Luis Dapena Diaz",
+              "role": "CONTACT",
+              "email": "joseluis.dapena@sjd.es"
+            }
+          ],
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Infantil Universitario Niño Jesús",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Madrid",
+          "zip": "28009",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Alba Rubio San Simón",
+              "role": "CONTACT",
+              "email": "alba.rubio@salud.madrid.org"
+            }
+          ],
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "La Fe",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Valencia",
+          "zip": "46026",
+          "country": "Spain",
+          "contacts": [
+            {
+              "name": "Carol Fuentes",
+              "role": "CONTACT",
+              "email": "fuentes_car@gva.es"
+            }
+          ],
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Karolinska university hospital",
+          "status": "RECRUITING",
+          "city": "Stockholm",
+          "zip": "171 76",
+          "country": "Sweden",
+          "contacts": [
+            {
+              "name": "Anna Nilsson",
+              "role": "CONTACT",
+              "email": "anna.nilsson.1@ki.se"
+            }
+          ],
+          "geoPoint": {
+            "lat": 59.32938,
+            "lon": 18.06871
+          }
+        },
+        {
+          "facility": "Bristol Royal Hospital for Children",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Bristol",
+          "zip": "B52 8BJ",
+          "country": "United Kingdom",
+          "contacts": [
+            {
+              "name": "Kristina Marshall",
+              "role": "CONTACT",
+              "email": "kristina.marshall@uhbw.nhs.uk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.45523,
+            "lon": -2.59665
+          }
+        },
+        {
+          "facility": "Great Ormond Street Hospital for Children NHS Trust",
+          "status": "NOT_YET_RECRUITING",
+          "city": "London",
+          "zip": "WC1N 2BH",
+          "country": "United Kingdom",
+          "contacts": [
+            {
+              "name": "David O'Connor",
+              "role": "CONTACT",
+              "email": "david.oconnor@gosh.nhs.uk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.50853,
+            "lon": -0.12574
+          }
+        },
+        {
+          "facility": "Great North Children's Hospital",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Newcastle",
+          "zip": "NE1 4LP",
+          "country": "United Kingdom",
+          "contacts": [
+            {
+              "name": "Frederik van Delft",
+              "role": "CONTACT",
+              "email": "Frederik.Van-Delft@newcastle.ac.uk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 54.21804,
+            "lon": -5.88979
+          }
+        },
+        {
+          "facility": "Royal Marsden NHS Trust",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Sutton",
+          "zip": "SM2 5PT",
+          "country": "United Kingdom",
+          "contacts": [
+            {
+              "name": "Donna Lancaster",
+              "role": "CONTACT",
+              "email": "donna.lancaster@rmh.nhs.uk"
+            }
+          ],
+          "geoPoint": {
+            "lat": 51.35,
+            "lon": -0.2
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "All individual participant data will be used to generate a publication.",
+      "infoTypes": [
+        "CSR"
+      ],
+      "timeFrame": "CSRs will also be provided at the end of specific sub-protocols or specific phases of a sub-protocol, and when needed for regulatory purposes.\n\nExamples for generating 'primary CSRs' may include:\n\nAfter Last Patient Last Visit (LPLV) in a study having ORR as endpoint After the RP2D is determined in a Phase I part of a given sub-protocol After the follow-up of a specific sub-protocol is completed.",
+      "accessCriteria": "A summary of the study results will be made public via clinicaltrials.gov as well as to Ethical committees/ Health Authorities and all participating patients by providing them through their treating physicians a patient letter with a summary of the results."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D054198",
+          "term": "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+        },
+        {
+          "id": "D015452",
+          "term": "Precursor B-Cell Lymphoblastic Leukemia-Lymphoma"
+        },
+        {
+          "id": "D007938",
+          "term": "Leukemia"
+        },
+        {
+          "id": "D012008",
+          "term": "Recurrence"
+        },
+        {
+          "id": "D054218",
+          "term": "Precursor T-Cell Lymphoblastic Leukemia-Lymphoma"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007945",
+          "term": "Leukemia, Lymphoid"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D008232",
+          "term": "Lymphoproliferative Disorders"
+        },
+        {
+          "id": "D008206",
+          "term": "Lymphatic Diseases"
+        },
+        {
+          "id": "D007160",
+          "term": "Immunoproliferative Disorders"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000069439",
+          "term": "Dasatinib"
+        },
+        {
+          "id": "C579720",
+          "term": "venetoclax"
+        },
+        {
+          "id": "D003907",
+          "term": "Dexamethasone"
+        },
+        {
+          "id": "D003520",
+          "term": "Cyclophosphamide"
+        },
+        {
+          "id": "D003561",
+          "term": "Cytarabine"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D013844",
+          "term": "Thiazoles"
+        },
+        {
+          "id": "D013457",
+          "term": "Sulfur Compounds"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D001393",
+          "term": "Azoles"
+        },
+        {
+          "id": "D006573",
+          "term": "Heterocyclic Compounds, 1-Ring"
+        },
+        {
+          "id": "D006571",
+          "term": "Heterocyclic Compounds"
+        },
+        {
+          "id": "D011743",
+          "term": "Pyrimidines"
+        },
+        {
+          "id": "D011246",
+          "term": "Pregnadienetriols"
+        },
+        {
+          "id": "D011245",
+          "term": "Pregnadienes"
+        },
+        {
+          "id": "D011278",
+          "term": "Pregnanes"
+        },
+        {
+          "id": "D013256",
+          "term": "Steroids"
+        },
+        {
+          "id": "D000072473",
+          "term": "Fused-Ring Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D013259",
+          "term": "Steroids, Fluorinated"
+        },
+        {
+          "id": "D010752",
+          "term": "Phosphoramide Mustards"
+        },
+        {
+          "id": "D009588",
+          "term": "Nitrogen Mustard Compounds"
+        },
+        {
+          "id": "D009150",
+          "term": "Mustard Compounds"
+        },
+        {
+          "id": "D006846",
+          "term": "Hydrocarbons, Halogenated"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D063088",
+          "term": "Phosphoramides"
+        },
+        {
+          "id": "D009943",
+          "term": "Organophosphorus Compounds"
+        },
+        {
+          "id": "D003562",
+          "term": "Cytidine"
+        },
+        {
+          "id": "D011741",
+          "term": "Pyrimidine Nucleosides"
+        },
+        {
+          "id": "D001087",
+          "term": "Arabinonucleosides"
+        },
+        {
+          "id": "D009705",
+          "term": "Nucleosides"
+        },
+        {
+          "id": "D009706",
+          "term": "Nucleic Acids, Nucleotides, and Nucleosides"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

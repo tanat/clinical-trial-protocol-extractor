@@ -1,0 +1,68 @@
+{
+  "phase": "NA",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "walking assessment",
+      "timeFrame": "up to eight weeks",
+      "description": "walking will be assessed by walkway device"
+    },
+    {
+      "measure": "balance",
+      "timeFrame": "up to eight weeks",
+      "description": "balance will be assessed by biodex balance device"
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "A score of 3.5 or less on the Expanded Disability Status Scale (EDSS) because individuals with an EDSS score greater than 3.5 need more assistance, being less independent.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Age over 18 years",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "All definite multiple sclerosis patients diagnosed as MS according to revised McDonald criteria 2017",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Both males and females were included",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "-Individuals who had orthopedic, neurologic, and psychological problems that accompanied MS that might affect the treatment results-",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "serious cognitive problems; performed regular exercise; were involved in another physiotherapy and rehabilitation program related to MS(Kurtzke, 1993)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Pregnant were not included.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Individuals who had an exacerbation during the treatment period",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "OTHER",
+      "name": "pilates based core stability training and congnitive therapy"
+    },
+    {
+      "type": "OTHER",
+      "name": "Pilates based core stability training"
+    }
+  ]
+}

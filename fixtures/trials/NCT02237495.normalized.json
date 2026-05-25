@@ -1,0 +1,93 @@
+{
+  "phase": "PHASE_2_3",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "1-year all cause of mortality and major postoperative complications",
+      "timeFrame": "1 year after operation",
+      "description": "Postoperative delirium, infection, acute renal failure (ARF) and major adverse cardiocerebral events (MACE) which includes permanent or transient stroke, coma, perioperative myocardial infarction (MI), heart block and cardiac arrest represent major postoperative complications."
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Provide written informed consent",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Are > 18 years of age",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Elective cardiac surgery with CPB, when the surgeon plans to do valve and/or CABG surgery",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Emergent cardiac surgery",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Other than CABG and/or Valve surgery",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "off-pump or robotic surgery",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Surgery requiring deep hypothermic circulatory arrest or involving the thoracic aorta",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Life expectancy < 1 year",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Preop severe liver or renal dysfunction, with replacement therapy required",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Patients with IABP or with cardiogenic shock",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Severe dehydrate or dystrophia or Hb < 10 g/dl",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "History of any alpha-2 receptor agonists allergy.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Refuse to provide written informed consent",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Diagnosed with mental illness",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "dexmedetomidine"
+    },
+    {
+      "type": "DRUG",
+      "name": "placebo"
+    }
+  ]
+}

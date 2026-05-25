@@ -1,0 +1,245 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00057629",
+      "orgStudyIdInfo": {
+        "id": "R01MH042178",
+        "type": "NIH",
+        "link": "https://reporter.nih.gov/quickSearch/R01MH042178"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "R01MH042178",
+          "type": "NIH",
+          "link": "https://reporter.nih.gov/quickSearch/R01MH042178"
+        },
+        {
+          "id": "DSIR AT-AS"
+        }
+      ],
+      "organization": {
+        "fullName": "University of Pennsylvania",
+        "class": "OTHER"
+      },
+      "briefTitle": "Prolonged Exposure Therapy for Post Traumatic Stress Disorder Following Sexual Assault",
+      "officialTitle": "Effectiveness of Treatment for PTSD in Community Agencies"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2015-11",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2002-01"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2008-08",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2009-08",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2003-04-04",
+      "studyFirstSubmitQcDate": "2003-04-04",
+      "studyFirstPostDateStruct": {
+        "date": "2003-04-07",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2015-11-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2015-11-13",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "University of Pennsylvania",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "National Institute of Mental Health (NIMH)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This study will evaluate the effectiveness of a brief cognitive behavioral therapy, administered by community agencies, for the treatment of patients with Post Traumatic Stress Disorder (PTSD).",
+      "detailedDescription": "PE is a brief cognitive behavioral therapy that can ameliorate symptoms of PTSD, depression, and anxiety in survivors of various types of trauma. PE has been successfully implemented by counselors at a community rape crisis clinic (Women Organized Against Rape \\[WOAR\\]) who received extensive training and weekly supervision from PE experts. Such extensive expert involvement is not a practical model for long-term clinical practice in a community-based clinic. Therefore, Part 1 of this study will examine whether counselors at WOAR can maintain their PE implementation success with reduced expert involvement. In Part 2 of this study, PE will be implemented by counselors at another community clinic (Joseph J. Peters Institute \\[JJPI\\]) to examine its effectiveness in treating PTSD and to determine the generalizability of training procedures.\n\nParticipants in this study are randomly assigned to either PE or to individual and group therapy. Treatment sessions are conducted weekly for 10 to 20 weeks, based on participants' rates of improvement. Participants are assessed before treatment, after 10 weeks, and again in the follow-up phase at 3, 6, 12, and 24 months post-treatment."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Stress Disorders, Post-Traumatic"
+      ],
+      "keywords": [
+        "Rape",
+        "Sex Offenses"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2",
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "SINGLE",
+          "whoMasked": [
+            "OUTCOMES_ASSESSOR"
+          ]
+        }
+      },
+      "enrollmentInfo": {
+        "count": 187,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "1 Prolonged Exposure",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Prolonged Exposure (PE) consists of 10 weekly 90-minute treatment sessions, which may be extended up to 20 sessions, depending on client response. Treatment procedures include education about common reactions to trauma, breathing retraining, prolonged (repeated) exposure to trauma memories, repeated in vivo exposure to situations the client is avoiding due to trauma-related fear, and discussion of thoughts and feelings related to exposure exercises as well as beliefs about self and the world.",
+          "interventionNames": [
+            "Behavioral: Prolonged Exposure (PE)"
+          ]
+        },
+        {
+          "label": "2 Individual and group therapy",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "TUGT (Treatment as usual group therapy - used in Study 1), delivered in ten weekly sessions, with 5 to 7 members and two counselors per group. There is no formal, structured format for these groups; counselors are sensitive to the participants' needs and follow their lead re content covered in discussions and exercises.\n\nSupportive counseling (SC - study 2): individual therapy delivered in 10 weekly, 90 minute sessions. Therapist helps patient identify daily stresses that may or may not be related to traumatic events and discusses them in a supportive non-directive mode with a problem-solving orientation. The goal of this present-focused treatment is to provide support and to help the client to identify problems and stresses of daily living and to help her cope with these.",
+          "interventionNames": [
+            "Behavioral: Treatment as usual group therapy (TUGT)",
+            "Behavioral: Supportive counseling (SC)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BEHAVIORAL",
+          "name": "Prolonged Exposure (PE)",
+          "description": "Prolonged Exposure (PE) consists of 10 weekly 90-minute treatment sessions, which may be extended up to 20 sessions, depending on client response. Treatment procedures include education about common reactions to trauma, breathing retraining, prolonged (repeated) exposure to trauma memories, repeated in vivo exposure to situations the client is avoiding due to trauma-related fear, and discussion of thoughts and feelings related to exposure exercises as well as beliefs about self and the world.",
+          "armGroupLabels": [
+            "1 Prolonged Exposure"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Treatment as usual group therapy (TUGT)",
+          "description": "TUGT is delivered in ten weekly sessions, with 5 to 7 members and two counselors per group. There is not a formal, structured format for these groups; the counselors are sensitive to the participants' needs and follow their lead in terms of content covered in discussions and exercises. TUGT is conceptualized as supportive counseling and is based on the idea that members gain social support and information from one another.",
+          "armGroupLabels": [
+            "2 Individual and group therapy"
+          ]
+        },
+        {
+          "type": "BEHAVIORAL",
+          "name": "Supportive counseling (SC)",
+          "description": "Supportive counseling is an individual therapy delivered in 10 weekly, 90 minute sessions. During this treatment, the therapist helps the patient identify daily stresses that may or may not be related to traumatic events and discusses them in a supportive non-directive mode with a problem-solving orientation. The therapist uses active listening, encouragement of expression of feelings, praise, and encouragement. The goal of this present-focused treatment is to provide support and to help the client to identify problems and stresses of daily living and to help her cope with these. No instructions for exposure are given.",
+          "armGroupLabels": [
+            "2 Individual and group therapy"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Severity of PTSD, depression, anxiety and general function",
+          "timeFrame": "Measured pre- and post-treatment"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* DSM-IV criteria for PTSD at least 12 weeks after sexual assault\n* PTSD symptoms that result from sexual assault and not from another traumatic experience\n\nExclusion Criteria:\n\n* DSM-IV criteria for schizophrenia or delusional disorder\n* Unstable bipolar disorder, depression with psychotic features, or depression severe enough to require immediate psychiatric treatment. Clients who are medicated and still meet current criteria for these disorders will be excluded.\n* Substance dependence\n* Continued intimate relationship with the assailant",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "minimumAge": "18 Years",
+      "maximumAge": "67 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Elizabeth A Hembree, PhD",
+          "affiliation": "University of Pennsylvania Faculty",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Center for the Treatment and Study of Anxiety, University of Pennsylvania",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95238,
+            "lon": -75.16362
+          }
+        },
+        {
+          "facility": "Women Organized Against Rape (WOAR)",
+          "city": "Philadelphia",
+          "state": "Pennsylvania",
+          "zip": "19107",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.95238,
+            "lon": -75.16362
+          }
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D013313",
+          "term": "Stress Disorders, Post-Traumatic"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D040921",
+          "term": "Stress Disorders, Traumatic"
+        },
+        {
+          "id": "D000068099",
+          "term": "Trauma and Stressor Related Disorders"
+        },
+        {
+          "id": "D001523",
+          "term": "Mental Disorders"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D013812",
+          "term": "Therapeutics"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

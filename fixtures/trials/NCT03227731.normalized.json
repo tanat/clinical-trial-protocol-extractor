@@ -1,0 +1,174 @@
+{
+  "phase": "PHASE_2_3",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Pregnancy Outcome-Preterm Deliveries",
+      "timeFrame": "Within 72 hours postdelivery",
+      "description": "Number of preterm deliveries \\< 37 weeks gestation"
+    },
+    {
+      "measure": "Bone Mineral Density in mother and infant",
+      "timeFrame": "6 weeks postdelivery, and thereafter 6 monthly until week 74",
+      "description": "Number of participants with decreased bone mineral density of hip and spine"
+    },
+    {
+      "measure": "Pregnancy Outcome-Low Birth Weight",
+      "timeFrame": "Within 72 hours",
+      "description": "Number of Low birth weight babies \\<2500g"
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "At least 18 years old.",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Confirmed HIV-1 uninfected.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Willing to provide screening informed consent",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Currently pregnant",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Considered high risk for HIV infection",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Unprotected sex during pregnancy",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "HIV status of current sexual partner is positive or unknown",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Results of Hepatitis B Virus (HBV) screening (HBsAg testing) available from specimen obtained within 30 days prior to entry",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Plans to deliver in the study affiliated hospital",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Has no plans to move residence outside of the catchment area during the 18 months following delivery",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "HIV infected",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "<18 years of age",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "The following laboratory values from a specimen obtained within 30 days prior to study entry:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Hemoglobin <9.5 g/dL",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "White Blood Cell Count (WBC) < 1500 cells/mm3",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Absolute Neutrophil Count (ANC) < 750 cells/mm3",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Platelets < 100,000 cells/mm3",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Alanine Aminotransferase (ALT) > 2.5 x upper limit of normal (ULN)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Estimated creatinine clearance of < 70 ml/min using the cockcroft-gault equation for women: {(\\[140 - age (years)\\] x \\[weight (kg)\\]) ÷ \\[72 x serum Cr (mg/dL)\\]} x 0.85",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Hepatitis B surface antigen (HBsAg) positive",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Participation in any other study",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "In labour - at onset or beyond",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Serious illness (including TB) and/or hospitalization",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Receipt of TB treatment within 30 days prior to study entry",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Fetus detected with serious congenital malformation (ultrasound not required to rule out this condition)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "History of documented structural or conduction heart defect",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Social or other circumstances which would hinder long-term follow-up, in the opinion of the site investigator",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Currently incarcerated",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Substance or alcohol abuse (a score of >8 on the WHO Alcohol Use).",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "Truvada"
+    }
+  ]
+}

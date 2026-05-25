@@ -1,0 +1,421 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05586230",
+      "orgStudyIdInfo": {
+        "id": "IMPAACT 2034"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "38754",
+          "type": "OTHER",
+          "domain": "DAIDS"
+        }
+      ],
+      "organization": {
+        "fullName": "National Institute of Allergy and Infectious Diseases (NIAID)",
+        "class": "NIH"
+      },
+      "briefTitle": "Study of a Single Dose of Pretomanid Added to an Optimized Background Regimen in Children With Rifampicin-Resistant Tuberculosis",
+      "officialTitle": "Phase I Study of the Pharmacokinetics, Safety, and Acceptability of a Single Dose of Pretomanid Added to an Optimized Background Regimen in Children With Rifampicin-Resistant Tuberculosis"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-05",
+      "overallStatus": "RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2023-10-03",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2026-05-02",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2026-05-02",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-10-11",
+      "studyFirstSubmitQcDate": "2022-10-18",
+      "studyFirstPostDateStruct": {
+        "date": "2022-10-19",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-03-19",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-03-23",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "National Institute of Allergy and Infectious Diseases (NIAID)",
+        "class": "NIH"
+      },
+      "collaborators": [
+        {
+          "name": "Global Alliance for TB Drug Development",
+          "class": "OTHER"
+        },
+        {
+          "name": "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+          "class": "NIH"
+        },
+        {
+          "name": "National Institute of Mental Health (NIMH)",
+          "class": "NIH"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "The purpose of the study is to evaluate the pharmacokinetics (PK), safety, tolerability, and acceptability of a single dose of pretomanid, added to an optimized background tuberculosis treatment regimen (OBR), in children with rifampicin-resistant tuberculosis (RR-TB) with or without human immunodeficiency virus (HIV).",
+      "detailedDescription": "This is a Phase I, multi-site, open-label, non-comparative study of the PK, safety, tolerability, and acceptability of a single-dose of pretomanid added to an OBR in infants, children, and adolescents with RR-TB. The term children is used within the protocol to indicate the total age range from infants through adolescents; enrollment will be limited to children assigned female sex at birth and enrollment of neonates will be deferred until safety and pharmacokinetic data are available in older groups, pending review by the CMC and SMC during the interim analysis. Refer to the study design and the study eligibility criteria and a description of the study recruitment, screening, and enrollment process. Participants are expected to be enrolled at study sites in Brazil, India, South Africa and Thailand. Up to 72 participants will be enrolled to achieve at least nine evaluable participants in each of four weight groups, for a total of at least 36 enrolled participants.\n\nParticipants will receive a single dose of pretomanid on the day of study entry. No additional doses of pretomanid will be administered; participants will continue their OBR. Intensive PK sampling and safety monitoring will be performed on the day of study entry and over the course of the next 48 hours. Participants will then complete a final study visit approximately two weeks after study entry."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Tuberculosis",
+        "Rifampicin Resistant Tuberculosis"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 72,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Group 1 (≥ 31 kg)",
+          "type": "EXPERIMENTAL",
+          "description": "≥40 kg (Adult Formulation)\n\n31-\\<40 kg (Dispersible Pediatric Formulation)",
+          "interventionNames": [
+            "Drug: Pretomanid",
+            "Drug: Optimized background regimen (OBR) for multidrug-resistant TB (MDR-TB)"
+          ]
+        },
+        {
+          "label": "Group 2 (20-<31 kg)",
+          "type": "EXPERIMENTAL",
+          "description": "20-\\<31 kg (Dispersible pediatric Formulation)",
+          "interventionNames": [
+            "Drug: Pretomanid",
+            "Drug: Optimized background regimen (OBR) for multidrug-resistant TB (MDR-TB)"
+          ]
+        },
+        {
+          "label": "Group 3 (12-<20 kg)",
+          "type": "EXPERIMENTAL",
+          "description": "12-\\<20 kg (Dispersible pediatric Formulation)",
+          "interventionNames": [
+            "Drug: Pretomanid",
+            "Drug: Optimized background regimen (OBR) for multidrug-resistant TB (MDR-TB)"
+          ]
+        },
+        {
+          "label": "Group 4 (4-<12 kg)",
+          "type": "EXPERIMENTAL",
+          "description": "8-\\<12 kg (Dispersible pediatric Formulation)\n\n6-\\<8 kg (Dispersible pediatric Formulation)\n\n4-\\<6 kg (Dispersible pediatric Formulation)",
+          "interventionNames": [
+            "Drug: Pretomanid",
+            "Drug: Optimized background regimen (OBR) for multidrug-resistant TB (MDR-TB)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Pretomanid",
+          "description": "Administered orally based on participant's weight",
+          "armGroupLabels": [
+            "Group 1 (≥ 31 kg)",
+            "Group 2 (20-<31 kg)",
+            "Group 3 (12-<20 kg)",
+            "Group 4 (4-<12 kg)"
+          ],
+          "otherNames": [
+            "Pa"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Optimized background regimen (OBR) for multidrug-resistant TB (MDR-TB)",
+          "description": "Non-study prescribed OBR will vary according to local, national and/or international guidelines for treatment of children with MDR-TB. Administered in addition to single dose of Pa.",
+          "armGroupLabels": [
+            "Group 1 (≥ 31 kg)",
+            "Group 2 (20-<31 kg)",
+            "Group 3 (12-<20 kg)",
+            "Group 4 (4-<12 kg)"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "AUC0-∞",
+          "description": "Area under the curve from start of dose to infinity from start of dose to 48 hours post-dose. Measured from study entry to Day 2. Blood samples were drawn at 1, 3, 6, 9, 24 and 48 hours post dose",
+          "timeFrame": "Through 48 hours"
+        },
+        {
+          "measure": "CL/F",
+          "description": "apparent clearance from start of dose to 48 hours post-dose. Measured from study entry to Day 2. Blood samples were drawn at 1, 3, 6, 9, 24 and 48 hours post dose",
+          "timeFrame": "Through 48 hours"
+        },
+        {
+          "measure": "AUC0-tlast",
+          "description": "Area under curve-Last measure concentration from start of dose to 48 hours post-dose. Measured from study entry to Day 2. Blood samples were drawn at 1, 3, 6, 9, 24 and 48 hours post dose",
+          "timeFrame": "Through 48 hours"
+        },
+        {
+          "measure": "AUC0-48",
+          "description": "Area under the curve from time zero to 48 hours from start of dose to 48 hours post-dose. Measured from study entry to Day 2. Blood samples were drawn at 1, 3, 6, 9, 24 and 48 hours post dose",
+          "timeFrame": "Through 48 hours"
+        },
+        {
+          "measure": "Tmax",
+          "description": "Time of maximal concentration from start of dose to 48 hours post-dose. Measured from study entry to Day 2. Blood samples were drawn at 1, 3, 6, 9, 24 and 48 hours post dose",
+          "timeFrame": "Through 48 hours"
+        },
+        {
+          "measure": "Cmax",
+          "description": "Peak concentration from start of dose to 48 hours post-dose. Measured from study entry to Day 2. Blood samples were drawn at 1, 3, 6, 9, 24 and 48 hours post dose",
+          "timeFrame": "Through 48 hours"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Number of participants with an adverse event",
+          "timeFrame": "From time of single Pa dose at study entry to study week 2"
+        },
+        {
+          "measure": "Number of participants with a Grade 3 or higher adverse event",
+          "timeFrame": "From time of single Pa dose at study entry to study week 2"
+        },
+        {
+          "measure": "Number of participants with a grade 2 or higher adverse event assessed as related to study drug",
+          "timeFrame": "From time of single Pa dose at study entry to study week 2"
+        },
+        {
+          "measure": "Number of participants with a serious adverse event",
+          "timeFrame": "From time of single Pa dose at study entry to study week 2"
+        },
+        {
+          "measure": "Aggregated data on parent/guardian and/or participant (and/or study staff) reported palatability and acceptability of study drug given as single dose at entry",
+          "description": "Based on questionnaire responses",
+          "timeFrame": "At day 0"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* If not of legal age or circumstance to provide independent informed consent as determined by site standard operating procedures (SOPs) and consistent with institutional review board/ethics committee (IRB/EC) policies and procedures: Parent/legal guardian is willing and able to provide written informed consent for potential participant's study participation; in addition, when applicable per IRB/EC policies and procedures, potential participant is willing and able to provide written assent for study participation.\n* If of legal age or circumstance to provide independent informed consent as determined by site SOPs and consistent with IRB/EC policies and procedures: Potential participant is willing and able to provide written informed consent for study participation.\n\nNote: All sites must follow all applicable IRB/EC policies and procedures.\n\n* Assigned female sex at birth, as determined by the site investigator based on participant and parent/guardian report and available medical records\n* Age less than 18 years of age at entry\n\nNote: Neonates (defined as children who are 28 days of age or younger \\[≤28 days of age\\]) may be allowed to enroll after CMC and SMC evaluation of safety and PK data at the interim analysis.\n\n* Weight greater than or equal to 4 kg at entry\n* Has confirmed or probable intrathoracic (pulmonary) RR-TB and/or any form of extrathoracic (extrapulmonary) RR-TB (other than stage 2 or 3 TB meningitis, which is exclusionary)\n\n  * Confirmed intrathoracic (pulmonary) RR-TB, based on chest radiograph and/or symptoms consistent with TB, and/or any forms of extrathoracic TB, with all of the following, as determined by the site investigator based on medical records:\n\n    * Microbiological confirmation of M. tuberculosis from any clinical specimen by either culture or molecular methods\n    * Rifampicin resistance demonstrated by genotypic (molecular) or phenotypic methods\n    * Documented clinical decision to treat for RR-TB\n\nNote: In the case of discrepant genotypic and phenotypic test results (i.e., rifampicin-susceptible by one method and rifampicin-resistant by another), this criterion will be considered to have been met if at least one rifampicin-resistant result is available and the participant is assessed as having RR-TB by the non-study care provider when study staff evaluate the participant for eligibility.\n\n* Probable intrathoracic (pulmonary) RR-TB, based on chest radiograph and/or symptoms consistent with TB, and/or any form of extrathoracic TB, with both of the following, as determined by the site investigator based on medical records:\n\n  * Documented exposure to a source case with bacteriologically-confirmed intrathoracic rifampicin-resistant TB\n  * Documented clinical decision to treat for RR-TB\n\nNote: Full resistance profiles may be obtained after study entry.\n\n* Initiated an appropriate TB OBR treatment regimen as per routine treatment decision, at least two weeks prior to entry, as determined by the site investigator based on medical records, and is tolerating the regimen well at entry, in the opinion of the site investigator\n\nNote: see exclusion criterion below for exclusionary TB medications\n\n* Has normal, grade 1, or grade 2 results for all of the following at screening (i.e., from specimens collected within 28 days prior to entry), based on grading per the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table; refer to protocol for guidance on severity grading):\n\n  * Creatinine\n  * Platelets\n  * Absolute neutrophil count\n  * Hemoglobin\n  * Estimated glomerular filtration rate (eGFR; bedside Schwartz formula)\n\nNote: Laboratory tests may be repeated during the study screening period (i.e., within 28 days prior to entry), with the latest results used for eligibility determination.\n\n* Has normal or grade 1 results for all of the following at screening (i.e., from specimens collected within 28 days prior to entry), based on grading per the DAIDS AE Grading Table (refer to protocol for guidance on severity grading):\n\n  * Alanine aminotransferase (ALT)\n  * Lipase\n  * Total bilirubin\n\nNote: Laboratory tests may be repeated during the study screening period (i.e., within 28 days prior to entry), with the latest results used for eligibility determination.\n\n* Has a normal QT interval corrected by Fridericia's formula (QTcF) (mean interval value less than 450 milliseconds, on ECG performed in triplicate) at screening\n\nNote: The mean QTcF value obtained from the centralized ECG reading must be used for eligibility determination.\n\n* Has a Karnofsky score greater than or equal to 50% for participants 16 years of age and older or Lansky play score greater than or equal to 50% for participants less than 16 years of age, at screening\n* Does not have severe acute malnutrition, defined below, and has no presence of nutritional edema, based on physical examination, at screening\n\n  * Severe acute malnutrition is defined as any of the following:\n\n    * For participants 5 years of age and younger: weight-for-height z-score less than -3, according to WHO growth standards\n    * For participants 6 months to 5 years of age: mid-upper arm circumference (MUAC) less than 115 mm\n    * For participants older than 5 years of age: BMI z-score less than -3, according to WHO growth standards\n\nNote: Children who are stunted may be enrolled.\n\n* HIV status determined based on testing methods meeting the requirements specified in protocol\n* For participants living with HIV, has been taking a stable ARV regimen for at least two consecutive weeks at entry, as determined by the site investigator based on participant and parent/guardian report and available medical records\n\nNote: Dose and formulation changes (e.g., for growth) within the two weeks prior to entry are permitted. See below for exclusionary ARVs.\n\n* For participants who have reached menarche or who are engaging in sexual activity (self-reported): not pregnant based on testing performed within 5 days prior to entry during the study screening period (i.e., within 28 days prior to entry)\n* For participants who are engaging in sexual activity (self-reported): agrees to use at least one effective, medically accepted birth control method while on study, based on participant and parent/guardian report at entry\n* Expected to be available for two weeks of study participation, based on participant and parent/guardian report at entry\n\nExclusion Criteria:\n\n* Has tuberculosis meningitis Stage 2 or 3, as determined by the site investigator based on medical records\n* Receipt of any of the following, within 14 days prior to entry, as determined by the site investigator based on participant/parent/guardian report and available medical records\n\n  * Rifamycins\n  * Any prohibited medication (see protocol for listing)\n  * For participants living with HIV: ritonavir-boosted protease inhibitors (e.g., ritonavir-boosted lopinavir, ritonavir-boosted darunavir), atazanavir, nevirapine etravirine, efavirenz, or cobicistat\n* Receipt of any investigational agent or device within 28 days prior to entry, as determined by the site investigator based on participant/parent/guardian report and available medical records\n\nNote: Co-enrollment in COVID-19 vaccine studies and receipt of a COVID-19 vaccine under emergency use authorization (or local equivalent) is allowed, with prior approval from the CMC.\n\nNote: Any co-enrollment must be approved as noted in protocol\n\n* Has any of the following as determined by the site investigator based on participant/ parent/guardian report and available medical records\n\n  * Clinical evidence of acute hepatitis A, B, C, or chronic hepatitis B or C\n  * Significant cardiac arrhythmia that requires medication or increases the risk for Torsade de Pointes\n  * Known allergy or hypersensitivity to pretomanid or other nitroimidazole compounds\n  * Known porphyria\n* Currently breastfeeding an infant at entry, as determined by the site investigator based on participant/parent/guardian report\n* Exposed to pretomanid through breast milk within seven days prior to entry (i.e., mother receiving pretomanid and breastfeeding a potential participant), as determined by the site investigator based on parent/guardian report\n* Has any documented or suspected clinically significant medical condition or any other condition that, in the opinion of the site investigator, would make participation in the study unsafe, complicate interpretation of study outcome data, or otherwise interfere with achieving study objectives",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "maximumAge": "17 Years",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "IMPAACT Clinicaltrials.gov Coordinator",
+          "role": "CONTACT",
+          "email": "impaact.ctgov@fstrf.org"
+        },
+        {
+          "name": "Katie McCarthy",
+          "role": "CONTACT",
+          "phone": "(919) 321-3326",
+          "email": "kmccarthy@fhi360.org"
+        }
+      ],
+      "overallOfficials": [
+        {
+          "name": "Ethel Weld",
+          "affiliation": "Johns Hopkins University",
+          "role": "STUDY_CHAIR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Site 5071, Instituto de Puericultura e Pediatria Martagao Gesteira CRS",
+          "status": "RECRUITING",
+          "city": "Rio de Janeiro",
+          "country": "Brazil",
+          "contacts": [
+            {
+              "name": "Lorena Pestana",
+              "role": "CONTACT",
+              "phone": "+55 21 968968383",
+              "email": "lorena.pestana@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": -22.90642,
+            "lon": -43.18223
+          }
+        },
+        {
+          "facility": "Site 31441, BJMC CRS",
+          "status": "NOT_YET_RECRUITING",
+          "city": "Pune",
+          "country": "India",
+          "contacts": [
+            {
+              "name": "Mandar Paradkar",
+              "role": "CONTACT",
+              "phone": "+91 9823457325",
+              "email": "mparadk1@jh.edu"
+            }
+          ],
+          "geoPoint": {
+            "lat": 18.51957,
+            "lon": 73.85535
+          }
+        },
+        {
+          "facility": "Site 31976, PHRU Matlosana CRS",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Klerksdorp",
+          "state": "North West",
+          "zip": "2574",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -26.85213,
+            "lon": 26.66672
+          }
+        },
+        {
+          "facility": "Site 31790, Desmond Tutu TB Centre (DTTC) CRS",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Cape Town",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -33.92584,
+            "lon": 18.42322
+          }
+        },
+        {
+          "facility": "Site 31929, Sizwe CRS",
+          "status": "ACTIVE_NOT_RECRUITING",
+          "city": "Johannesburg",
+          "country": "South Africa",
+          "geoPoint": {
+            "lat": -26.20227,
+            "lon": 28.04363
+          }
+        },
+        {
+          "facility": "Site 5115, Siriraj Hospital, Mahidol University NICHD CRS",
+          "status": "RECRUITING",
+          "city": "Bangkok Noi",
+          "country": "Thailand",
+          "contacts": [
+            {
+              "name": "Puangphet Songsirithat",
+              "role": "CONTACT",
+              "phone": "+66-2-866-0225;",
+              "email": "puangphet.song@gmail.com"
+            }
+          ],
+          "geoPoint": {
+            "lat": 13.76266,
+            "lon": 100.47798
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "seeAlsoLinks": [
+        {
+          "label": "Related Info",
+          "url": "http://www.impaactnetwork.org/studies/impaact2034"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "Individual participant data that underlie results in the publication, after deidentification.",
+      "infoTypes": [
+        "STUDY_PROTOCOL",
+        "SAP"
+      ],
+      "timeFrame": "Beginning 3 months following publication and available throughout period of funding of the International Maternal Pediatric Adolescent AIDS Clinical Trial (IMPAACT) Network by NIH.",
+      "accessCriteria": "* With whom?\n* Researchers who provide a methodologically sound proposal for use of the data that is approved by the IMPAACT Network.\n* For what types of analyses?\n* To achieve aims in the proposal approved by the IMPAACT Network.\n* By what mechanism will data be made available?\n* Researchers may submit a request for access to data using the IMPAACT \"Data Request\" form at: https:// www.impaactnetwork.org/resources/study-proposals.htm. Researchers of approved proposals will need to sign an IMPAACT Data Use Agreement before receiving the data."
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08",
+      "removedCountries": [
+        "Tanzania"
+      ]
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D014376",
+          "term": "Tuberculosis"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009164",
+          "term": "Mycobacterium Infections"
+        },
+        {
+          "id": "D000193",
+          "term": "Actinomycetales Infections"
+        },
+        {
+          "id": "D016908",
+          "term": "Gram-Positive Bacterial Infections"
+        },
+        {
+          "id": "D001424",
+          "term": "Bacterial Infections"
+        },
+        {
+          "id": "D001423",
+          "term": "Bacterial Infections and Mycoses"
+        },
+        {
+          "id": "D007239",
+          "term": "Infections"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C410767",
+          "term": "pretomanid"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,177 @@
+{
+  "phase": "PHASE_2",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Relative change in lung function from baseline at Day 28.",
+      "timeFrame": "28 Days"
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Males or females aged 18 years and older",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Patients with CF as diagnosed by one of the following:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Documented sweat chloride greater than or equal to 60 mEq/L by quantitative pilocarpine iontophoresis test, OR",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Documented sweat sodium greater than or equal to 60 mmol/L, OR",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Abnormal nasal potential difference, OR",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Two well-characterized genetic mutations in the CF transmembrane conductance regulator (CFTR) gene, AND",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Accompanying symptoms characteristic of CF",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Documented presence of PA in an expectorated sputum or throat swab culture at Visit 1 OR documented PA in 2 expectorated sputum or throat swab cultures within 12 months prior to Visit 1; one of the previous PA-positive cultures must be within 3 months prior to Visit 1",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Patients must be able to provide written informed consent prior to any study related procedures",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "FEV1 greater than or equal to 25% and less than or equal to 75% predicted at Visit 1",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Ability to perform reproducible pulmonary function tests",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Chest radiograph at Visit 1 without significant acute findings (e.g., infiltrates \\[lobar or diffuse interstitial\\], pleural effusion, pneumothorax); or chest radiograph, CT, or MRI obtained within the 90 days prior to Visit 1 without acute findings or significant intercurrent illness; chronic, stable findings (e.g., chronic scarring or atelectasis) are allowed.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Current use of oral corticosteroids in doses exceeding the equivalent of 10 mg prednisone a day or 20 mg prednisone every other day",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "History of sputum or throat swab culture yielding B. cepacia in the previous 2 years",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Current requirement for daily continuous oxygen supplementation or requirement for more than 2 L/minute at night",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Administration of any investigational drug or device within 28 days of Visit 1 or within 6 half-lives of the investigational drug (whichever is longer)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Known local or systemic hypersensitivity to monobactam antibiotics",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Known allergies/intolerance to tobramycin or other aminoglycosides",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Known allergies/intolerance to fosfomycin",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Inability to tolerate inhalation of a short acting beta2 agonist",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Changes in or initiation of chronic azithromycin treatment within 14 days prior to Visit 1",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Administration of antipseudomonal antibiotics by inhalation, IV, or oral routes within the 14 days prior to Visit 1",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Changes in antimicrobial, bronchodilator (BD), corticosteroid, hypertonic saline, or dornase alfa medications within 7 days prior to Visit 1",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Changes in physiotherapy technique or schedule within 7 days prior to Visit 1",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "History of lung transplantation",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Abnormal renal or hepatic function or serum chemistry at Visit 1, defined as:",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "AST, ALT > 3 times upper limit of normal range (ULN)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Creatinine > 1.5 times ULN",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Positive pregnancy test at Visit 1; all women of childbearing potential will be tested",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Female patients of childbearing potential who are lactating or are not (in the opinion of the investigator) practicing an acceptable method of birth control; female patients who utilize hormonal contraceptives as a birth control method must have used the same method for at least 3 months before study dosing",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Any serious or active medical or psychiatric illness, which in the opinion of the investigator, would interfere with patient treatment, assessment, or compliance with the protocol",
+      "category": "PROCEDURAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "FTI, AZLI"
+    },
+    {
+      "type": "DRUG",
+      "name": "Placebo, AZLI"
+    }
+  ]
+}

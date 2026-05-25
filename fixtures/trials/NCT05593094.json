@@ -1,0 +1,828 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT05593094",
+      "orgStudyIdInfo": {
+        "id": "XO45189"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "ZN-A-1041-101-US",
+          "type": "OTHER",
+          "domain": "Suzhou Zanrong Pharma Limited"
+        },
+        {
+          "id": "2023-508459-37-00",
+          "type": "CTIS"
+        }
+      ],
+      "organization": {
+        "fullName": "Hoffmann-La Roche",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Phase 1 Trial of ZN-A-1041 Enteric Capsules or Combination in Participants With Human Epidermal Growth Factor Receptor 2 (HER2)-Positive Advanced Solid Tumors",
+      "officialTitle": "A Phase 1 Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics (PK), and Efficacy of ZN-A-1041 Enteric Capsules as a Single Agent or in Combination in Patients With HER2-Positive Advanced Solid Tumors"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2026-02",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "startDateStruct": {
+        "date": "2020-09-03",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2027-07-31",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2027-07-31",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2022-10-17",
+      "studyFirstSubmitQcDate": "2022-10-22",
+      "studyFirstPostDateStruct": {
+        "date": "2022-10-25",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2026-02-23",
+      "lastUpdatePostDateStruct": {
+        "date": "2026-02-25",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Hoffmann-La Roche",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This will be a Phase 1, multicenter, open-label trial to evaluate the safety, tolerability, PK and efficacy of ZN-A-1041 as a monotherapy or in combination in participants with HER2-positive advanced solid tumors with or without brain metastases.\n\nThe study will consist of three phases: Phase 1a (dose escalation with ZN-A-1041 monotherapy), Phase 1b (dose escalation with ZN-A-1041 combination therapy) and Phase 1c (dose expansion with ZN-A-1041 combination therapy).",
+      "detailedDescription": "This study is composed of three parts designed to evaluate the safety and efficacy of ZN-A-1041 in participants with HER2-positive advanced solid tumors.\n\nPhase 1a (Monotherapy Dose Escalation): In this first phase, participants will receive ZN-A-1041 alone. The study will begin with a low dose of ZN-A-1041, which will be gradually increased in new groups of participants to find the highest dose that can be given safely. This will establish the recommended dose for further study.\n\nPhase 1b (Combination Dose Escalation): In the second phase, the study will evaluate the safety of giving ZN-A-1041 together with established standard-of-care therapies for HER2-positive breast cancer. Participants will be enrolled into one of three combination arms to receive ZN-A-1041 with either T-DM1, T-DXd, or a pertuzumab/trastuzumab-based regimen. This phase will identify the recommended dose for these combination therapies.\n\nPhase 1c (Combination Dose Expansion): In the final phase, additional participants will be enrolled to receive ZN-A-1041 at the recommended combination doses identified in Phase 1b. This will allow for a more thorough evaluation of the safety and preliminary efficacy of these treatment regimens.\n\nThroughout the study, participants will undergo screening, treatment, and follow-up periods to collect comprehensive data on the safety, tolerability, pharmacokinetics, and anti-tumor activity of ZN-A-1041, both as a single agent and in combination."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Advanced Solid Tumors",
+        "HER2-positive Breast Cancer"
+      ],
+      "keywords": [
+        "Phase 1",
+        "Advanced Solid Tumors",
+        "HER2 postive",
+        "Brain metastases",
+        "Herceptin",
+        "Perjeta",
+        "PHESGO",
+        "First Line",
+        "1st Line"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "SEQUENTIAL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 210,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "1a: ZN-A-1041",
+          "type": "EXPERIMENTAL",
+          "description": "Phase 1a:\n\nParticipants will receive escalating doses of ZN-A-1041 orally twice a day (BID) at pre-defined dosing regimens to determine the maximum tolerated dose (MTD).",
+          "interventionNames": [
+            "Drug: ZN-A-1041"
+          ]
+        },
+        {
+          "label": "1b: ZN-A-1041 + T-DM1 3.6 mg/kg iv.",
+          "type": "EXPERIMENTAL",
+          "description": "Phase 1b Arm1:\n\n1. If the maximum tolerated dose (MTD) of ZN-A-1041 is identified in Phase 1a study: The 2 tentative dose levels of ZN-A-1041 are MTD-1 (Level 1) and MTD (Level 2).\n2. If the MTD is still not reached at the maximum dose level in Phase 1a study, the maximum dose level of ZN-A-1041 in Phase 1a will be used in Phase 1b study.",
+          "interventionNames": [
+            "Drug: ZN-A-1041 + T-DM1 3.6 mg/kg iv. for Phase 1b"
+          ]
+        },
+        {
+          "label": "1b: ZN-A-1041 + T-Dxd 5.4 mg/kg iv.",
+          "type": "EXPERIMENTAL",
+          "description": "Phase 1b Arm2:\n\n1. If the MTD of ZN-A-1041 is identified in Phase 1a study: The 2 tentative dose levels of ZN-A-1041 are MTD-1 (Level 1) and MTD (Level 2).\n2. If the MTD is still not reached at the maximum dose level in Phase 1a study, the maximum dose level of ZN-A-1041 in Phase 1a will be used in Phase 1b study.",
+          "interventionNames": [
+            "Drug: ZN-A-1041 + T-Dxd 5.4 mg/kg iv. for Phase 1b"
+          ]
+        },
+        {
+          "label": "1b: ZN-A-1041 + PHESGO / Herceptin plus Perjeta",
+          "type": "EXPERIMENTAL",
+          "description": "Phase 1b Arm3:\n\n1. If the MTD of ZN-A-1041 is identified in Phase 1a study: The 2 tentative dose levels of ZN-A-1041 are MTD-1 (Level 1) and MTD (Level 2).\n2. If the MTD is still not reached at the maximum dose level in Phase 1a study, the maximum dose level of ZN-A-1041 in Phase 1a will be used in Phase 1b study.",
+          "interventionNames": [
+            "Drug: ZN-A-1041 + PHESGO / Herceptin plus Perjeta injection for Phase 1b"
+          ]
+        },
+        {
+          "label": "1c: ZN-A-1041 + T-DM1 3.6 mg/kg iv.",
+          "type": "EXPERIMENTAL",
+          "description": "Phase 1c Arm1:\n\nThe recommended dose combination for Phase 1c will be determined by the Investigator and the Sponsor based on the data from Phase 1b.",
+          "interventionNames": [
+            "Drug: ZN-A-1041 + T-DM1 3.6 mg/kg iv. for Phase 1c"
+          ]
+        },
+        {
+          "label": "1c: ZN-A-1041 + T-Dxd 5.4 mg/kg iv.",
+          "type": "EXPERIMENTAL",
+          "description": "Phase 1c Arm2:\n\nThe recommended dose combination for Phase 1c will be determined by the Investigator and the Sponsor based on the data from Phase 1b.",
+          "interventionNames": [
+            "Drug: ZN-A-1041 + T-Dxd 5.4 mg/kg iv. for Phase 1c"
+          ]
+        },
+        {
+          "label": "1c: ZN-A-1041 + Herceptin plus Perjeta/PHESGO",
+          "type": "EXPERIMENTAL",
+          "description": "Phase 1c Arm3:\n\nThe recommended dose combination for Phase 1c will be determined by the Investigator and the Sponsor based on the data from Phase 1b.",
+          "interventionNames": [
+            "Drug: ZN-A-1041 + PHESGO / Herceptin plus Perjeta injection for Phase 1c"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "ZN-A-1041",
+          "description": "ZN-A-1041: escalating doses orally BID at pre-defined dosing regimens to determine the MTD",
+          "armGroupLabels": [
+            "1a: ZN-A-1041"
+          ],
+          "otherNames": [
+            "ZN-A-1041 Enteric Capsules"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "ZN-A-1041 + T-DM1 3.6 mg/kg iv. for Phase 1b",
+          "description": "ZN-A-1041: BID via oral administration T-DM1: 3.6 mg/kg given as an intravenous infusion on the first day of each treatment cycle, once every 3 weeks (21-day cycle)",
+          "armGroupLabels": [
+            "1b: ZN-A-1041 + T-DM1 3.6 mg/kg iv."
+          ],
+          "otherNames": [
+            "ZN-A-1041 Enteric Capsules"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "ZN-A-1041 + T-Dxd 5.4 mg/kg iv. for Phase 1b",
+          "description": "ZN-A-1041: BID via oral administration T-DXd: 5.4 mg/kg given as an intravenous infusion on the first day of each treatment cycle, once every 3 weeks (21-day cycle)",
+          "armGroupLabels": [
+            "1b: ZN-A-1041 + T-Dxd 5.4 mg/kg iv."
+          ],
+          "otherNames": [
+            "ZN-A-1041 Enteric Capsules"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "ZN-A-1041 + PHESGO / Herceptin plus Perjeta injection for Phase 1b",
+          "description": "ZN-A-1041: BID via oral administration PHESGO dose is 600 mg pertuzumab/600 mg trastuzumab/2000 unites hyaluronidase every 3 weeks for subcutaneous administrations (21-day cycle) Perjeta is 420 mg administered as an intravenous infusion Herceptin is 6 mg/kg administered as an intravenous infusion",
+          "armGroupLabels": [
+            "1b: ZN-A-1041 + PHESGO / Herceptin plus Perjeta"
+          ],
+          "otherNames": [
+            "ZN-A-1041 Enteric Capsules"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "ZN-A-1041 + T-DM1 3.6 mg/kg iv. for Phase 1c",
+          "description": "ZN-A-1041: BID via oral administration T-DM1: intravenous infusion on the first day of each treatment cycle, once every 3 weeks (21-day cycle)",
+          "armGroupLabels": [
+            "1c: ZN-A-1041 + T-DM1 3.6 mg/kg iv."
+          ],
+          "otherNames": [
+            "ZN-A-1041 Enteric Capsules"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "ZN-A-1041 + T-Dxd 5.4 mg/kg iv. for Phase 1c",
+          "description": "ZN-A-1041: BID via oral administration T-DXd: intravenous infusion on the first day of each treatment cycle, once every 3 weeks (21-day cycle)",
+          "armGroupLabels": [
+            "1c: ZN-A-1041 + T-Dxd 5.4 mg/kg iv."
+          ],
+          "otherNames": [
+            "ZN-A-1041 Enteric Capsules"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "ZN-A-1041 + PHESGO / Herceptin plus Perjeta injection for Phase 1c",
+          "description": "ZN-A-1041: BID via oral administration PHESGO: every 3 weeks for subcutaneous administrations (21-day cycle) Perjeta: intravenous infusion Herceptin: intravenous infusion",
+          "armGroupLabels": [
+            "1c: ZN-A-1041 + Herceptin plus Perjeta/PHESGO"
+          ],
+          "otherNames": [
+            "ZN-A-1041 Enteric Capsules"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "The Incidence of Treatment-emergent Adverse Events of ZN-A-1041 as a Monotherapy in Phase 1a",
+          "description": "Dose at which no more than one out of six participant at the same dose level experiences a probable drug-related DLT.",
+          "timeFrame": "23 days"
+        },
+        {
+          "measure": "The Incidence of Treatment-emergent Adverse Events of ZN-A-1041 in Combination with T-DM1 or with T-DXd, or in Combination with PHESGO or Herceptin plus Perjeta",
+          "description": "Dose at which no more than one out of six participant at the same dose level experiences a probable drug-related DLT.",
+          "timeFrame": "21 days"
+        },
+        {
+          "measure": "RP2D",
+          "description": "To evaluate the safety of ZN-A-1041 in combination with T-DM1 or with T-DXd, or in combination with PHESGO or Herceptin plus Perjeta in participants on the RP2D.",
+          "timeFrame": "Through study completion, an average of 1 year"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Plasma, Urine and Potentially Cerebrospinal Fluid (CSF) Level of ZN-A-1041 and its Main Metabolites",
+          "description": "To assess the PK of ZN-A-1041 and its major metabolites.",
+          "timeFrame": "From baseline to cycle 9 (each cycel is 21 days)"
+        },
+        {
+          "measure": "Serum Level of Combination Drugs in Phase 1c",
+          "description": "To assess the serum concentration of combination drugs.",
+          "timeFrame": "Through study completion, an average of 2 year"
+        },
+        {
+          "measure": "Anti-drug Antibodies (ADAs) Evaluation in Phase 1c",
+          "description": "To assess the incidence of ADAs.",
+          "timeFrame": "Through study completion, an average of 2 year"
+        },
+        {
+          "measure": "Overall Response Rate (ORR)",
+          "description": "The preliminary efficacy of ZN-A-1041 as a monotherapy or combination in Phase 1a, Phase 1b and 1c.",
+          "timeFrame": "Through study completion, an average of 2 year"
+        },
+        {
+          "measure": "Progression Free Survival (PFS)",
+          "description": "The preliminary efficacy of ZN-A-1041 as a monotherapy or combination in Phase 1a, Phase 1b and 1c.",
+          "timeFrame": "Through study completion, an average of 2 year"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Eastern Cooperative Oncology Group (ECOG) performance status of 0 or 1\n* Life expectancy of at least 6 months, as determined by the investigator\n* Histologically or cytologically confirmed with unresectable or metastatic HER2-positive advanced solid tumors\n* Must be relapsed or refractory after prior treatment for metastatic disease that included a taxane and trastuzumab or must have received first-line induction therapy for advanced disease a pertuzumab plus trastuzumab-based regimen or a T-DXd-based regimen\n* Participants with new, untreated, progressive, or stable brain metastases are eligible\n\nExclusion Criteria:\n\n* Participation in any other clinical study involving an investigational drug or device within 4 weeks prior to the first dose of study treatment\n* Any intracranial lesion (brain metastasis) that requires immediate local therapy, such as surgery or radiation, or systemic corticosteroids at the time of enrollment",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Clinical Trials",
+          "affiliation": "Hoffmann-La Roche",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Arizona Clinical Research Center, Inc.;Hematology Oncology Physicians - Aoa",
+          "city": "Tucson",
+          "state": "Arizona",
+          "zip": "85712",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.22174,
+            "lon": -110.92648
+          }
+        },
+        {
+          "facility": "TOI Clinical Research",
+          "city": "Cerritos",
+          "state": "California",
+          "zip": "90703-2684",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.85835,
+            "lon": -118.06479
+          }
+        },
+        {
+          "facility": "UCSF Helen Diller Family CCC",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94158",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77493,
+            "lon": -122.41942
+          }
+        },
+        {
+          "facility": "Dana Farber Cancer Institute",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02215",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "University of Michigan Hospital",
+          "city": "Ann Arbor",
+          "state": "Michigan",
+          "zip": "48109",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.27756,
+            "lon": -83.74088
+          }
+        },
+        {
+          "facility": "Barbara Ann Karmanos Cancer Institute",
+          "city": "Detroit",
+          "state": "Michigan",
+          "zip": "48201",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.33143,
+            "lon": -83.04575
+          }
+        },
+        {
+          "facility": "Duke University School of Medicine",
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27710",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.99403,
+            "lon": -78.89862
+          }
+        },
+        {
+          "facility": "MD Anderson Cancer Center",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030-4000",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Geelong Hospital",
+          "city": "Geelong",
+          "state": "Victoria",
+          "zip": "3220",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -38.14711,
+            "lon": 144.36069
+          }
+        },
+        {
+          "facility": "Sunshine Hospital",
+          "city": "St Albans",
+          "state": "Victoria",
+          "zip": "3021",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -37.74496,
+            "lon": 144.80049
+          }
+        },
+        {
+          "facility": "EDOG - Institut Claudius Regaud - PPDS",
+          "city": "Toulouse",
+          "state": "Haute-Garonne",
+          "zip": "31059",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.60426,
+            "lon": 1.44367
+          }
+        },
+        {
+          "facility": "Centre Georges Francois Leclerc",
+          "city": "Dijon",
+          "zip": "21000",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.31344,
+            "lon": 5.01391
+          }
+        },
+        {
+          "facility": "Centre Oscar Lambret",
+          "city": "Lille",
+          "zip": "59020",
+          "country": "France",
+          "geoPoint": {
+            "lat": 50.63391,
+            "lon": 3.05512
+          }
+        },
+        {
+          "facility": "Centre Léon Bérard Centre Régional de Lutte Contre Le Cancer Rhône Alpes",
+          "city": "Lyon",
+          "zip": "69373",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.74906,
+            "lon": 4.84789
+          }
+        },
+        {
+          "facility": "Institut Paoli-Calmettes",
+          "city": "Marseille",
+          "zip": "13009",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.29695,
+            "lon": 5.38107
+          }
+        },
+        {
+          "facility": "Institut de Cancerologie de l Ouest",
+          "city": "Saint-Herblain",
+          "zip": "44805",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.21154,
+            "lon": -1.651
+          }
+        },
+        {
+          "facility": "Gustave Roussy",
+          "city": "Villejuif",
+          "zip": "94800",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.7939,
+            "lon": 2.35992
+          }
+        },
+        {
+          "facility": "Istituto Romagnolo per lo Studio dei Tumori Dino Amadori - IRST S.r.l - PPDS",
+          "city": "Parma",
+          "state": "Emilia-Romagna",
+          "zip": "43126",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.79935,
+            "lon": 10.32618
+          }
+        },
+        {
+          "facility": "Asst Papa Giovanni XXIII",
+          "city": "Bergamo",
+          "state": "Lombardy",
+          "zip": "24127",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.69601,
+            "lon": 9.66721
+          }
+        },
+        {
+          "facility": "Fondazione Policlinico Universitario A Gemelli-Rome",
+          "city": "Magnago",
+          "state": "Lombardy",
+          "zip": "20020",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.5792,
+            "lon": 8.80245
+          }
+        },
+        {
+          "facility": "Auckland City Hospital",
+          "city": "Auckland",
+          "zip": "1023",
+          "country": "New Zealand",
+          "geoPoint": {
+            "lat": -36.84853,
+            "lon": 174.76349
+          }
+        },
+        {
+          "facility": "Instituto de Investigacion Oncologica Vall dHebron (VHIO) - EPON",
+          "city": "Argentona",
+          "state": "Barcelona",
+          "zip": "08310",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.55336,
+            "lon": 2.40114
+          }
+        },
+        {
+          "facility": "Hospital Clinico Universitario de Santiago",
+          "city": "Santiago de Compostela",
+          "state": "LA Coruna",
+          "zip": "15706",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 42.88052,
+            "lon": -8.54569
+          }
+        },
+        {
+          "facility": "Hospital Universitario Ramon y Cajal",
+          "city": "A Gudiña",
+          "state": "Orense",
+          "zip": "32540",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 42.06103,
+            "lon": -7.13875
+          }
+        },
+        {
+          "facility": "Hospital Universitario Virgen del Rocio",
+          "city": "Las Cabezas de San Juan",
+          "state": "Sevilla",
+          "zip": "41730",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 36.9838,
+            "lon": -5.93933
+          }
+        },
+        {
+          "facility": "Instituto Oncologico Dr. Rosell-Hospital Universitari Dexeus-Grupo Quironsalud",
+          "city": "Barcelona",
+          "zip": "08028",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Clinic de Barcelona",
+          "city": "Barcelona",
+          "zip": "08036",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Universitario de Jaen",
+          "city": "Jaén",
+          "zip": "23007",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.76922,
+            "lon": -3.79028
+          }
+        },
+        {
+          "facility": "Hospital Beata Maria Ana",
+          "city": "Madrid",
+          "zip": "28007",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Clinico San Carlos",
+          "city": "Madrid",
+          "zip": "28040",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Universitario 12 de Octubre",
+          "city": "Madrid",
+          "zip": "28041",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Universitario Virgen Macarena",
+          "city": "Seville",
+          "zip": "41009",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.38283,
+            "lon": -5.97317
+          }
+        },
+        {
+          "facility": "Fundacion Instituto Valenciano de Oncologia (IVO)",
+          "city": "Valencia",
+          "zip": "46009",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Hospital Clinico Universitario de Valencia",
+          "city": "Valencia",
+          "zip": "46010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "The Christie",
+          "city": "Manchester",
+          "state": "Lancashire",
+          "zip": "M20 4BX",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.48095,
+            "lon": -2.23743
+          }
+        },
+        {
+          "facility": "Clatterbridge Cancer Centre",
+          "city": "Liverpool",
+          "state": "Merseyside",
+          "zip": "L69 3GL",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.41058,
+            "lon": -2.97794
+          }
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "YES",
+      "description": "For eligible studies, qualified researchers may request access to individual patient level clinical data. See Roche's commitment to transparency of clinical study information here: https://go.roche.com/data\\_sharing"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D001932",
+          "term": "Brain Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D016543",
+          "term": "Central Nervous System Neoplasms"
+        },
+        {
+          "id": "D009423",
+          "term": "Nervous System Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D001927",
+          "term": "Brain Diseases"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000080044",
+          "term": "Ado-Trastuzumab Emtansine"
+        },
+        {
+          "id": "D000068878",
+          "term": "Trastuzumab"
+        },
+        {
+          "id": "C485206",
+          "term": "pertuzumab"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D008453",
+          "term": "Maytansine"
+        },
+        {
+          "id": "D018942",
+          "term": "Macrolides"
+        },
+        {
+          "id": "D007783",
+          "term": "Lactones"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D047029",
+          "term": "Lactams, Macrocyclic"
+        },
+        {
+          "id": "D047028",
+          "term": "Macrocyclic Compounds"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D061067",
+          "term": "Antibodies, Monoclonal, Humanized"
+        },
+        {
+          "id": "D000911",
+          "term": "Antibodies, Monoclonal"
+        },
+        {
+          "id": "D000906",
+          "term": "Antibodies"
+        },
+        {
+          "id": "D007136",
+          "term": "Immunoglobulins"
+        },
+        {
+          "id": "D007162",
+          "term": "Immunoproteins"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D012712",
+          "term": "Serum Globulins"
+        },
+        {
+          "id": "D005916",
+          "term": "Globulins"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

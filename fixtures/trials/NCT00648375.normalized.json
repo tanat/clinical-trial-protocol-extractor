@@ -1,0 +1,67 @@
+{
+  "phase": "PHASE_4",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Change in Severity of PTSD Symptoms Measured by Clinician Administered PTSD Scale for DSM-IV (CAPS-DX)",
+      "timeFrame": "Measured at Week 0, 2,4,6,8,10,12,14",
+      "description": "Scores range from 0-70, higher scores represent more severe symptoms"
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "DSM-IV diagnosis of PTSD or meets the five of the six diagnostic criteria for PTSD (event, hyperarousal, re-experiencing, duration, and distress/impaired functioning symptom criteria), but not the avoidance/numbing symptom criteria",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Past or current asthma",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Diabetes or heart disease",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Currently pregnant or breastfeeding",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Concurrent use of daily benzodiazepine; daily use of antidepressant medication allowed if dose has been stable for the 3 months before study entry",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Exposure therapy or additional cognitive therapy during the course of the study (supportive psychotherapy is allowed if ongoing for at least 3 months before study entry)",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Substance abuse",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Current use of beta blockers, amiodarone, chlorpromazine, cimetidine, clonidine, or digoxin",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "Propanolol"
+    },
+    {
+      "type": "DRUG",
+      "name": "Placebo"
+    },
+    {
+      "type": "BEHAVIORAL",
+      "name": "Cognitive therapy workbook"
+    }
+  ]
+}

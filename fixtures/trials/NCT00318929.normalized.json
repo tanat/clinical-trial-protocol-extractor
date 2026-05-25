@@ -1,0 +1,114 @@
+{
+  "phase": "NA",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Effectiveness of Medication as Measured by Participation Through the End of the Trial.",
+      "timeFrame": "24 weeks",
+      "description": "Number of participants completing the trial"
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "Is > 60 years of age (male or female)",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Has a confirmed diagnosis of epilepsy with partial seizures",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Has one of the following",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "1. newly diagnosed partial seizures 2. has inadequately controlled partial seizures, i.e. continues to have seizure activity while on his/her medication regimen 3. is taking Depakote twice a day for partial seizures but is having side effects or problems with adherence and may benefit from once a day dosing",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Is able and willing to maintain an accurate, complete, written daily seizure diary",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Is able and willing to complete the QOLIE, the Beck Depression Inventory, and the SSQ",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Is able to given written informed consent",
+      "category": "PROCEDURAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Is compliant with clinic visits",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "INCLUSION",
+      "description": "Is able to swallow Depakote-ER",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Has had status epilepticus in the 24 weeks prior to the Baseline Phase of the Study",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Is taking three or more AEDs chronically",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Is currently abusing alcohol and/or any other substance",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Has taken an investigational drug within the previous 30 days or plans to take an investigational drug anytime during the study",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Is receiving any medication that could influence seizure control",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Is currently following the ketogenic diet",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Is planning surgery or the insertion of the vagal nerve stimulator for seizure control during the course of the study.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Is suffering from acute or progressive neurologic disease, severe psychiatric disease, or severe mental abnormality that are likely to interfere with the objectives of the study",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Has any clinically significant cardiac, renal, hepatic condition, or a condition that affects the absorption, distribution, metabolism or excretion of drugs.",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "Baseline elevations of LFTs more than 3 times normal, clinically elevated amylase, and clinically significant thrombocytopenia",
+      "category": "MEDICAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "Divalproex Sodium Extended-Release Tablets"
+    }
+  ]
+}

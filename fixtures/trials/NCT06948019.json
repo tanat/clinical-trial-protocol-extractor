@@ -1,0 +1,370 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT06948019",
+      "orgStudyIdInfo": {
+        "id": "BCH-CT-SPG47"
+      },
+      "organization": {
+        "fullName": "BlackfinBio Ltd",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Safety and Efficacy of AAV9/AP4B1 (BFB-101) For Patients With AP4B1-related Hereditary Spastic Paraplegia Type 47 (SPG47)",
+      "officialTitle": "Safety and Efficacy of AAV9/AP4B1 For Patients With AP4B1-related Hereditary Spastic Paraplegia Type 47 (SPG47): A Phase 1/2 Single-Center, Open-Label Study of Stereotactic Intra-cisterna Magna Administration"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2025-04",
+      "overallStatus": "NOT_YET_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2025-08",
+        "type": "ESTIMATED"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2030-08",
+        "type": "ESTIMATED"
+      },
+      "completionDateStruct": {
+        "date": "2032-08",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2025-04-22",
+      "studyFirstSubmitQcDate": "2025-04-22",
+      "studyFirstPostDateStruct": {
+        "date": "2025-04-28",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2025-04-22",
+      "lastUpdatePostDateStruct": {
+        "date": "2025-04-28",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "BlackfinBio Ltd",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "Boston Children's Hospital",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "Safety and Efficacy of AAV9/AP4B1 For Patients with AP4B1-related Hereditary Spastic Paraplegia Type 47 (SPG47): A Phase 1/2 Single-Center, Open-Label Study of Stereotactic Intra-cisterna Magna Administration.\n\nThe goal of this clinical trial is to evaluate whether a gene therapy can safely treat children with SPG47, a rare genetic condition that causes progressive spasticity and developmental delays. The main questions it aims to answer are:\n\n* Is the gene therapy safe and well tolerated?\n* Does the gene therapy improve motor function and developmental outcomes?\n\nParticipants will:\n\n* Undergo screening assessments to confirm eligibility\n* Receive a single dose of the gene therapy vector\n* Attend follow-up visits for safety monitoring and developmental assessments over the course of five years",
+      "detailedDescription": "Spastic paraplegia type 47 (SPG47) is a rare, autosomal recessive, neurogenetic disorder caused by biallelic pathogenic variants in the AP4B1 gene, one of four genes that encode subunits of the adaptor protein complex 4 (AP-4). Together with SPG50, SPG51, and SPG52, SPG47 belongs to the group of AP-4-associated hereditary spastic paraplegias (AP-4-HSP). These disorders are characterized by early-onset global developmental delay, progressive lower limb spasticity, intellectual disability, microcephaly, epilepsy, and motor impairment. The clinical trajectory is typically severe and progressive, with most children ultimately requiring full support for mobility, communication, and daily living activities. There are currently no approved disease-modifying therapies for SPG47.\n\nAdaptor protein complexes such as AP-4 are key regulators of vesicle-mediated protein trafficking. While the precise role of AP-4 is not fully understood, research suggests it is involved in the sorting and transport of cargo proteins through the Golgi and plays a critical role in autophagy and neuronal maintenance. Loss of function in any AP-4 subunit results in shared disruption of intracellular trafficking pathways and a common neurological phenotype.\n\nThis first-in-human, Phase 1/2 open-label clinical trial is designed to evaluate the safety, tolerability, and preliminary efficacy of BFB-101, a gene therapy candidate consisting of an adeno-associated virus serotype 9 (AAV9) vector encoding a codon-optimized full-length human AP4B1 cDNA under control of a ubiquitous promoter. The therapy is delivered as a single dose by intra-cisterna magna injection to target cells in the central nervous system.\n\nThe primary objective of this trial is to assess the safety and tolerability of a single dose of BFB-101. This will be evaluated by monitoring for dose-limiting toxicities, treatment-emergent adverse events (TEAEs), and serious adverse events (SAEs) over a long-term follow-up period of 5 years.\n\nSecondary objectives include assessing preliminary efficacy across several domains:\n\n* Change from baseline in functional motor and developmental assessments (e.g., GMFM-88, Bayley Scales)\n* Evaluation of global clinical impression and caregiver-reported outcomes\n* Biomarkers of disease activity and target engagement (as available)\n* Time to progression or stabilization of motor milestones\n* Neuroimaging and electrophysiologic changes over time"
+    },
+    "conditionsModule": {
+      "conditions": [
+        "HSP",
+        "Hereditary Spastic Paraplegia",
+        "Hereditary Spastic Paraparesis",
+        "Hereditary Spastic Paraplegia Type 50",
+        "Hereditary Spastic Paraplegia Type 47",
+        "Hereditary Spastic Paraplegia Type 51",
+        "Hereditary Spastic Paraplegia Type 52",
+        "SPG47",
+        "AP4B1",
+        "Neurogenetic Disorders",
+        "Neurodevelopmental Conditions",
+        "Movement Disorders",
+        "Gene Therapy"
+      ],
+      "keywords": [
+        "HSP",
+        "Hereditary Spastic Paraplegia",
+        "Hereditary Spastic Paraplegia Type 50",
+        "Hereditary Spastic Paraplegia Type 47",
+        "Hereditary Spastic Paraplegia Type 51",
+        "Hereditary Spastic Paraplegia Type 52",
+        "Hereditary Spastic Paraparesis",
+        "Spasticity",
+        "Gene Therapy",
+        "AAV9",
+        "SPG47",
+        "AP4B1",
+        "AP4M1",
+        "AP4E1",
+        "AP4S1",
+        "movement disorders",
+        "neurogenetic conditions",
+        "neurodevelopmental conditions"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NON_RANDOMIZED",
+        "interventionModel": "SINGLE_GROUP",
+        "interventionModelDescription": "This is a single-center, Phase 1/2 open-label study to assess the safety and efficacy of a single stereotactic intra-cisterna magna administration of AAV9/AP4B1 in individuals with AP4B1-associated Hereditary Spastic Paraplegia Type 47 (SPG47)",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 5,
+        "type": "ESTIMATED"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treatment Arm",
+          "type": "EXPERIMENTAL",
+          "description": "BFB-101, a gene therapy product",
+          "interventionNames": [
+            "Biological: BFB-101 (AAV9-CBh-AP4B1)"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "BIOLOGICAL",
+          "name": "BFB-101 (AAV9-CBh-AP4B1)",
+          "description": "The AAV9-CBh-AP4B1 biological drug product is an aqueous suspension of a gene transfer vector intended for CSF injection. It consists of replication deficient adeno-associated virus (AAV) vector with the AAV serotype 9 capsid enclosing a single stranded DNA with an expression cassette of AP4B1 driven by CBh promoter.",
+          "armGroupLabels": [
+            "Treatment Arm"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Incidence of unanticipated treatment-related toxicities, Grade 3 or higher in participants with SPG47",
+          "description": "Incidence of unanticipated treatment-related toxicities, Grade 3 or higher, in participants with SPG47 will be determined from the collection of occurrence and severity of serious adverse events (SAEs). Adverse events will be determined according to Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0.",
+          "timeFrame": "60 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Score of predefined Major Motor Milestones derived from the Gross Motor Function Measure (GMFM-88)",
+          "description": "Change in score of the 8 Major Motor Milestones derived from the GMFM-88 from Baseline to Month 60. The Major Motor Milestone Score is the sum of 8 items derived from the full-scale GMFM- 88, scored using the conventional scoring key (0 = does not initiate; 1 = initiates or partially completes; 2 = completes) with the minimal possible score being 0 and the maximal possible score being 16.",
+          "timeFrame": "60 months"
+        },
+        {
+          "measure": "Developmental Milestones",
+          "description": "Bayley Scale of Infant and Toddler Development Fourth Edition",
+          "timeFrame": "60 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Male and females between the ages of 12 months - 5 years at the time of treatment\n2. A molecularly confirmed diagnosis of SPG47 (confirmed by a CLIA certified, CE-marked, or equivalent lab): Genomic DNA mutation analysis demonstrating bi-allelic pathogenic variants in the AP4B1 gene.\n3. Proband must have features of neurologic dysfunction by clinical history and physical examination.\n4. Stable doses of concomitant medications such as anti-spasticity medications, anti-epileptic medications, behavioral management medications, sleep medications, and special diets, supplements or nutritional support for at least 3 months prior to Screening. If recent changes (\\< 3 months) in medications, the participant may be allowed per Investigator judgement.\n5. Proband must be fully vaccinated per Centers for Disease Control recommendations for childhood vaccinations.\n6. Two competent custodial parents/guardians with legal capacity (legally acceptable representatives) to execute an Institutional Review Board/Independent Ethics Committee (IRB/IEC) approved consent for medical research must be able to participate in the consent process. If only one parent has sole custody to consent for medical research, then that parent must be able to actively participate in the consent process.\n7. Legally acceptable representatives must be able to attend all scheduled study visits and provide feedback regarding the participant's symptoms and performance as described in the protocol.\n8. Legally acceptable representatives agree not to post any of the participant's personal medical data or information related to the study on any website or social media site (e.g., Facebook, Instagram, Twitter, YouTube, etc.) until notified that the study is completed.\n9. Proband and the proband's family must demonstrate ability to travel to the study center. For the first 30 days post treatment probands will need to stay within a 100-mile radius from the treatment center.\n\nExclusion Criteria:\n\n1. Inability to participate in the clinical evaluation as determined by the principal investigator.\n2. Clinically significant abnormal laboratory values (hemoglobin \\< 8 or \\> 20 g/dL; white blood cell \\> 20,000 per cmm, platelets count \\< 100,000 per cmm; international normalized ratio \\[INR\\] \\> upper limit of normal \\[ULN\\]; gamma-glutamyl transferase \\[GGT\\], alanine aminotransferase \\[ALT\\], and aspartate aminotransferase \\[AST\\] or total bilirubin \\> 1.5 × ULN, creatinine\n\n   ≥ 1.5 mg/dL) prior to gene replacement therapy.\n3. Presence of a concomitant medical condition that precludes a cisterna magna or lumbar puncture or use of anesthetics for sedated procedures.\n4. Bleeding disorder or any other medical condition or circumstance in which a cisterna magna or lumbar puncture is contraindicated according to local institutional policy.\n5. Documented cardiomyopathy or significant congenital heart abnormalities.\n6. Inability to be safely sedated in the opinion of the clinical anesthesiologist.\n7. History of severe/life-threatening allergic reaction to sirolimus, tacrolimus, corticosteroids, or gadolinium.\n8. Any known history and/or family history of hemophagocytic lymphohistiocytosis (HLH) or multisystem inflammatory syndrome (MIS)\n9. Concomitant illness or requirement for chronic drug treatment that in the opinion of the investigator creates unnecessary risks for gene transfer.\n10. Concomitant chronic drug treatment that would cause clinically significant interactions with immunosuppressive agents used in the study.\n11. Any item which would exclude the participant from being able to undergo magnetic resonance imaging (MRI) according to local institutional policy.\n12. Any other situation that would exclude the participant from undergoing any other procedure required in this study.\n13. Visual or hearing impairment sufficient to preclude cooperation with neurodevelopmental testing.\n14. The presence of significant non-SPG47 related central nervous system (CNS) impairment or behavioral disturbances that would confound the scientific rigor or interpretation of results of the study.\n15. Recent or planned elective surgical procedures that would confound the scientific rigor or interpretation of results of the study, as determined by the Investigator/study team.\n16. Failure to obtain appropriate informed consent.\n17. Reason to believe that the participant or parents/guardians of the participant will not comply with the study procedures outlined in the study protocol.\n18. Receiving a live vaccine within 30 days prior to gene transfer.\n19. Receiving an investigational drug within 30 days prior to screening or plan to receive an investigational drug (other than gene therapy) during the study.\n20. Enrollment and participation in another interventional clinical trial.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "12 Months",
+      "maximumAge": "60 Months",
+      "stdAges": [
+        "CHILD"
+      ]
+    },
+    "contactsLocationsModule": {
+      "centralContacts": [
+        {
+          "name": "Darius Ebrahimi-Fakhari, MD, PhD",
+          "role": "CONTACT",
+          "phone": "617-355-0097",
+          "email": "hsp.research@childrens.harvard.edu"
+        },
+        {
+          "name": "Josh Rong, BS",
+          "role": "CONTACT",
+          "phone": "617-355-0903",
+          "email": "hsp.research@childrens.harvard.edu"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Boston Children's Hospital",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02115",
+          "country": "United States",
+          "contacts": [
+            {
+              "name": "Darius Ebrahimi-Fakhari, MD, PhD",
+              "role": "CONTACT",
+              "phone": "617-355-0097",
+              "email": "hsp.research@childrens.harvard.edu"
+            },
+            {
+              "name": "Josh Rong, BS",
+              "role": "CONTACT",
+              "phone": "617-355-0903",
+              "email": "hsp.research@childrens.harvard.edu"
+            },
+            {
+              "name": "Darius Ebrahimi-Fakhari, MD, PhD",
+              "role": "PRINCIPAL_INVESTIGATOR"
+            }
+          ],
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "32979048",
+          "type": "BACKGROUND",
+          "citation": "Ebrahimi-Fakhari D, Teinert J, Behne R, Wimmer M, D'Amore A, Eberhardt K, Brechmann B, Ziegler M, Jensen DM, Nagabhyrava P, Geisel G, Carmody E, Shamshad U, Dies KA, Yuskaitis CJ, Salussolia CL, Ebrahimi-Fakhari D, Pearson TS, Saffari A, Ziegler A, Kolker S, Volkmann J, Wiesener A, Bearden DR, Lakhani S, Segal D, Udwadia-Hegde A, Martinuzzi A, Hirst J, Perlman S, Takiyama Y, Xiromerisiou G, Vill K, Walker WO, Shukla A, Dubey Gupta R, Dahl N, Aksoy A, Verhelst H, Delgado MR, Kremlikova Pourova R, Sadek AA, Elkhateeb NM, Blumkin L, Brea-Fernandez AJ, Dacruz-Alvarez D, Smol T, Ghoumid J, Miguel D, Heine C, Schlump JU, Langen H, Baets J, Bulk S, Darvish H, Bakhtiari S, Kruer MC, Lim-Melia E, Aydinli N, Alanay Y, El-Rashidy O, Nampoothiri S, Patel C, Beetz C, Bauer P, Yoon G, Guillot M, Miller SP, Bourinaris T, Houlden H, Robelin L, Anheim M, Alamri AS, Mahmoud AAH, Inaloo S, Habibzadeh P, Faghihi MA, Jansen AC, Brock S, Roubertie A, Darras BT, Agrawal PB, Santorelli FM, Gleeson J, Zaki MS, Sheikh SI, Bennett JT, Sahin M. Defining the clinical, molecular and imaging spectrum of adaptor protein complex 4-associated hereditary spastic paraplegia. Brain. 2020 Oct 1;143(10):2929-2944. doi: 10.1093/brain/awz307."
+        },
+        {
+          "pmid": "34295967",
+          "type": "BACKGROUND",
+          "citation": "Jordan C, Geisel G, Alecu JE, Zhang B, Sahin M, Ebrahimi-Fakhari D. Disease Severity and Motor Impairment Correlate With Health-Related Quality of Life in AP-4-Associated Hereditary Spastic Paraplegia. Neurol Genet. 2021 Jul 20;7(4):e605. doi: 10.1212/NXG.0000000000000605. eCollection 2021 Aug."
+        },
+        {
+          "pmid": "39358605",
+          "type": "BACKGROUND",
+          "citation": "Wiseman JP, Scarrott JM, Alves-Cruzeiro J, Saffari A, Boger C, Karyka E, Dawes E, Davies AK, Marchi PM, Graves E, Fernandes F, Yang ZL, Coldicott I, Hirst J, Webster CP, Highley JR, Hackett N, Angyal A, Silva T, Higginbottom A, Shaw PJ, Ferraiuolo L, Ebrahimi-Fakhari D, Azzouz M. Pre-clinical development of AP4B1 gene replacement therapy for hereditary spastic paraplegia type 47. EMBO Mol Med. 2024 Nov;16(11):2882-2917. doi: 10.1038/s44321-024-00148-5. Epub 2024 Oct 2."
+        },
+        {
+          "pmid": "30543385",
+          "type": "BACKGROUND",
+          "citation": "Alecu J, Schierbaum L, Ebrahimi-Fakhari D. AP-4-Associated Hereditary Spastic Paraplegia. 2018 Dec 13 [updated 2025 Feb 6]. In: Adam MP, Bick S, Mirzaa GM, Pagon RA, Wallace SE, Amemiya A, editors. GeneReviews(R) [Internet]. Seattle (WA): University of Washington, Seattle; 1993-2026. Available from http://www.ncbi.nlm.nih.gov/books/NBK535153/"
+        },
+        {
+          "pmid": "39996129",
+          "type": "BACKGROUND",
+          "citation": "Schierbaum L, Quiroz V, Yang K, Rong J, Battaglia N, Zubair U, Christie M, Davis M, Calame D, Danzi MC, Finkel RS, Burns J, Gilbert DL, Mingbunjerdsuk D, Pruitt G, Pruitt N, Cobb J, Sadjadi R, Cashman CR, Blackstone C, Fink JK, Shy ME, Zuchner S, Ebrahimi-Fakhari D. The Spastic Paraplegia-Centers of Excellence Research Network (SP-CERN): Clinical Trial Readiness for Hereditary Spastic Paraplegia. Neurol Genet. 2025 Feb 21;11(2):e200249. doi: 10.1212/NXG.0000000000200249. eCollection 2025 Apr."
+        },
+        {
+          "pmid": "41491634",
+          "type": "DERIVED",
+          "citation": "Agianda HAP, Kim HM, Battaglia N, Rong J, Tam A, Gonzalez Saez-Diez E, Boerkoel CF, Saffari A, Quiroz V, Schierbaum L, Zaman Z, Bernardi K, Ebrahimi-Fakhari D. Diagnostic Utility of the ATG9A Ratio in AP-4-Associated Hereditary Spastic Paraplegia. Ann Clin Transl Neurol. 2026 Apr;13(4):834-839. doi: 10.1002/acn3.70308. Epub 2026 Jan 5."
+        }
+      ],
+      "seeAlsoLinks": [
+        {
+          "label": "Blackfin Bio",
+          "url": "https://blackfin.bio/"
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "UNDECIDED"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-05-08"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015419",
+          "term": "Spastic Paraplegia, Hereditary"
+        },
+        {
+          "id": "D009069",
+          "term": "Movement Disorders"
+        },
+        {
+          "id": "D009128",
+          "term": "Muscle Spasticity"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D015417",
+          "term": "Hereditary Sensory and Motor Neuropathy"
+        },
+        {
+          "id": "D009421",
+          "term": "Nervous System Malformations"
+        },
+        {
+          "id": "D009422",
+          "term": "Nervous System Diseases"
+        },
+        {
+          "id": "D020271",
+          "term": "Heredodegenerative Disorders, Nervous System"
+        },
+        {
+          "id": "D019636",
+          "term": "Neurodegenerative Diseases"
+        },
+        {
+          "id": "D011115",
+          "term": "Polyneuropathies"
+        },
+        {
+          "id": "D010523",
+          "term": "Peripheral Nervous System Diseases"
+        },
+        {
+          "id": "D009468",
+          "term": "Neuromuscular Diseases"
+        },
+        {
+          "id": "D000013",
+          "term": "Congenital Abnormalities"
+        },
+        {
+          "id": "D009358",
+          "term": "Congenital, Hereditary, and Neonatal Diseases and Abnormalities"
+        },
+        {
+          "id": "D030342",
+          "term": "Genetic Diseases, Inborn"
+        },
+        {
+          "id": "D002493",
+          "term": "Central Nervous System Diseases"
+        },
+        {
+          "id": "D009135",
+          "term": "Muscular Diseases"
+        },
+        {
+          "id": "D009140",
+          "term": "Musculoskeletal Diseases"
+        },
+        {
+          "id": "D009122",
+          "term": "Muscle Hypertonia"
+        },
+        {
+          "id": "D020879",
+          "term": "Neuromuscular Manifestations"
+        },
+        {
+          "id": "D009461",
+          "term": "Neurologic Manifestations"
+        },
+        {
+          "id": "D012816",
+          "term": "Signs and Symptoms"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

@@ -1,0 +1,34 @@
+{
+  "phase": "PHASE_1_2",
+  "studyType": "INTERVENTIONAL",
+  "primaryOutcomes": [
+    {
+      "measure": "Incidence of unanticipated treatment-related toxicities, Grade 3 or higher in participants with SPG47",
+      "timeFrame": "60 months",
+      "description": "Incidence of unanticipated treatment-related toxicities, Grade 3 or higher, in participants with SPG47 will be determined from the collection of occurrence and severity of serious adverse events (SAEs). Adverse events will be determined according to Common Terminology Criteria for Adverse Events (CTCAE) Version 5.0."
+    }
+  ],
+  "eligibilityCriteria": [
+    {
+      "type": "INCLUSION",
+      "description": "1. Male and females between the ages of 12 months - 5 years at the time of treatment 2. A molecularly confirmed diagnosis of SPG47 (confirmed by a CLIA certified, CE-marked, or equivalent lab): Genomic DNA mutation analysis demonstrating bi-allelic pathogenic variants in the AP4B1 gene. 3. Proband must have features of neurologic dysfunction by clinical history and physical examination. 4. Stable doses of concomitant medications such as anti-spasticity medications, anti-epileptic medications, behavioral management medications, sleep medications, and special diets, supplements or nutritional support for at least 3 months prior to Screening. If recent changes (< 3 months) in medications, the participant may be allowed per Investigator judgement. 5. Proband must be fully vaccinated per Centers for Disease Control recommendations for childhood vaccinations. 6. Two competent custodial parents/guardians with legal capacity (legally acceptable representatives) to execute an Institutional Review Board/Independent Ethics Committee (IRB/IEC) approved consent for medical research must be able to participate in the consent process. If only one parent has sole custody to consent for medical research, then that parent must be able to actively participate in the consent process. 7. Legally acceptable representatives must be able to attend all scheduled study visits and provide feedback regarding the participant's symptoms and performance as described in the protocol. 8. Legally acceptable representatives agree not to post any of the participant's personal medical data or information related to the study on any website or social media site (e.g., Facebook, Instagram, Twitter, YouTube, etc.) until notified that the study is completed. 9. Proband and the proband's family must demonstrate ability to travel to the study center. For the first 30 days post treatment probands will need to stay within a 100-mile radius from the treatment center.",
+      "category": "DEMOGRAPHIC"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "1. Inability to participate in the clinical evaluation as determined by the principal investigator. 2. Clinically significant abnormal laboratory values (hemoglobin < 8 or > 20 g/dL; white blood cell > 20,000 per cmm, platelets count < 100,000 per cmm; international normalized ratio \\[INR\\] > upper limit of normal \\[ULN\\]; gamma-glutamyl transferase \\[GGT\\], alanine aminotransferase \\[ALT\\], and aspartate aminotransferase \\[AST\\] or total bilirubin > 1.5 × ULN, creatinine",
+      "category": "MEDICAL"
+    },
+    {
+      "type": "EXCLUSION",
+      "description": "≥ 1.5 mg/dL) prior to gene replacement therapy. 3. Presence of a concomitant medical condition that precludes a cisterna magna or lumbar puncture or use of anesthetics for sedated procedures. 4. Bleeding disorder or any other medical condition or circumstance in which a cisterna magna or lumbar puncture is contraindicated according to local institutional policy. 5. Documented cardiomyopathy or significant congenital heart abnormalities. 6. Inability to be safely sedated in the opinion of the clinical anesthesiologist. 7. History of severe/life-threatening allergic reaction to sirolimus, tacrolimus, corticosteroids, or gadolinium. 8. Any known history and/or family history of hemophagocytic lymphohistiocytosis (HLH) or multisystem inflammatory syndrome (MIS) 9. Concomitant illness or requirement for chronic drug treatment that in the opinion of the investigator creates unnecessary risks for gene transfer. 10. Concomitant chronic drug treatment that would cause clinically significant interactions with immunosuppressive agents used in the study. 11. Any item which would exclude the participant from being able to undergo magnetic resonance imaging (MRI) according to local institutional policy. 12. Any other situation that would exclude the participant from undergoing any other procedure required in this study. 13. Visual or hearing impairment sufficient to preclude cooperation with neurodevelopmental testing. 14. The presence of significant non-SPG47 related central nervous system (CNS) impairment or behavioral disturbances that would confound the scientific rigor or interpretation of results of the study. 15. Recent or planned elective surgical procedures that would confound the scientific rigor or interpretation of results of the study, as determined by the Investigator/study team. 16. Failure to obtain appropriate informed consent. 17. Reason to believe that the participant or parents/guardians of the participant will not comply with the study procedures outlined in the study protocol. 18. Receiving a live vaccine within 30 days prior to gene transfer. 19. Receiving an investigational drug within 30 days prior to screening or plan to receive an investigational drug (other than gene therapy) during the study. 20. Enrollment and participation in another interventional clinical trial.",
+      "category": "PROCEDURAL"
+    }
+  ],
+  "interventions": [
+    {
+      "type": "DRUG",
+      "name": "BFB-101 (AAV9-CBh-AP4B1)"
+    }
+  ]
+}
