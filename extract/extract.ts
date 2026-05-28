@@ -1,5 +1,4 @@
 import { generateText, Output, NoObjectGeneratedError, gateway } from 'ai';
-import { google } from '@ai-sdk/google';
 import type { LanguageModel } from 'ai';
 import { z } from 'zod';
 
@@ -19,7 +18,7 @@ export const MODEL_IDS: Record<ModelChoice, string> = {
 
 function model(choice: ModelChoice): LanguageModel {
   if (choice === 'gpt-mini') return gateway(`openai/${MODEL_IDS['gpt-mini']}`);
-  if (choice === 'gemini') return google(MODEL_IDS.gemini);
+  if (choice === 'gemini') return gateway(`google/${MODEL_IDS.gemini}`);
   return gateway(`anthropic/${MODEL_IDS.sonnet}`);
 }
 
