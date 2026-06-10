@@ -2,7 +2,7 @@
 
 > Extract typed protocol fields from ClinicalTrials.gov free-text descriptions, score the result against the same trial's structured ground truth, and keep the regression timeline in git.
 
-A reference implementation of structured extraction + eval methodology built on the Vercel AI SDK. All Anthropic/OpenAI traffic flows through Vercel AI Gateway (one `AI_GATEWAY_API_KEY`, no per-provider keys); Google stays direct on the free tier. Every meaningful prompt or schema change re-runs the eval harness and **appends** an entry to `evals/results.json`, so the regression history lives in `git diff` rather than a dashboard.
+A reference implementation of structured extraction + eval methodology built on the Vercel AI SDK. All model traffic — Anthropic, OpenAI, and Google/Gemini — flows through Vercel AI Gateway (one `AI_GATEWAY_API_KEY`, no per-provider keys). Every meaningful prompt or schema change re-runs the eval harness and **appends** an entry to `evals/results.json`, so the regression history lives in `git diff` rather than a dashboard.
 
 ---
 
@@ -40,8 +40,7 @@ The ground truth isn't synthetic, isn't model-generated, isn't hand-labeled. It'
 ```bash
 pnpm install
 cp .env.local.example .env.local
-# Fill in AI_GATEWAY_API_KEY (required — routes Anthropic + OpenAI traffic via Vercel AI Gateway)
-# Optional: GOOGLE_GENERATIVE_AI_API_KEY for the gemini-2.5-flash comparison model (Google AI Studio free tier)
+# Fill in AI_GATEWAY_API_KEY (required — the single key routes all traffic, incl. Gemini, via Vercel AI Gateway)
 
 pnpm dev                # http://localhost:3000
 
@@ -104,12 +103,12 @@ Detailed write-up in [ARCHITECTURE.md](./ARCHITECTURE.md).
 | Framework | Next.js 16 App Router, React 19, Server Components |
 | Language | TypeScript strict |
 | Styling | Tailwind CSS + shadcn/ui (defaults, no custom design) |
-| AI SDK | Vercel AI SDK (`ai@^6` — provides `gateway`, `Output.object`, `generateText`, `streamText`), `@ai-sdk/google`, `@ai-sdk/react`. Anthropic and OpenAI providers are reached through `gateway('anthropic/...')` / `gateway('openai/...')` |
+| AI SDK | Vercel AI SDK (`ai@^6` — provides `gateway`, `Output.object`, `generateText`, `streamText`), `@ai-sdk/react`. All providers — Anthropic, OpenAI, and Google/Gemini — are reached through `gateway('anthropic/...')` / `gateway('openai/...')` / `gateway('google/...')` |
 | Schema validation | Zod 4 |
 | Primary model | Claude Sonnet 4.6 (`gateway('anthropic/claude-sonnet-4-6')`) |
 | Segmenter | `gateway('openai/gpt-4o-mini')` |
 | Judge model | Claude Haiku 4.5 (`gateway('anthropic/claude-haiku-4-5-20251001')`) |
-| Comparison model | `google('gemini-2.5-flash')` — direct via `@ai-sdk/google` (Google AI Studio free tier) |
+| Comparison model | Gemini 2.5 Flash (`gateway('google/gemini-2.5-flash')`) — also routes through the gateway on the single `AI_GATEWAY_API_KEY` |
 | Embeddings | OpenAI `text-embedding-3-small` |
 | Observability | better-sqlite3 (one row per LLM call) |
 | Fixtures | JSON files committed in repo |
@@ -247,7 +246,6 @@ clinical-trial-protocol-extractor/
 gh repo create clinical-trial-protocol-extractor --public --source=. --push
 vercel link
 vercel env add AI_GATEWAY_API_KEY
-vercel env add GOOGLE_GENERATIVE_AI_API_KEY  # optional — only if you want the Gemini comparison
 vercel --prod
 ```
 

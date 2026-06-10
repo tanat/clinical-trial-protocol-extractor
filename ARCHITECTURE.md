@@ -11,17 +11,17 @@
 | Framework | Next.js App Router | Next 16, React 19, Server Components |
 | Language | TypeScript strict | `"strict": true` mandatory |
 | Styling | Tailwind CSS + shadcn/ui | No custom designs |
-| AI SDK | Vercel AI SDK | `ai@^6` (provides `gateway`, `Output.object`, `generateText`, `streamText`), `@ai-sdk/google@^3`, `@ai-sdk/react@^3`. Anthropic and OpenAI providers are routed through `gateway()` |
+| AI SDK | Vercel AI SDK | `ai@^6` (provides `gateway`, `Output.object`, `generateText`, `streamText`), `@ai-sdk/react@^3`. All providers — Anthropic, OpenAI, and Google/Gemini — are routed through `gateway()` |
 | Schema validation | Zod 4 | discriminated unions, `.refine()` for cross-field invariants |
 | Primary model | Claude Sonnet 4.6 | `gateway('anthropic/claude-sonnet-4-6')` |
 | Segmenter | OpenAI `gpt-4o-mini` | `gateway('openai/gpt-4o-mini')` — cheap coarse routing for cascade mode |
 | Judge model | Claude Haiku 4.5 | `gateway('anthropic/claude-haiku-4-5-20251001')` — LLM-as-judge scorer |
-| Comparison model | Gemini 2.5 Flash | `google('gemini-2.5-flash')` — direct via `@ai-sdk/google`, Google AI Studio free tier |
+| Comparison model | Gemini 2.5 Flash | `gateway('google/gemini-2.5-flash')` — also routes through the gateway on the single `AI_GATEWAY_API_KEY` |
 | Embeddings | OpenAI `text-embedding-3-small` | semantic search index |
 | VCR cache | `lib/vcr.ts` | hash-keyed on-disk replay for eval reruns, gated by `EVAL_VCR=1` |
 | Observability log | better-sqlite3 | one row per LLM call |
 | Fixtures storage | JSON files | committed in `fixtures/trials/` |
-| Deploy | Vercel free tier | env: `AI_GATEWAY_API_KEY` (required), `GOOGLE_GENERATIVE_AI_API_KEY` (optional) |
+| Deploy | Vercel free tier | env: `AI_GATEWAY_API_KEY` (required — single key covers all providers) |
 
 **Intentionally not used:** PostgreSQL, Redis, S3, queues, any test framework beyond `vitest` for scorer tests, any authentication.
 
@@ -414,31 +414,24 @@ Logging is wrapped in `try/catch` inside `extract/log.ts` — a failure to inser
 
 ---
 
-## Provider routing — `gateway()` + direct Google
+## Provider routing — `gateway()` for every provider
 
-All Anthropic and OpenAI traffic is routed through Vercel AI Gateway:
+All model traffic — Anthropic, OpenAI, and Google/Gemini — is routed through Vercel AI Gateway:
 
 ```ts
 import { gateway } from 'ai';
 gateway('anthropic/claude-sonnet-4-6')
 gateway('openai/gpt-4o-mini')
 gateway('anthropic/claude-haiku-4-5-20251001')
+gateway('google/gemini-2.5-flash')
 ```
 
 Practical consequences:
 
-- One env var (`AI_GATEWAY_API_KEY`) instead of one per provider.
-- `gateway()` ships in `ai@^6`; no per-provider packages are needed for Anthropic or OpenAI.
+- One env var (`AI_GATEWAY_API_KEY`) instead of one per provider — the single key covers every provider, including Gemini.
+- `gateway()` ships in `ai@^6`; no per-provider packages are needed (no `@ai-sdk/google`, no direct `google('…')`).
 - Gateway adds per-request observability, model fallback, and a single billing surface; the key is required because this project doesn't fall back to direct provider SDKs.
-
-Google stays direct because the Gemini comparison runs on the Google AI Studio free tier, which the Gateway doesn't proxy:
-
-```ts
-import { google } from '@ai-sdk/google';
-google('gemini-2.5-flash')
-```
-
-`GOOGLE_GENERATIVE_AI_API_KEY` is only needed if you actually exercise the Gemini choice in the model picker.
+- `GOOGLE_GENERATIVE_AI_API_KEY` is **not** needed — Gemini also routes through the gateway on `AI_GATEWAY_API_KEY`.
 
 ---
 
