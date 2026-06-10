@@ -28,13 +28,24 @@ export default async function EvalPage() {
 
   if (!latest) {
     return (
-      <div className="container mx-auto max-w-6xl px-4 py-8">
+      <div className="container mx-auto max-w-6xl px-4 py-8 sm:py-12">
         <Header total={0} />
-        <Card>
-          <CardContent className="py-10 text-center text-sm text-muted-foreground">
-            No eval runs yet. Run <code>pnpm eval</code> after dropping
-            <code className="mx-1">ANTHROPIC_API_KEY</code> into <code>.env.local</code> to
-            populate this page.
+        <Card className="mt-6">
+          <CardContent className="flex flex-col items-center justify-center gap-3 py-16 text-center">
+            <span className="flex size-11 items-center justify-center rounded-full bg-muted text-muted-foreground">
+              <svg viewBox="0 0 24 24" className="size-5" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                <path d="M3 3v18h18" />
+                <path d="m19 9-5 5-4-4-3 3" />
+              </svg>
+            </span>
+            <div className="max-w-md space-y-1">
+              <p className="text-sm font-medium text-foreground">No eval runs yet</p>
+              <p className="text-sm text-muted-foreground">
+                Run <CodeChip>pnpm eval</CodeChip> after dropping{' '}
+                <CodeChip>ANTHROPIC_API_KEY</CodeChip> into <CodeChip>.env.local</CodeChip> to
+                populate this page.
+              </p>
+            </div>
           </CardContent>
         </Card>
       </div>
@@ -52,17 +63,20 @@ export default async function EvalPage() {
   for (const f of fixtures) fixtureTitles[f.nctId] = f.briefTitle;
 
   return (
-    <div className="container mx-auto max-w-6xl px-4 py-8 space-y-6">
+    <div className="container mx-auto max-w-6xl px-4 py-8 space-y-6 sm:py-12">
       <Header total={results.length} />
 
       <Card>
-        <CardHeader>
-          <CardTitle className="text-base">
-            Latest run — <code className="text-xs">{latest.runId}</code>
+        <CardHeader className="border-b pb-4">
+          <CardTitle className="flex flex-wrap items-center gap-2 text-base">
+            Latest run
+            <code className="rounded bg-muted px-1.5 py-0.5 font-mono text-xs font-normal text-muted-foreground">
+              {latest.runId}
+            </code>
           </CardTitle>
         </CardHeader>
-        <CardContent className="space-y-3">
-          <div className="flex flex-wrap gap-2 text-xs">
+        <CardContent className="space-y-4 pt-1">
+          <div className="flex flex-wrap gap-1.5 text-xs">
             <Pill>{latest.model}</Pill>
             <Pill>mode {latest.mode}</Pill>
             <Pill>schema {latest.schemaVersion}</Pill>
@@ -85,7 +99,7 @@ export default async function EvalPage() {
               {FIELD_LABELS.map(([key, label]) => (
                 <TableRow key={key}>
                   <TableCell className="font-medium">{label}</TableCell>
-                  <TableCell className="text-right tabular-nums">
+                  <TableCell className={`text-right tabular-nums font-medium ${scoreTextTone(latest.aggregate[key])}`}>
                     {latest.aggregate[key].toFixed(3)}
                   </TableCell>
                   <TableCell>
@@ -99,10 +113,10 @@ export default async function EvalPage() {
       </Card>
 
       <Card>
-        <CardHeader>
+        <CardHeader className="border-b pb-4">
           <CardTitle className="text-base">Per-trial breakdown</CardTitle>
         </CardHeader>
-        <CardContent>
+        <CardContent className="pt-1">
           <TrialBreakdown
             perTrial={latest.perTrial}
             fixtureTitles={fixtureTitles}
@@ -113,10 +127,10 @@ export default async function EvalPage() {
 
       {results.length > 1 && (
         <Card>
-          <CardHeader>
+          <CardHeader className="border-b pb-4">
             <CardTitle className="text-base">Run history (most recent first)</CardTitle>
           </CardHeader>
-          <CardContent>
+          <CardContent className="pt-1">
             <Table>
               <TableHeader>
                 <TableRow>
@@ -157,30 +171,45 @@ export default async function EvalPage() {
 
 function Header({ total }: { total: number }) {
   return (
-    <header className="mb-2 flex items-end justify-between gap-4">
-      <div>
-        <h1 className="text-2xl font-semibold tracking-tight">Eval results</h1>
-        <p className="text-sm text-muted-foreground">
-          {total === 0
-            ? 'No runs yet.'
-            : `${total} run${total === 1 ? '' : 's'} in evals/results.json (append-only).`}
-        </p>
-      </div>
-      <nav className="flex items-center gap-3 text-sm">
-        <Link href="/" className="underline-offset-4 hover:underline">
-          ← Extractor
-        </Link>
-      </nav>
+    <header className="flex flex-col gap-2">
+      <Link
+        href="/"
+        className="inline-flex w-fit items-center gap-1 text-xs font-medium text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring/50 rounded"
+      >
+        <span aria-hidden>←</span> Extractor
+      </Link>
+      <h1 className="text-3xl font-semibold tracking-tight">Eval results</h1>
+      <p className="text-base leading-relaxed text-muted-foreground">
+        {total === 0
+          ? 'No runs yet.'
+          : `${total} run${total === 1 ? '' : 's'} in evals/results.json (append-only).`}
+      </p>
     </header>
+  );
+}
+
+function CodeChip({ children }: { children: React.ReactNode }) {
+  return (
+    <code className="rounded bg-muted px-1.5 py-0.5 font-mono text-xs text-foreground">
+      {children}
+    </code>
   );
 }
 
 function Pill({ children }: { children: React.ReactNode }) {
   return (
-    <span className="rounded-full bg-zinc-100 px-2 py-1 text-zinc-700 dark:bg-zinc-800 dark:text-zinc-300">
+    <span className="rounded-full border border-border bg-secondary px-2.5 py-1 font-medium text-secondary-foreground">
       {children}
     </span>
   );
+}
+
+function scoreTextTone(value: number) {
+  return value >= 0.85
+    ? 'text-emerald-600 dark:text-emerald-400'
+    : value >= 0.6
+      ? 'text-amber-600 dark:text-amber-400'
+      : 'text-red-600 dark:text-red-400';
 }
 
 function ScoreBar({ value }: { value: number }) {
@@ -192,8 +221,11 @@ function ScoreBar({ value }: { value: number }) {
         ? 'bg-amber-500'
         : 'bg-red-500';
   return (
-    <div className="h-2 w-full overflow-hidden rounded-full bg-zinc-200 dark:bg-zinc-800">
-      <div className={`h-full ${color}`} style={{ width: `${pct}%` }} />
+    <div className="h-2 w-full overflow-hidden rounded-full bg-muted ring-1 ring-inset ring-border">
+      <div
+        className={`h-full rounded-full transition-[width] duration-500 ease-out ${color}`}
+        style={{ width: `${pct}%` }}
+      />
     </div>
   );
 }

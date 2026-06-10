@@ -53,78 +53,114 @@ export default function SearchPage() {
   }
 
   return (
-    <div className="container mx-auto max-w-3xl px-4 py-8">
-      <header className="mb-8 flex items-end justify-between gap-4">
-        <div>
-          <h1 className="text-2xl font-semibold tracking-tight">Semantic Search</h1>
-          <p className="text-sm text-muted-foreground">
-            Find similar trials using{' '}
-            <strong>text-embedding-3-small</strong> embeddings + cosine similarity.
-          </p>
-        </div>
-        <Link href="/" className="text-sm underline-offset-4 hover:underline">
-          ← Extractor
+    <div className="container mx-auto max-w-3xl px-4 py-8 sm:py-12">
+      <header className="mb-8 flex flex-col gap-2 sm:mb-10">
+        <Link
+          href="/"
+          className="inline-flex w-fit items-center gap-1 text-xs font-medium text-muted-foreground transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring/50 rounded"
+        >
+          <span aria-hidden>←</span> Extractor
         </Link>
+        <h1 className="text-3xl font-semibold tracking-tight">Semantic Search</h1>
+        <p className="text-base leading-relaxed text-muted-foreground">
+          Find similar trials using{' '}
+          <strong className="font-semibold text-foreground">text-embedding-3-small</strong>{' '}
+          embeddings + cosine similarity.
+        </p>
       </header>
 
       <Card className="mb-6">
-        <CardHeader>
-          <CardTitle>Query</CardTitle>
+        <CardHeader className="border-b pb-4">
+          <CardTitle className="text-base">Query</CardTitle>
         </CardHeader>
-        <CardContent className="space-y-4">
+        <CardContent className="space-y-4 pt-1">
           <div className="flex flex-wrap gap-2">
             {EXAMPLES.map((q) => (
               <button
                 key={q}
                 onClick={() => setQuery(q)}
-                className="rounded-full border border-input px-3 py-1 text-xs hover:bg-accent"
+                className="rounded-full border border-border bg-card px-3 py-1.5 text-xs font-medium text-foreground/80 shadow-sm transition-colors hover:border-primary/40 hover:bg-accent hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring/50"
               >
                 {q}
               </button>
             ))}
           </div>
-          <div className="flex gap-2">
+          <div className="flex flex-col gap-2 sm:flex-row">
             <Input
               value={query}
               onChange={(e) => setQuery(e.target.value)}
               placeholder="e.g. pembrolizumab lung cancer Phase 2"
               onKeyDown={(e) => { if (e.key === 'Enter') onSearch(); }}
             />
-            <Button onClick={onSearch} disabled={loading}>
-              {loading ? 'Searching…' : 'Search'}
+            <Button size="lg" onClick={onSearch} disabled={loading} className="min-w-28 sm:shrink-0">
+              {loading ? (
+                <span className="inline-flex items-center gap-2">
+                  <Spinner />
+                  Searching…
+                </span>
+              ) : (
+                'Search'
+              )}
             </Button>
           </div>
           {error && (
-            <div className="rounded-md border border-red-300 bg-red-50 p-3 text-sm text-red-900 dark:border-red-700 dark:bg-red-950/50 dark:text-red-100">
-              {error}
+            <div className="flex items-start gap-2.5 rounded-lg border border-destructive/30 bg-destructive/5 p-3 text-sm text-destructive animate-rise dark:border-destructive/40 dark:bg-destructive/10">
+              <svg viewBox="0 0 24 24" className="mt-0.5 size-4 shrink-0" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                <circle cx="12" cy="12" r="10" />
+                <line x1="12" y1="8" x2="12" y2="12" />
+                <line x1="12" y1="16" x2="12.01" y2="16" />
+              </svg>
+              <span>{error}</span>
             </div>
           )}
         </CardContent>
       </Card>
 
+      {loading && !response && (
+        <Card className="animate-rise">
+          <CardContent className="space-y-3 py-5" aria-busy="true">
+            {[0, 1, 2, 3, 4].map((i) => (
+              <div key={i} className="flex items-center justify-between gap-4">
+                <div className="flex-1 space-y-2">
+                  <div className="skeleton h-3.5 w-28" />
+                  <div className="skeleton h-3 w-3/4" />
+                </div>
+                <div className="skeleton h-5 w-12 rounded-full" />
+              </div>
+            ))}
+          </CardContent>
+        </Card>
+      )}
+
       {response && (
-        <Card>
-          <CardHeader>
-            <CardTitle>
-              Top {response.results.length} results for &ldquo;{response.query}&rdquo;
+        <Card className="animate-rise">
+          <CardHeader className="border-b pb-4">
+            <CardTitle className="text-base">
+              Top {response.results.length} results for{' '}
+              <span className="text-primary">&ldquo;{response.query}&rdquo;</span>
             </CardTitle>
           </CardHeader>
-          <CardContent>
-            <ul className="space-y-3">
-              {response.results.map((r) => (
-                <li key={r.nctId} className="flex items-start justify-between gap-4">
-                  <div>
-                    <a
-                      href={`https://clinicaltrials.gov/study/${r.nctId}`}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="font-medium underline-offset-4 hover:underline"
-                    >
-                      {r.nctId}
-                    </a>
-                    <p className="text-sm text-muted-foreground">{r.title}</p>
+          <CardContent className="pt-1">
+            <ul className="divide-y divide-border">
+              {response.results.map((r, idx) => (
+                <li key={r.nctId} className="flex items-start justify-between gap-4 py-3 first:pt-1 last:pb-0">
+                  <div className="flex items-start gap-3">
+                    <span className="mt-0.5 flex size-5 shrink-0 items-center justify-center rounded-md bg-muted text-[11px] font-medium tabular-nums text-muted-foreground">
+                      {idx + 1}
+                    </span>
+                    <div>
+                      <a
+                        href={`https://clinicaltrials.gov/study/${r.nctId}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="font-mono text-sm font-medium text-primary underline-offset-4 hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring/50 rounded"
+                      >
+                        {r.nctId}
+                      </a>
+                      <p className="text-sm text-muted-foreground">{r.title}</p>
+                    </div>
                   </div>
-                  <span className="shrink-0 rounded-full bg-zinc-100 px-2 py-0.5 text-xs tabular-nums text-zinc-700 dark:bg-zinc-800 dark:text-zinc-300">
+                  <span className="shrink-0 rounded-full bg-primary/10 px-2.5 py-0.5 text-xs font-medium tabular-nums text-primary">
                     {(r.similarity * 100).toFixed(1)}%
                   </span>
                 </li>
@@ -134,5 +170,13 @@ export default function SearchPage() {
         </Card>
       )}
     </div>
+  );
+}
+
+function Spinner() {
+  return (
+    <svg viewBox="0 0 24 24" className="size-4 animate-spin" fill="none" stroke="currentColor" strokeWidth="2.5" aria-hidden>
+      <path d="M21 12a9 9 0 1 1-6.219-8.56" strokeLinecap="round" />
+    </svg>
   );
 }

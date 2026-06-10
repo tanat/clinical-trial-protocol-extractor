@@ -92,8 +92,8 @@ export function TrialBreakdown({
                 </TableCell>
               </TableRow>
               {isOpen && (
-                <TableRow className="bg-zinc-50 dark:bg-zinc-900/40">
-                  <TableCell colSpan={8}>
+                <TableRow className="bg-muted/40 hover:bg-muted/40">
+                  <TableCell colSpan={8} className="whitespace-normal">
                     <Detail trialId={t.trialId} row={t} groundTruth={groundTruthById[t.trialId]} />
                   </TableCell>
                 </TableRow>
@@ -124,19 +124,27 @@ function Detail({
       </div>
       <div className="grid gap-4 lg:grid-cols-2">
         <div>
-          <div className="mb-2 text-xs font-semibold uppercase text-muted-foreground">
-            per-field detail
+          <div className="mb-2 flex items-center gap-2 text-[11px] font-semibold uppercase tracking-wider text-muted-foreground">
+            <span>per-field detail</span>
+            <span className="h-px flex-1 bg-border" />
           </div>
-          <JsonTree value={row.perField} />
+          <div className="overflow-x-auto rounded-lg border border-border bg-card p-3">
+            <JsonTree value={row.perField} />
+          </div>
         </div>
         <div>
-          <div className="mb-2 text-xs font-semibold uppercase text-muted-foreground">
-            ground truth (normalized fixture)
+          <div className="mb-2 flex items-center gap-2 text-[11px] font-semibold uppercase tracking-wider text-muted-foreground">
+            <span>ground truth · normalized fixture</span>
+            <span className="h-px flex-1 bg-border" />
           </div>
           {groundTruth === null || groundTruth === undefined ? (
-            <div className="text-xs text-muted-foreground">No normalized ground truth on disk.</div>
+            <div className="rounded-lg border border-dashed border-border bg-card px-3 py-4 text-xs text-muted-foreground">
+              No normalized ground truth on disk.
+            </div>
           ) : (
-            <JsonTree value={groundTruth} />
+            <div className="overflow-x-auto rounded-lg border border-border bg-card p-3">
+              <JsonTree value={groundTruth} />
+            </div>
           )}
         </div>
       </div>
