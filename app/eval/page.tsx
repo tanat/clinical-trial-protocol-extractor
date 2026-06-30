@@ -42,7 +42,7 @@ export default async function EvalPage() {
               <p className="text-sm font-medium text-foreground">No eval runs yet</p>
               <p className="text-sm text-muted-foreground">
                 Run <CodeChip>pnpm eval</CodeChip> after dropping{' '}
-                <CodeChip>ANTHROPIC_API_KEY</CodeChip> into <CodeChip>.env.local</CodeChip> to
+                <CodeChip>AI_GATEWAY_API_KEY</CodeChip> into <CodeChip>.env.local</CodeChip> to
                 populate this page.
               </p>
             </div>
