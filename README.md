@@ -2,6 +2,8 @@
 
 **[Live demo →](https://clinical-trial-protocol-extractor.vercel.app)**
 
+![Extracting typed protocol fields from a trial description, scored against ground truth](docs/screenshot.png)
+
 > Extract typed protocol fields from ClinicalTrials.gov free-text descriptions, score the result against the same trial's structured ground truth, and keep the regression timeline in git.
 
 A reference implementation of structured extraction + eval methodology built on the Vercel AI SDK. All model traffic — Anthropic, OpenAI, and Google/Gemini — flows through Vercel AI Gateway (one `AI_GATEWAY_API_KEY`, no per-provider keys). Every meaningful prompt or schema change re-runs the eval harness and **appends** an entry to `evals/results.json`, so the regression history lives in `git diff` rather than a dashboard.
